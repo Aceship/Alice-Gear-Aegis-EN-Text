@@ -1,6 +1,0 @@
-﻿冷撃攻撃力が3%上昇する=Increases Cold Attack Power by 3%
-ハンマーを装備し、戦闘開始時もしくはSPスキル使用時、\n近接攻撃の速度が上昇する 12秒間継続 \nこの効果は条件を満たす限り再発動する=Equipped with a hammer, the speed of melee attack increases when combat starts or when SP skill is used. Continues for 12 seconds.
-脚部のクローアームで近接打撃を繰り出す ハンマー装備時の\nステップ性能が上昇し、ダメージ耐性を得る 15秒間継続=Uses the claw arm on the leg to perform a close-range hit. Step performance when equipped with a hammer is increased, and damage resistance is gained. Continues for 15 seconds.
-メドヴェーチノーガチ=Medvechi No Gachi
-冷却ビームを複数の照射レンズから連続発射する=Sequential firing of cooling beams from multiple illumination lenses
-ザミルザーニイルーチ=The Mill Zanirouch
