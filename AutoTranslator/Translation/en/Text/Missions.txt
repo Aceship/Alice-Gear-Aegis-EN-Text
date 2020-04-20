@@ -1,0 +1,87 @@
+ミッションなし=No mission
+
+
+sr:"(?<gear>.+)のギアを装備してクリア"="Clear mission with a <color%3D#FF2222FF>${gear}</color>"
+
+
+ライフル=Rifle
+バズーカ=Launcher
+デュアル=Dual Gun
+スナイパー=Sniper
+両手剣=2-Handed Sword
+ランス=Lance
+ハンマー=Hammer
+片手剣=1-Handed Sword
+拳銃=Pistol
+
+
+ギアスキルを使用してクリア=Clear mission using Gear skill once
+ギアスキルを使用せずにクリア=Clear mission without using Gear skill
+SPスキルを使用してクリア=Clear using an SP Skill once
+一人も倒れずにクリア=Clear mission with no casualties
+
+状態異常にならずにクリア=Clear without getting abnormal status
+
+sr:"(?<num_i>[0-9]+)秒以内にクリア"="Clear mission within <color%3D#FF2222FF>${num_i}</color> seconds"
+
+sr:"(?<enemy>.+)を(?<num_i>[0-9]+)体撃破"="Destroy <color%3D#FF2222FF>${num_i}</color> unit of [ <color%3D#FFAA22FF>${enemy}</color> ]"
+
+sr:"(?<time_i>[0-9]+)分以内に【(?<enemy>.+)】を(?<num_i>[0-9]+)体倒せ"="Destroy [<color%3D#FF6666FF>${num_i}</color>][<color%3D#FFAA22FF>${enemy}</color>] within ${time_i} minutes"
+
+サポーターを連れて行かずにクリア=Complete the mission without support from allied commanders
+SPスキルでボスにトドメを刺す=Complete the mission after neutralizing the Boss unit with an SP Skill attack
+チームメンバー2人以下でクリア=Complete the mission with a team of 2 Actresses or less
+[Person's full name in JP]がいるチームでクリア=Complete the mission with the specified Actress on the team
+[Number]以上のスコアを達成してクリア=Complete the mission with indicated score
+[Enemy type]を[Number]体撃破=Destroy the indicated amount of the indicated enemy type during the mission
+
+
+--in battle mission
+sr:"(?<time1_i>[0-9]+)分(?<time2_i>[0-9]+)秒以内に敵を全滅"="Eliminate all enemies within ${time1_i} Min. ${time2_i} Sec."
+sr:"(?<time1_i>[0-9]+)分以内に敵を全滅"="Eliminate all enemies within ${time1_i} minutes"
+sr:"(?<time1_i>[0-9]+)秒以内に敵を全滅"="Eliminate all enemies within ${time1_i} seconds"
+【シェル】GET！=[Shell] GET!
+
+--daily mission
+sr:"【誕生日限定】(?<actress>.+)を編成し\r\nて任務を1回クリアする"="[Birthday Special]\nComplete a mission with \n[${actress}] in team"
+
+sr:"(?<gear>.+)のクロスギアを装備して\r\n任務を5回クリアする"=Clear mission 5 times with \n${gear}
+シェルの解析を10個行う=Analyze 10 shells
+5回マルチプレイ（勝敗は問わない）\r\nを行う=Play 5 times multiplayer            (win or lose)
+ギアを5レベル強化する=Strengthen your gear by           5 levels
+報酬を受け取る=Receive
+全タブ一括受取=Collect all tabs
+達成済みのミッションは現在ありません=There are currently no missions completed
+達成可能なミッションは現在ありません=There are currently no achievable missions
+ノーマル=Normal
+デイリー=Daily
+
+達成済=Achieved
+挑戦中=In Progress
+
+--Achivement mission
+sr:"獲得したファン数の合計が(?<num_i>[0-9]+)\r\n人に到達する"="Reached ${num_i} fans in total"
+sr:"最大レベルに到達した★(?<num1_i>[0-9]+)キャラク\r\nターを(?<num2_i>[0-9]+)体所持する"="Have ${num2_i} ★${num1_i} characters           max leveled"
+sr:"コスチュームを(?<num_i>[0-9]+)着所持する"="Own ${num_i} costumes"
+sr:"調査任務を(?<num_i>[0-9]+)宙域クリアする"="Complete ${num_i} survey missions"
+sr:"調査任務の完全回避数が累計(?<num_i>[0-9]+)\r\n回に到達する"="Total of perfect evasion in survey missions reaches ${num_i}"
+sr:"ギアの合成を(?<num_i>[0-9]+)回行う"="Synthesize gear ${num_i} times"
+sr:"プレイヤーRank.(?<num_i>[0-9]+)に到達する"="Reach Player Rank.${num_i}"
+sr:"プレイヤーLv.(?<num_i>[0-9]+)に到達する"="Reach Player Lv.${num_i}"
+sr:"アクセサリーを(?<num_i>[0-9]+)個所持する"="Own ${num_i} accessories"
+sr:"ギアの進化を(?<num_i>[0-9]+)回行う"="Evolve gear ${num_i} times"
+sr:"シェルの解析を(?<num_i>[0-9]+)個行う"="Analyze ${num_i} shells"
+sr:"任務クリア回数が(?<num_i>[0-9]+)回に到達する"="Clear ${num_i} missions"
+sr:"最大レベルに到達したギアを(?<num_i>[0-9]+)個入\r\n手する"="Obtain ${num_i} max level gears"
+sr:"入手したアニマの累計量が\r\n(?<num_i>[0-9]+)に到達する"="Aqcuired Anima reaches ${num_i}"
+sr:"入手したゴールドの累計量が\r\n(?<num_i>[0-9]+)に到達する"="Aqcuired Gold reaches ${num_i}"
+sr:"累計ログイン日数が(?<num_i>[0-9]+)日に到\r\n達する"="Total login reaches ${num_i} days"
+sr:"マルチのクリア回数が(?<num_i>[0-9]+)回に到\r\n達する"="Total multi cleared reaches ${num_i} times"
+
+
+
+
+--story mission
+sr:"討伐任務:(?<num_i>[0-9]+)件目"="Subdue Mission : ${num_i}"
+
+

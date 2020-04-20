@@ -1,0 +1,33 @@
+sr:"(?<element>..)放出特化"="Emission Attunement: ${element}"
+sr:"(?<element>..)特質放出"="Emission Specialization: ${element}"
+sr:"(?<element>..)変質放出"="Emission Degeneration: ${element}"
+sr:"(?<element>..)出力変性"="Emission Alteration: ${element}"
+sr:"(?<element>..)出力特性"="Emission Affinity: ${element}"
+
+sr:"耐性： (?<element1>..)/(?<Stat1>.+)　(?<element2>..)/(?<Stat2>.+)　(?<element3>..)/(?<Stat3>.+)\n　(?<after>[\s\S]+)"="<color%3D#444444ff>Resistances</color>: \n ${element1} - ${Stat1}\n ${element2} - ${Stat2}\n ${element3} - ${Stat3}\n\n${after}"
+sr:"耐性：(?<element1>..)/(?<Stat1>.+)　(?<element2>..)/(?<Stat2>.+)　(?<element3>..)/(?<Stat3>.+)\n　(?<after>[\s\S]+)"="<color%3D#444444ff>Resistances</color>: \n ${element1} - ${Stat1}\n ${element2} - ${Stat2}\n ${element3} - ${Stat3}\n\n${after}"
+
+重力=<color%3D#792AEEFF>Gravity</color>
+電撃=<color%3D#6C7904FF>Electric</color>
+冷撃=<color%3D#008386FF>Freeze</color>
+焼夷=<color%3D#DE5B03FF>Heat</color>
+
+極大上昇=Maximizes
+
+絶大+上昇=Drasticly increase
+絶大上昇=Very large increase
+特大+上昇=Greatly Increases
+特大上昇=Moderately increased
+大上昇=Large increase
+
+
+絶大減少=Very large decrease
+特大減少=Greatly reduced
+大減少=Large decrease
+中減少=Moderate decrease
+小減少=Small decrease
+減少=Decrease
+
+
+sr:"(?<element>..)攻撃力が (?<Stat>.+)する"="${Stat} ${element} damages"
+sr:"(?<element>..)攻撃力が (?<Stat>.+)するが、防御力が低下する"="${Stat} ${element} damages,\n at the cost of lowered defense"

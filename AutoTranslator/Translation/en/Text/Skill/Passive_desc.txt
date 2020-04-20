@@ -1,0 +1,67 @@
+
+ライフルを装備時、射撃攻撃力が極大上昇する=Maximal increase to ranged damage when a Rifle is equipped.\n(+30% ranged damage)
+バズーカを装備時、射撃攻撃力が極大上昇する=Maximal increase to ranged damage when a Launcher is equipped.\n(+30% ranged damage)
+デュアルを装備時、射撃攻撃力が極大上昇する=Maximal increase to ranged damage when Dual Guns are equipped.\n(+30% ranged damage)
+スナイパーを装備時、射撃攻撃力が極大上昇する=Maximal increase to ranged damage when a Sniper Rifle is equipped.\n(+30% ranged damage)
+両手剣を装備時、近接攻撃力が極大上昇する=Maximal increase to melee damage when a Two-Handed Sword is equipped.\n(+30% melee damage)
+ハンマーを装備時、近接攻撃力が極大上昇する=Maximal increase to melee damage when a Hammer is equipped.\n(+30% melee damage)
+片手剣を装備時、近接攻撃力が極大上昇する=Maximal increase to melee damage when a One-Handed Sword is equipped.\n(+30% melee damage)
+拳銃を装備時、近接攻撃力が極大上昇する=Maximal increase to melee damage when a Pistol is equipped.\n(+30% melee damage)
+ライフルを装備時、射撃攻撃力が絶大上昇する=Very large increase to ranged damage when a Rifle is equipped.\n(+25% ranged damage)
+バズーカを装備時、射撃攻撃力が絶大上昇する=Very large increase to ranged damage when a Launcher is equipped.\n(+25% ranged damage)
+デュアルを装備時、射撃攻撃力が絶大上昇する=Very large increase to ranged damage when Dual Guns are equipped.\n(+25% ranged damage)
+スナイパーを装備時、射撃攻撃力が絶大上昇する=Very large increase to ranged damage when a Sniper Rifle is equipped.\n(+25% ranged damage)
+両手剣を装備時、近接攻撃力が絶大上昇する=Very large increase to melee damage when a Two-Handed Sword is equipped.\n(+25% melee damage)
+ハンマーを装備時、近接攻撃力が絶大上昇する=Very large increase to melee damage when a Hammer is equipped.\n(+25% melee damage)
+ランスを装備時、近接攻撃力が絶大上昇する=Very large increase to melee damage when a Lance is equipped.\n(+25% melee damage)
+片手剣を装備時、近接攻撃力が絶大上昇する=Very large increase to melee damage when an One-Handed Sword is equipped.\n(+25% melee damage)
+拳銃を装備時、近接攻撃力が絶大上昇する=Very large increase to melee damage when a Pistol is equipped.\n(+25% melee damage)
+ライフルを装備時、射撃攻撃力が大上昇する=Large increase to ranged damage when a Rifle is equipped.\n(+15% ranged damage)
+バズーカを装備時、射撃攻撃力が大上昇する=Large increase to ranged damage when a Launcher is equipped.\n(+15% ranged damage)
+デュアルを装備時、射撃攻撃力が大上昇する=Large increase to ranged damage when Dual Guns are equipped.\n(+15% ranged damage)
+スナイパーを装備時、射撃攻撃力が大上昇する=Large increase to ranged damage when a Sniper Rifle is equipped.\n(+15% ranged damage)
+
+両手剣を装備時、近接攻撃力が大上昇する=Large increase to melee damage when a Two-Handed Sword is equipped.\n(+15% melee damage)
+ハンマーを装備時、近接攻撃力が大上昇する=Large increase to melee damage when a Hammer is equipped.\n(+15% melee damage)
+ランスを装備時、近接攻撃力が大上昇する=Large increase to melee damage when a Lance is equipped.\n(+15% melee damage)
+片手剣を装備時、近接攻撃力が大上昇する=Large increase to melee damage when a One-Handed Sword is equipped.\n(+15% melee damage)
+拳銃を装備時、近接攻撃力が大上昇する=Large increase to melee damage when a Pistol is equipped.\n(+15% melee damage)
+ライフルを装備時、射撃攻撃力が中上昇する=Moderate increase to ranged damage when a Rifle is equipped.\n(+10% ranged damage)
+バズーカを装備時、射撃攻撃力が中上昇する=Moderate increase to ranged damage when a Launcher is equipped.\n(+10% ranged damage)
+デュアルを装備時、射撃攻撃力が中上昇する=Moderate increase to ranged damage when Dual Guns are equipped.\n(+10% ranged damage)
+スナイパーを装備時、射撃攻撃力が中上昇する=Moderate increase to ranged damage when a Sniper Rifle is equipped.\n(+10% ranged damage)
+両手剣を装備時、近接攻撃力が中上昇する=Moderate increase to melee damage when a Two-Handed Sword is equipped.\n(+10% melee damage)
+ハンマーを装備時、近接攻撃力が中上昇する=Moderate increase to melee damage when a Hammer is equipped.\n(+10% melee damage)
+ランスを装備時、近接攻撃力が中上昇する=Moderate increase to melee damage when a Lance is equipped.\n(+10% melee damage)
+片手剣を装備時、近接攻撃力が中上昇する=Moderate increase to melee damage when an One-Handed Sword is equipped.\n(+10% melee damage)
+回復アクティブスキルの使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Restoration functions. Only applies to Arm Gear modules. 
+回復アクティブスキルの使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Restoration functions. Only applies to Leg Gear modules. 
+
+
+焼夷属性の近接攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Melee Attack functions. Only applies to Arm Gear modules. 
+焼夷属性の近接攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Melee Attack functions. Only applies to Leg Gear modules. 
+焼夷属性の攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Ranged Attack functions. Only applies to Arm Gear modules. 
+焼夷属性の攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Ranged Attack functions. Only applies to Leg Gear modules. 
+焼夷効果のバフ系アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Support functions. Only applies to Arm Gear modules. 
+焼夷効果のバフ系アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Heat-elemental Support functions. Only applies to Leg Gear modules. 
+
+冷撃属性の近接攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Melee Attack functions. Only applies to Arm Gear modules. 
+冷撃属性の近接攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Melee Attack functions. Only applies to Leg Gear modules. 
+冷撃属性の攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Ranged Attack functions. Only applies to Arm Gear modules. 
+冷撃属性の攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Ranged Attack functions. Only applies to Leg Gear modules. 
+冷撃効果のバフ系アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Support functions. Only applies to Arm Gear modules. 
+冷撃効果のバフ系アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Freeze-elemental Support functions. Only applies to Leg Gear modules. 
+
+電撃属性の近接攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Melee Attack functions. Only applies to Arm Gear modules. 
+電撃属性の近接攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Melee Attack functions. Only applies to Leg Gear modules. 
+電撃属性の攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Ranged Attack functions. Only applies to Arm Gear modules. 
+電撃属性の攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Ranged Attack functions. Only applies to Leg Gear modules. 
+電撃効果のバフ系アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Support functions. Only applies to Arm Gear modules. 
+電撃効果のバフ系アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Electric-elemental Support functions. Only applies to Leg Gear modules. 
+
+重力属性の近接攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Melee Attack functions. Only applies to Arm Gear modules. 
+重力属性の近接攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Melee Attack functions. Only applies to Leg Gear modules. 
+重力属性の攻撃アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Ranged Attack functions. Only applies to Arm Gear modules. 
+重力属性の攻撃アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Ranged Attack functions. Only applies to Leg Gear modules. 
+重力効果のバフ系アクティブスキル使用回数が上昇する\nトップスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Support functions. Only applies to Arm Gear modules. 
+重力効果のバフ系アクティブスキル使用回数が上昇する\nボトムスのギアスキルに適用される=Increases maximum usage count for Gravity-elemental Support functions. Only applies to Leg Gear modules. 

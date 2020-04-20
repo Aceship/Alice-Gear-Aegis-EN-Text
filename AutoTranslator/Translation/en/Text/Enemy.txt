@@ -1,0 +1,110 @@
+サーペント=Serpent
+ポイゾネルモス=Poisonel Moth
+エレクネルモス=Eleknel Moth
+グラヴィネルモス=Gravinel Moth
+ブレイズネルモス=Blazenel Moth
+フロストネルモス=Frostnel Moth
+セルケト=Serket
+セルケト特異型=Serket Special Type
+エレクセルケト=Elec Serket
+グラヴィセルケト=Gravi Serket
+ブレイズセルケト=Blaze Serket
+フロストセルケト=Frost Serket
+レントラー=Landler
+エレクレントラー=Elec Landler
+グラヴィレントラー=Gravi Landler
+ブレイズレントラー=Blaze Landler
+フロストレントラー=Frost Landler
+ケルベロス=Cerberus
+キャリアタートル=Carrier Turtle
+オベリスク=Obelisk
+キュクロプス=Cyclops
+ファルコン=Falcon
+リムルインバス=Rim Inverse
+ヒュドラ・クリサリス=Hydra Chrysalis
+オベリスク特異型=Obelisk Special Type
+エレクインバス=Elect Inverse
+グラヴィインバス=Grav Inverse
+ブレイズインバス=Blaze Inverse
+フロストインバス=Frost Inverse
+ウェルウィッチア=Welwitschia
+ウェルウィッチア・ボギー=Welwitschia Bogey
+バンブラ=Bumbler 
+バンブラ特異型=Bumbler Special Type
+エレクバンブラ=Elec Bumbler
+グラヴィバンブラ=Gravi Bumbler
+ブレイズバンブラ=Blaze Bumbler
+フロストバンブラ=Frost Bumbler
+VWヘヴィ=Vice Worker Heavy
+キュクロプス・クリサリス=Cyclops Chrysalis
+ケプリ=Kepuri
+
+
+--mini boss
+
+ヴァイスワーカー=Vice Worker
+VWハンマー=VW Hammer
+VWソード=VW Sword
+VWスナイプ=VW Sniper
+VWスプレッド=VW Spread
+VWシールド=VW Shield
+VWスキャッター=VW Scatter
+VWキャノン=VW Cannon
+
+-- zako
+
+ルイカ=Ruika
+ルイカ特異型=Ruika Special Type
+クリオス=Chryos
+クリオス特異型=Chryos Special Type
+ピナリア=Pinaria
+ピナリア特異型=Pinaria Special Type
+タラクサ=Taraxa
+タラクサ特異型=Taraxa Special Type
+ブラナイル=Buranell
+キエヌス=Kienus
+キエヌスラモラ=Kienus Ramora
+エルフラ=Erfra
+エルフラ特異型=Erfra Special Type
+メテフラ=Metefra
+メテフラ特異型=Metefra Special Type
+ラナイラ=Ranaira
+オクパド=Ocpad
+オクパド特異型=Ocpad Special Type
+プルテス=Purtes
+プルテス特異型=Purtes Special Type
+サイクド=Psycud
+タキプリ=Takipuri
+タキプリ特異型=Takipuri Special Type
+ハコプリ=Hakopuri
+タテプリ=Tatepuri
+アルテミー=Artemy
+フォアトロ=Forthro
+ミニサーペント=Mini Serpent
+サイクド特異型=Psycud Special Type
+ゾエア=Zoea
+サイクドAdv.=Psycud Adv.
+
+-boss skill
+
+
+クエーサー=Quasar
+ヘクスバースト=Hex Burst
+デッドライン=Deadline
+トラッカーワスプ=Tracker Wasp
+トラッカーワスプS=Tracker Wasp S
+トラッキングサン=Tracking Sun
+ウォークザドッグ=Walk The Dog
+ストームダイブ=Storm Dive
+レインボゥラウンド=Rainbow Round
+ヘリオススクリーム=Helios Scream
+アラウンドノーティ=Around Notice
+スロープトゥヘブン=Slope To Heaven
+クロスペネトレイト=Cross Penetrate
+サージアヘッド=Surge Head
+マンイーター=Man Eater
+リミットアタック(仮)=Limit Attack (Working Title)
+パーペチュアルペイン=Perpetual Pain
+リストリクトアンカー=Restricted Anchor
+インザケージ=In The Cage
+トルアンティクロック=Torque Anticlock

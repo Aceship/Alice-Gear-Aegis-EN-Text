@@ -1,0 +1,48 @@
+
+制圧ヘクスボーナス=Control hex bonus
+調査に必要なキー=Key required for investigation
+効果中のバフ=Buff in effect
+発動するバフ=Buff to activate
+ヘクス調査報酬=Hex survey reward
+調査依頼=Request Survey
+推奨Lv.=Rec Lv.
+調査済み=Explored
+調査宙域変更=Change Sector
+「カラット」もしくは「ゴールド」を支払い調査宙域を変更=Pay "Carat" or "Gold" Change survey sector
+宙域調査報酬=Sector survey reward
+コンプリート報酬=Complete reward
+宙域情報=Sector information
+調査開始=Start Survey
+
+完全回避達成=Perfect Evade
+累積報酬について=About cumulative reward
+
+-Req investigation
+調査報酬あり=With Rewards
+調査報酬なし=Without Rewards
+依頼=     Request
+現在のチーム=Current team
+
+既に調査宙域の変更が可能です=Survey sector already can be changed
+
+調査宙域を変更しますか？\n<color%3D#e61836ff>※未調査ヘクスの調査報酬は入手できません</color>\n<color%3D#e61836ff>※現在の宙域には戻れません</color>=\nDo you want to change the survey sector?\n\n<color%3D#e61836ff>* Survey rewads for unresearched hexes are not available</color>\n\n<color%3D#e61836ff>* You cannot return to the current space</color>
+
+「調査目録」もしくは「ゴールド」を消費して\nヘクスの調査を依頼しますか？=Would you like to spend your \n"Survey Catalog" or "Gold" \nand request a hex survey?
+
+
+-full bar 
+どのシェルを受け取りますか？=Which shell do you want to receive?
+AEGiSからの特別報酬=Special reward from AEGiS
+sr:"(?<Quest>.+) を受け取ります"="Receive [<color%3D#e61836ff>${Quest}</color>]"
+
+-regex  
+sr:"^(?<num_i>[0-9,]+)ゴールドを支払い\n調査宙域を変更しますか？\n<color%3D#e61836ff>※現在の宙域には戻れません</color>"="Pay ${num_i} Gold \nDo you want to change survey sector?\n<color%3D#e61836ff>* You cannot return to the current space</color>"
+sr:"^(?<num_i>[0-9,]+)カラットを支払い\n調査宙域を変更しますか？\n<color%3D#e61836ff>※現在の宙域には戻れません</color>"="Pay ${num_i} Carat \nDo you want to change survey sector?\n<color%3D#e61836ff>* You cannot return to the current space</color>"
+sr:"^(?<num_i>[0-9,]+)ゴールドを支払い\nヘクスの調査を依頼しますか？\n<color%3D#e61836ff>※調査報酬は入手できません</color>"="Would you like to pay\n${num_i} gold\nand request a hex survey?\n<color%3D#e61836ff>* Survey rewards are not available</color>"
+sr:"^「調査目録」を(?<num_i>[0-9,]+)個使用して\nヘクスの調査を依頼しますか？"="Would you like to request a survey of the hex \nusing the ${num_i} "Survey Catalog"?"
+
+
+-hex stage name
+ヴァイス討伐=Vice suppression
+警戒・遭遇戦=Alert・Encounter
+警報・大型特殊個体出現=Warning・Massive readings

@@ -1,0 +1,121 @@
+画面外の敵へ向きます=Face the enemy off screen
+ロック切り替えカーソル=Lock switching cursor
+
+※最大8文字\n※ゲーム開始後いつでも変更可能です=* Up to 8 characters \n* Can be changed at any time ingame
+名前入力=Enter name
+
+
+着替えましょう=Let's change the clothes 
+着替えましょう\n（ドラッグ操作でカメラ移動）=Let's change the clothes\n(Drag screen to move the camera)
+戦闘スーツを選択しましょう\n（ドラッグ操作でカメラ移動）=Let's select a battle suit\n(Drag screen to move the camera)
+服を決定しましょう=Let's decide the clothes
+ギアを装備しましょう\n（ドラッグ操作でカメラ移動）=Let's equip gears\n(Drag screen to move the camera)
+ギアを装備しましょう=Let's equip gears
+
+【ショット】【クロス】【トップス】【ボトムス】\nの４ヶ所にギアを装備しましょう=Let's equip gears in 4 places: \n[Shot] [Cross] [Tops] [Bottoms]
+ギアを決定しましょう=Let's decide the gear
+右に移動をする。=Move to the right.
+ターゲット=Target
+初陣のアナタに送る\nチュートリアルシステム！\r\n=Tutorial system to send to you in the first place!\r\n
+
+ナビゲーター=Navigator
+まずは基本の移動から\nはじめましょう\r\n=First from the basic movement\nLet's start\r\n
+カーソルキーまたはドラッグ操作で\n入力した方向へ移動できます\r\n=You can move with the cursor keys or drag \r\n
+それでは実際に移動してみましょう\r\n=Let's actually move!\r\n
+指定ポイントまで移動しましょう=Let's move to the specified point
+
+よくできました！\n筋がいいのかしら？\r\n=Good job!\nIs the instruction good?\r\n
+敵をとらえると、正面に\nロックオンカーソルが表示されます\r\n=When you catch an enemy, a lock-on cursor is displayed in front\r\n
+このときXキーまたは画面クリックで\n射撃攻撃を行います\r\n=At this time, shoot by pressing X key or screen click\r\n
+Xキーまたは画面クリックで射撃しましょう=Shoot with the X key or screen click
+
+すごいです！\n初めての撃破の気分はいかが？\r\n=It's amazing! How do you feel about destroying it for the first time?\r\n
+敵が近くに来たら\n近接武器で応戦しましょう\r\n=When an enemy comes near you, let's fight with a melee weapon\r\n
+Cキーまたは近接攻撃ボタンをクリックで\n近くの敵を攻撃できます\r\n=Attack nearby enemies by pressing C key or the melee attack button\r\n
+Cキーか近接攻撃ボタンクリックで近接攻撃=Melee with C key or melee button
+
+Xキーまたはクリックを長押し後に\nもう一度押すことで溜め撃ちができます\r\n=Hold down the X key or click and press again to shoot\r\n
+溜め撃ちは強力な攻撃です\n武器によって攻撃方法は違いますが\r\n=Charge is a powerful attack, attack differs depending on the weapon\r\n
+ライフルは複数の敵をロックオンして\n同時に攻撃することができます\r\n=Rifles can lock on multiple enemies and attack at the same time\r\n
+Xかクリック長押し後に再度押すと溜め撃ち=Hold X/click and press again to shoot
+
+基本のチュートリアルは以上です\nよいアクトレスライフをどうぞ！\r\n=The basic tutorial is over. Have a good actress life!\r\n
+提供は技術と信頼の【ヤシマ重工】が\nお送りしました\r\n=Provided by [Yashima Heavy Industries] of technology and trust.\r\n
+
+スキルを発動させます=Activates skills
+わたし、これが初戦闘なんすけど\n大丈夫ですかね？\r\n=This is my first battle, is it okay?\r\n
+あー、へーきへーき\r\n=Ah, no prob\r\n
+アリスギアをまとった\nアクトレスは無敵だっ!!\r\n=Actress wearing Alice Gear is invincible !!\r\n
+問題ないわ\r\n=No problem\r\n
+出現が予想されるのは\n小型ヴァイスだけの案件だから\r\n=Since it is a project only for small vices, it is expected to appear\r\n
+まさに雑魚だよ、雑魚！\r\n=It's just a small fish, small fish!\r\n
+わかりました！\n比良坂 夜露、覚悟決めます！\r\n=understood! Hirasaka yotsuyu, I'm determined!\r\n
+よーし！\nその意気、その意気！\r\n=Alright!\nThat spirit, that spirit!\r\n
+わっ！　なっ、なんすか!?\nなにが起きてるんですか？\r\n=Wow! What is going on? What is happening?\r\n
+うはーっ！\nボス、キターーーー！\r\n=Uhhhh!\nBoss, Kitah!\r\n
+イレギュラーの大型ヴァイスよ\n追加報酬のチャンスね\r\n=It ’s an irregular large vice, and it ’s an opportunity for additional rewards.\r\n
+必ず仕留めるわ！\r\n=I'll definitely stop it!\r\n
+了解～♪\n狙い撃つぜー\r\n=OK ~ ♪\nTake aim\r\n
+やっちゃえばいいんですね！\nわかりましたっ！\r\n=I just need to do it! I understand!\r\n
+必殺技を発動します=Activates Special Moves
+
+
+任務を受注しましょう=Let's start a mission
+受注する任務を選択しましょう=Select a mission to receive an order
+
+プレゼントを渡しましょう=Let's give a present
+プレゼントを選択しましょう=Choose a gift
+プレゼントを決定しましょう=Let's decide the present
+プレゼントの個数を決定しましょう=Let's decide the number of presents
+
+夜露のエピソードを確認しましょう=Let's check out Hirasaka yotsuyu episode
+エピソードを選択しましょう=Select an episode
+出撃アクトレスを編成しましょう=Let's organize the sortie actresses
+編成するスロットを選択しましょう=Select a slot to organize
+編成するアクトレスを選択しましょう=Select the actress to organize
+編成するアクトレスを決定しましょう=Let's decide the actress to organize
+準備完了！任務を受注しましょう=Ready! Let's start a mission
+
+サポーターを選択しましょう=Select a supporter
+出撃しましょう！=Let's sortie!
+フレンドサポート=Friend support
+フレンドの援護を受けます=Get support from friends
+作メンバーを変更します=Change the member
+メンバー交代=Member change
+
+ギアを強化しましょう=Strengthen your gear
+
+【強化】を押しましょう=Press [S+]/Strengthen
+【強化開始】を押しましょう=Press [Strengthen]
+
+アクトレスを強化しましょう=Enhance your actress
+強化するアクトレスを選択しましょう=Select the actress to strengthen
+【戻る】を押しましょう=Press [Back]
+【ーム ホ】を押しましょう=Let's Press [Home]
+
+隊長、AEGiSから特別報酬として\nスカウトカードが１０枚\n支給されました=Captain, AEGiS provided \n10 scout cards as a special reward
+アクトレスの\nスカウトをお願いします=Please scout Actresses
+アクトレスをスカウトしましょう=Scout actress
+
+
+チュートリアル=Tutorial
+スカウトカードを利用しましょう=Use a scout card
+
+所属アクトレスを増員するのも\n隊長の大事な任務です\nよろしくお願いします=It is also an important mission of the \ncaptain to increase the \nnumber of actresses.\nThank you.
+チュートリアルスカウト=Tutorial scout
+
+＜チュートリアルスカウト＞\nスカウトカード を 10 枚\n消費して実行します\nよろしいですか？=<Tutorial Scout> \nConsume 10 Scout Cards?
+スカウト！=Scout!
+
+シェルを手に入れました\n解析しましょう=Got the shell\nLet's analyze
+【解析】を押しましょう=Press [Analysis]
+解析するシェルを選択しましょう=Select a shell to analyze
+解析開始！=Start Analysis!
+
+以上で解析終了です\n\nシェルによって、解析時の\n消費エネルギー量が異なります=This is the end of analysis\n\nEnergy consumption during analysis\ndiffers depending on the shell
+希少なシェルほど充電にかかる\n時間も増加していきますので\n注意してください=Please note that the rarer the shell,\nthe longer it will take to charge
+
+
+
+
+
