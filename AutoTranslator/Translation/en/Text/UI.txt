@@ -602,6 +602,13 @@ OFF：Aボタンで決定\nON：Bボタンで決定=OFF: Confirm by the A button
 ゲームパッド=Game pad
 キーボード=keyboard
 
+割当解除=Unbind
+設定するキーを入力してください=Enter the key to set
+キーバインドを初期状態に戻しますか？=Do you want to return the key bindings to the initial state?
+入力したキー：=Entered key:
+キーが重複しています=Key already used
+sr:"既に【(?<key1>.+)】で使用されています\n【(?<key2>.+)】を解除しますか？"= Key already used in 【${key1}】\nDo you want to unbind 【${key2}】 ?
+
 -Misc Tab
 使いすぎストッパー=Overusage stopper
 ご家族安心設定=Family security setting
