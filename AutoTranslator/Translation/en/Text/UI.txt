@@ -9,12 +9,25 @@
 キャンセル=Cancel
 閉じる=Close
 次へ=Next
+やめる=Stop
+戻る=Cancel
+デフォルト=Default
+決定=Accept
 
 
 --Start Text
 キャッシュクリア=Clear Cache
 機種変更はこちら=Account
 (なるほど……)=(So ​​that's it……)
+
+--Download
+データのインストールをしますか?\n<color%3Dred>※差分確認のため、時間がかかる事があります</color>=Do you want to download all the data?\n<color%3Dred>* It may take some time to \nconfirm the difference.</color>
+いいえを選択しても、ゲームプレイは可能となり\n必須データはこの場で、必要データは随時インストールされます=Even if you select No, you can still play \nand the required data will be downloaded when necessary.
+※通信量が多くなるため、Wi-Fi環境推奨=* Wi-Fi environment is recommended \ndue to large download size
+
+sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインストールしますか？"="The download size is about <color%3Dred>${num_i}</color> MB\nDo you want to download it?"
+インストールが完了しました=Download complete
+
 
 --Common Text
 必要数=Req. Qty.
@@ -371,6 +384,9 @@ sr:"^(?<num_i>[0-9]+)時間"="${num_i}H"
 sr:"^(?<num1_i>[0-9]+)時間(?<num2_i>[0-9]+)分"="${num1_i}H ${num2_i}M"
 sr:"^(?<num_i>[0-9]+)分"="${num_i}M"
 
+
+sr:"^【(?<num_i>[0-9]+)分】(?<after>.+)"="【<color%3D#e24856>${num_i}</color> Min.】${after}"
+
 sr:"^残り充電時間は合計で\nあと (?<num1_i>[0-9]+)分 です\n\n<color%3D#e24856>(?<num2_i>[0-9]+)</color>カラットまたは解析でんち<color%3D#ff0000>(?<num3_i>[0-9]+)</color>個を\n消費して、依頼できるようにしますか？\n（所持カラット数：(?<num5_i>[0-9]+)　所持でんち数：(?<num6_i>[0-9]+)）"=${num1_i} minutes total charging time left\n\nUse <color%3D#ff0000>${num2_i}</color> Carats or <color%3D#ff0000>${num3_i}</color> Battery\nWould you like to pay and request it? \n(Carats Qty: ${num5_i}, Battery Qty: ${num6_i})
 sr:"^残り充電時間は合計で\nあと (?<num1_i>[0-9]+)分 です\n\n<color%3D#ff0000>(?<num2_i>[0-9]+)</color>カラットまたは解析でんち<color%3D#ff0000>(?<num3_i>[0-9]+)</color>個を\n消費して、依頼できるようにしますか？\n（所持カラット数：(?<num5_i>[0-9]+)　所持でんち数：(?<num6_i>[0-9]+)）"=${num1_i} minutes total charging time left\n\nUse <color%3D#ff0000>${num2_i}</color> Carats or <color%3D#ff0000>${num3_i}</color> Battery\nWould you like to pay and request it? \n(Carats Qty: ${num5_i}, Battery Qty: ${num6_i})
 sr:"^獲得 (?<num_i>[0-9]+) ゴールド"="Earn ${num_i} Gold"
@@ -404,6 +420,9 @@ SPゲージ=SP gauge
 スキル=Skill
 変更=Change
 スキル詳細=Skill details
+進化=Evo
+得意属性=Strong attribute
+得意=Good at
 
 既に他のキャラクターが使用中です=Already used by another character
 sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろしいですか？"="It's already equipped on\n[${actress}]\nAre you sure you\nwant to change it?"
@@ -413,6 +432,43 @@ sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろし�
 （対象キャラクターから装備が外れます）=(Current gears will be removed)
 ※他キャラクター装備中のギアが含まれています※=*Includes gears equipped with other characters*
 装備を変更します、よろしいですか？=Change equipment, are you sure?
+
+
+--Evolution 
+ギア整備室-進化=Gear Maintenance Room-Evolution
+進化するギアを選択してください=Choose an evolvable gear
+装備中のキャラはいません=No character is selected
+決 定=Select
+進化ツリー=Evolution tree
+アップグレードする=Upgrade
+全体的に調整をほどこしたアップグレード版\nレベル上限が引き上げられている=Upgraded level cap have been raised with overall adjustments
+本来保持されている機能を最大限に発揮するために\n機能拡張と再調整が行われたエンハンスモデル\n（この進化でレベル上限は変化しません）=Enhanced model that has been expanded and re-adjusted to maximize the originally retained function (the level upper limit does not change with this evolution)
+アレンジする=Arrange
+※LVが不足しているため進化できません=* Cannot evolve due to lack of level
+
+
+火力=Firepower
+射程=Range
+連射性能=Rapid fire
+必要素材=Required materials
+速度性能=Speed ​​performance
+最大HP=Maximum HP
+攻撃速度=Attack speed
+制空範囲=Air control range
+
+
+
+機能換装=Function Replace
+基本型=Basic
+機能拡張=Enhanced
+武装換装=Retrofit
+改良型=Improved
+試作型=Prototype
+強化型=Reinforced
+プロト=Proto
+テスト=Test
+カスタム=Custom
+
 
 -3DModels
 ギアを装備しましょう=Equip gear
@@ -427,11 +483,20 @@ sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろし�
 クロス=Cross
 ショット=Shot
 
+ロックされているため\n選択できません=Cannot be selected \n because it's locked 
+
 -frame expansion
 枠拡張する=+Slot
 枠拡張=Slot expansion
 sr:"※最大(?<num_i>[0-9]+)枠まで拡張できます"=* Expandable up to ${num_i} Slot
 カラットを消費して\nギア所持枠を5枠単位で拡張します=Consumes carats and expands gear inventory by 5
+
+-sell
+
+★3以上のレアリティのギアが含まれています\n\n本当によろしいですか？=Contains gears that are ★3 or more \n\nAre you really sure?
+sr:"選択中のギアをまとめて売却しますか？\n獲得：(?<num1_i>.+)メダル　/　<color%3D#585858>(?<num2_i>.+)</color>ゴールド"="Would you like to sell all the selected gears? \nAqcuire: ${num1_i} medals / <color%3D#585858>${num2_i}</color> Gold"
+ギアを売却しました=Gears has been sold
+
 
 -- Gacha UI
 スカウト=Scout
