@@ -54,3 +54,6 @@
 封鎖宙域　ユウダチ=Restricted Sector Yuudachi
 封鎖宙域　ナガラ=Restricted Sector Nagara
 封鎖宙域　ヒエイ=Restricted Sector Hiei
+封鎖宙域　イナヅマ=Restricted Sector Inazuma
+封鎖宙域　イカヅチ=Restricted Sector Ikazuchi
+封鎖宙域　アシガラ=Restricted Sector Ashigara

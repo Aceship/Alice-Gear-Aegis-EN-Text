@@ -1,0 +1,138 @@
+--Material shell
+入手場所=Where to find
+
+sr:"★(?<num_i>[0-9])の”(?<material>.+)”を解析し一定確率で入手"="Analyzing ${num_i}★ [${material}] with certain chance"
+sr:"★(?<num_i>[0-9])の”マテリアルシェル”を解析し一定確率で入手"="Analyzing ${num_i}★ [Material Shell] with certain chance"
+
+マテリアルシェル=Material shell
+マテリアルシェルV=Material shell V
+マテリアルシェルVW=Material shell VW
+マテリアルシェルGV=Material shell GV
+マテリアルシェルGV/E=Material shell GV/<color%3D#6C7904FF>E</color>
+マテリアルシェルGV/H=Material shell GV/<color%3D#DE5B03FF>H</color>
+マテリアルシェルGV/G=Material shell GV/<color%3D#792AEEFF>G</color>
+マテリアルシェルGV/F=Material shell GV/<color%3D#008386FF>F</color>
+
+マテリアルシェルE/E=Material shell E/<color%3D#6C7904FF>E</color>
+マテリアルシェルE/H=Material shell E/<color%3D#DE5B03FF>H</color>
+マテリアルシェルE/G=Material shell E/<color%3D#792AEEFF>G</color>
+マテリアルシェルE/F=Material shell E/<color%3D#008386FF>F</color>
+
+sr:"マテリアルシェル(?<enemy_i>..)"="Material shell ${enemy_i}"
+sr:"マテリアルシェル(?<enemy_i>..)/(?<element_i>.)"="Material shell ${enemy_i}/${element_i}"
+sr:"マテリアルシェル(?<enemy_i>..)/NV"="Material shell ${enemy_i}/NV"
+
+--Material
+
+-normal material
+-1★
+V・フレーム=V・Frame
+ヴァイスの骨組みの一部=Part of the vice's framework
+V・クラスト=V・Crust
+ヴァイスの外殻の一部=Part of the vice's outer shell
+V・ハーネス=V・Harness
+ヴァイスのケーブルの一部=Part of the vice's cable
+V・ディフューザ=V・Diffuser
+ヴァイスの減衰機の一部=Part of the vice's Attenuator
+
+-2★
+HV・フレーム=HV・Frame
+ヴァイスの骨組みの中心の一部=Part of the vice's central framework
+HV・クラスト=HV・Crust
+ヴァイスの特に堅牢な外殻の一部=Part of the vice's solid outer shell
+HV・ハーネス=HV・Harness
+ヴァイスの特に強力なケーブルの一部=Part of the vice's powerful cables
+HV・ディフューザ=HV・Diffuser
+ヴァイスの特に強力な減衰機の一部=Part of the vice's powerful attenuators
+
+-3★
+V・ジェネレータ=V・Generator
+ヴァイスの動力機関の一部=Part of the vice's power engine
+V・集積回路=V・Integrated circuit
+ヴァイスの頭脳たるプロセッサの一部=Part of the Vice's brain processor
+
+-4★
+HV・ジェネレータ=HV・Generator
+ヴァイスの特に強力な動力機関の一部=Part of vice's powerful power engine
+V・高性能集積回路=V・High-performance IC
+ヴァイスの頭脳のうち\n処理能力が非常に高い部分=Very high processing capacity of vice's brain
+
+-multi material
+
+V・スケール=V・Scale
+V・タスク=V・Tusk
+VW・スケール=VW・Scale
+VW・タスク=VW・Tusk
+GV・ネータ=GV・Discriminator
+GV・レンズ=GV・Lens
+GV・レンズE=GV・Lens E
+GV・レンズF=GV・Lens F
+GV・レンズG=GV・Lens G
+GV・レンズH=GV・Lens H
+
+sr:"Vバルブ(?<Item_i>[EGHF])"="V-Valve ${Item_i}"
+sr:"Vアンプ(?<Item_i>[EGHF])"="V-Amplifier ${Item_i}"
+
+Li・クエンチ=Li・Quench
+Li・ダンプ=Li・Dampener
+
+Fa・カソード=Fa・Cathode
+Fa・パース=Fa・Perspective
+
+Ob・テンプ=Ob・Gyro
+Ob・ビオトープ=Ob・Biotope
+
+Sk・ウインチNV=Sk・Winch NV
+Sk・サイリスタNV=Sk・Thyristor NV
+
+Cy・ピボット=Cy・Pivot
+Cy・アイズ=Cy・Eyes
+
+Ce・プレクサ=Ce・Plexer
+Ce・ハプティクス=Ce・Haptics
+
+sr:"^(?<enemy_i>..)・アンクル$"="${enemy_i}・Anchor"
+sr:"^(?<enemy_i>..)・アンクル(?<Item_i>[EGHF])$"="${enemy_i}・Anchor ${Item_i}"
+
+sr:"^(?<enemy_i>..)・ラダー$"="${enemy_i}・Rudder"
+sr:"^(?<enemy_i>..)・ラダー(?<Item_i>[EGHF])$"="${enemy_i}・Rudder ${Item_i}"
+
+sr:"^(?<enemy_i>..)・フラップ$"="${enemy_i}・Flap"
+sr:"^(?<enemy_i>..)・フラップ(?<Item_i>[EGHF])$"="${enemy_i}・Flap ${Item_i}"
+
+sr:"^(?<enemy_i>..)・インバータ$"="${enemy_i}・Inverter"
+sr:"^(?<enemy_i>..)・インバータ(?<Item_i>[EGHF])$"="${enemy_i}・Inverter ${Item_i}"
+
+sr:"^(?<enemy_i>..)・ラチェット$"="${enemy_i}・Rachet"
+sr:"^(?<enemy_i>..)・ラチェット(?<Item_i>[EGHF])$"="${enemy_i}・Rachet ${Item_i}"
+
+sr:"^(?<enemy_i>..)・デテクタ$"="${enemy_i}・Detector"
+sr:"^(?<enemy_i>..)・デテクタ(?<Item_i>[EGHF])$"="${enemy_i}・Detector ${Item_i}"
+
+sr:"^(?<enemy_i>..)・ヒューズ$"="${enemy_i}・Fuse"
+sr:"^(?<enemy_i>..)・ヒューズ(?<Item_i>[EGHF])$"="${enemy_i}・Fuse ${Item_i}"
+
+sr:"^(?<enemy_i>..)・カーネル$"="${enemy_i}・Kernel"
+sr:"^(?<enemy_i>..)・カーネル(?<Item_i>[EGHF])$"="${enemy_i}・Kernel ${Item_i}"
+
+
+
+sr:"
+-description
+
+ヴァイスワーカーの外殻の一部=Part of the vice worker's outer shell
+ヴァイスワーカーの骨組みの一部=Part of the vice worker's framework 
+ヴァイスのセンサ部分の一部=Part of vice sensor parts
+sr:"^ヴァイスのセンサ部分の一部\n【(?<element>..)】属性の特性を多く含んでいる"="Part of vice sensor parts\nContains large amount of 【${element}】 attribute"
+sr:"ギアを進化させるために必要な素材。\n【(?<element>..)】属性の特性を多く含んでいる。\n【ギア進化用素材】"=Materials needed to evolve gears.\nContains large amount of 【${element}】 attribute.\n[Material for gear evolution]
+
+sr:"^(?<enemy>.+)の特に強力な動力機関の一部"="Part of <color%3D#3f58d9ff>${enemy}</color>'s powerful power engine"
+sr:"^(?<enemy>.+)の動力機関の一部"="Part of <color%3D#3f58d9ff>${enemy}</color>'s power engine"
+sr:"^(?<enemy>.+)の中枢機関の一部"="Part of <color%3D#3f58d9ff>${enemy}</color>'s central mechanism"
+
+
+sr:"^(?<enemy>.+)の強力な動力機関の一部\n【(?<element>..)】属性の特性を多く含んでいる"="Part of <color%3D#3f58d9ff>${enemy}</color>'s powerful power engine\nContains large amount of 【${element}】 attribute"
+sr:"^(?<enemy>.+)の繊細な中枢機関の一部\n【(?<element>..)】属性の特性を多く含んでいる"="Part of <color%3D#3f58d9ff>${enemy}</color>'s delicate central mechanism\nContains large amount of 【${element}】 attribute"
+
+
+

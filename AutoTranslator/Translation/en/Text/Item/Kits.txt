@@ -1,0 +1,68 @@
+アイテム詳細=Item details
+
+斬撃=Slash
+打撃=Blow
+エネルギー弾=Energy bullet
+実弾=Live bullet
+
+--Kit Name
+電撃強化キットE1=Electric Enhancement Kit E1
+電撃強化キットE2=Electric Enhancement Kit E2
+電撃強化キットE3=Electric Enhancement Kit E3
+
+重力強化キットG1=Gravity Enhancement Kit G1
+重力強化キットG2=Gravity Enhancement Kit G2
+重力強化キットG3=Gravity Enhancement Kit G3
+
+焼夷強化キットH1=Incendiary Enhancement Kit H1
+焼夷強化キットH2=Incendiary Enhancement Kit H2
+焼夷強化キットH3=Incendiary Enhancement Kit H3
+
+冷撃強化キットF1=Freeze Enhancement Kit F1
+冷撃強化キットF2=Freeze Enhancement Kit F2
+冷撃強化キットF3=Freeze Enhancement Kit F3
+
+
+防御制御チューンL1=Defense Tune Control L1
+防御制御チューンL2=Defense Tune Control L2
+防御制御チューンL3=Defense Tune Control L3
+
+
+HP制御チューンL1=HP Tune Control L1
+HP制御チューンL2=HP Tune Control L2
+HP制御チューンL3=HP Tune Control L3
+
+近接強化キットSL1=Proximity Enhancement Kit SL1
+近接強化キットSL2=Proximity Enhancement Kit SL2
+近接強化キットSL3=Proximity Enhancement Kit SL3
+
+近接強化キットBL1=Proximity Enhancement Kit BL1
+近接強化キットBL2=Proximity Enhancement Kit BL2
+近接強化キットBL3=Proximity Enhancement Kit BL3
+
+射撃強化キットEN1=Shooting Enhancement Kit EN1
+射撃強化キットEN2=Shooting Enhancement Kit EN2
+射撃強化キットEN3=Shooting Enhancement Kit EN3
+
+射撃強化キットPH1=Shooting Enhancement Kit PH1
+射撃強化キットPH2=Shooting Enhancement Kit PH2
+射撃強化キットPH3=Shooting Enhancement Kit PH3
+
+SPチャージHPL1=SP Charge HPL1
+SPチャージHPL2=SP Charge HPL2
+SPチャージHPL3=SP Charge HPL3
+
+sr:"^強化キット(?<effect_i>..)/(?<element_i>.[0-9])$"="Enhancement Kit ${effect_i}/${element_i}"
+
+--Kit Description
+
+sr:"バトル中、奇数エリア移動時に\n(?<time_i>[0-9]+)秒間、(?<element>..)攻撃力が(?<num_i>[0-9]+)%上昇\n同系統効果と重複しない"=${element} attack power increased by ${num_i}%\nfor ${time_i} seconds when moving into\nodd-numbered area\nDoes not stack with other similiar effects
+sr:"バトル中、偶数エリア移動時に\n(?<time_i>[0-9]+)秒間、(?<element>..)攻撃力が(?<num_i>[0-9]+)%上昇\n同系統効果と重複しない"=${element} attack power increased by ${num_i}%\nfor ${time_i} seconds when moving into\neven-numbered area\nDoes not stack with other similiar effects
+
+
+sr:"バトル中、HPが50%以下になると\nSPゲージを(?<num_i>[0-9]+)%チャージする\n出撃毎で1回 同効果の重複可能"= When HP is 50% or less,\nSP Gauge is charged for ${num_i}%\nCan be stacked with other similiar effects
+
+sr:"^(?<element>..)攻撃力が(?<num_i>[0-9]+)%上昇する"="Increase ${element} attack power by ${num_i}%"
+sr:"^エネルギー弾攻撃力が(?<num_i>[0-9]+)%上昇する"="Increase Energy bullets attack power by ${num_i}%"
+sr:"^基礎防御力が(?<num_i>[0-9]+)%上昇する"="Increases base defense by ${num_i}%"
+sr:"^最大HPが(?<num_i>[0-9]+)%上昇する"="Increases maximum HP by ${num_i}%"
