@@ -60,7 +60,7 @@ sr:"バトル中、奇数エリア移動時に\n(?<time_i>[0-9]+)秒間、(?<ele
 sr:"バトル中、偶数エリア移動時に\n(?<time_i>[0-9]+)秒間、(?<element>..)攻撃力が(?<num_i>[0-9]+)%上昇\n同系統効果と重複しない"=${element} attack power increased by ${num_i}%\nfor ${time_i} seconds when moving into\neven-numbered area\nDoes not stack with other similiar effects
 
 
-sr:"バトル中、HPが50%以下になると\nSPゲージを(?<num_i>[0-9]+)%チャージする\n出撃毎で1回 同効果の重複可能"= When HP is 50% or less,\nSP Gauge is charged for ${num_i}%\nCan be stacked with other similiar effects
+sr:"バトル中、HPが50%以下になると\nSPゲージを(?<num_i>[0-9]+)%チャージする\n出撃毎で1回 同効果の重複可能"=When HP is 50% or less,\nSP Gauge is charged for ${num_i}%\nCan only be activated once per battle\nCan be stacked with other similiar effects
 
 sr:"^(?<element>..)攻撃力が(?<num_i>[0-9]+)%上昇する"="Increase ${element} attack power by ${num_i}%"
 sr:"^エネルギー弾攻撃力が(?<num_i>[0-9]+)%上昇する"="Increase Energy bullets attack power by ${num_i}%"
