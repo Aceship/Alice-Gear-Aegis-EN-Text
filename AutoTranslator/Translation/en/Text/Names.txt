@@ -58,6 +58,8 @@
 新居目 安里=Araime Yasuri
 ファティマ・B=Fatima Betrorum
 
+九炉鉄 悠都=Kurogane Yuto
+
 --Collab Chara
 
 -FAG-
@@ -154,6 +156,8 @@ SOL ラプター=SOL Raptor
 須賀乙莉=Suga Itsuri
 新居目安里=Araime Yasuri
 ファティマ・B=Fatima Betrorum
+
+九炉鉄悠都=Kurogane Yuto
 
 --Collab Chara
 
