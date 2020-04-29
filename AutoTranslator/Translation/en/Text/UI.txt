@@ -18,7 +18,7 @@
 --Start Text
 キャッシュクリア=Clear Cache
 機種変更はこちら=Account
-(なるほど……)=(So ​​that's it……)
+(なるほど……)=(I see…)
 
 --Download
 データのインストールをしますか?\n<color%3Dred>※差分確認のため、時間がかかる事があります</color>=Do you want to download all the data?\n<color%3Dred>* It may take some time to \nconfirm the difference.</color>
