@@ -20,6 +20,9 @@
 機種変更はこちら=Account
 (なるほど……)=(I see…)
 
+--Update
+【データ更新のお知らせ】アップデートのため、本日14:00頃にデータ更新が発生いたします。予めご了承ください。=[Data Update Notice] Data download will occur around 14:00 today for new update. Please note.
+
 --Download
 データのインストールをしますか?\n<color%3Dred>※差分確認のため、時間がかかる事があります</color>=Do you want to download all the data?\n<color%3Dred>* It may take some time to \nconfirm the difference.</color>
 いいえを選択しても、ゲームプレイは可能となり\n必須データはこの場で、必要データは随時インストールされます=Even if you select No, you can still play \nand the required data will be downloaded when necessary.
@@ -46,8 +49,8 @@ sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインス�
 クリップボードにコピーしました=Copied to clipboard
 
 --Item name user
-sr:"^【(?<actress>[^【】]+)(?<special>..)】(?<after>[^【】]+)"="[${special} ${actress}]\n${after}"
-sr:"^【(?<actress>[^【】]+) (?<special>..)】(?<after>[^【】]+)"="[${special} ${actress}]\n${after}"
+
+sr:"^【(?<actress>[^【】]+) 専用】(?<after>[^【】]+)"="[Exclusive For ${actress}]\n${after}"
 時間=Hour.
 日=Day
 分=Min.
