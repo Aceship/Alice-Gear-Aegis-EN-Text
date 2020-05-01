@@ -24,7 +24,9 @@ SPスキルを使用してクリア=Clear using an SP Skill once
 
 sr:"(?<num_i>[0-9]+)秒以内にクリア"="Clear mission within <color%3D#FF2222FF>${num_i}</color> seconds"
 
-sr:"(?<enemy>.+)を(?<num_i>[0-9]+)体撃破"="Destroy <color%3D#FF2222FF>${num_i}</color> unit of [ <color%3D#FFAA22FF>${enemy}</color> ]"
+sr:"(?<enemy>.+)を(?<num_i>[0-9]+)体撃破"="Destroy <color%3D#FF2222FF>${num_i}</color> [<color%3D#FFAA22FF>${enemy}</color>]"
+sr:"(?<enemy>.+)を(?<num_i>[0-9]+)体撃破してクリア"="Destroy <color%3D#FF2222FF>${num_i}</color> [<color%3D#FFAA22FF>${enemy}</color>] and clear stage"
+
 
 sr:"(?<time_i>[0-9]+)分以内に【(?<enemy>.+)】を(?<num_i>[0-9]+)体倒せ"="Destroy [<color%3D#FF6666FF>${num_i}</color>][<color%3D#FFAA22FF>${enemy}</color>] within ${time_i} minutes"
 
