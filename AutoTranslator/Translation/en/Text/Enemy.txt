@@ -38,6 +38,7 @@
 VWヘヴィ=Vice Worker Heavy
 キュクロプス・クリサリス=Cyclops Chrysalis
 ケプリ=Kepuri
+リコサアラゴギ=Lycosa Aragogi
 
 
 --mini boss
@@ -75,6 +76,7 @@ VWキャノン=VW Cannon
 プルテス特異型=Purtes Special Type
 サイクド=Psycud
 タキプリ=Takipuri
+タキブリ=Takiburi
 タキプリ特異型=Takipuri Special Type
 ハコプリ=Hakopuri
 タテプリ=Tatepuri

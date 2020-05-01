@@ -1,0 +1,48 @@
+
+
+黎明編=Dawn
+-s1
+成子坂製作所=Narukozaka Manufacturing
+憧れは遠く=A Distant Longing
+月に叢雲、花に風=Tsuki ni Murakumo, Hana ni Kaze
+
+-s2
+躍進編=Advancement
+
+-chapter
+新生！成子坂製作所=Narukozaka, Reborn!
+初めての後輩=Their First Juniors
+激闘！新宿エリア防衛戦=Clash! Shinjuku Area Defense Operation
+係争！聖アマルテア女学院=Discord! St. Amalthea Girls Academy
+喪失と獲得=Losses and Gains
+韻律の帝国=Rhythmic Empire
+成子坂、業務停止!?=Narukozaka, Operation Suspended!?
+策謀！赤坂エリア争奪戦=Conspire! Battle for the Akasaka Area
+
+-s3
+陰謀編=Conspiracy
+
+-chapter
+-Pink Cyclone
+成子坂の醜聞=Narukozaka's Scandal
+ねらわれたアクトレス=Beleaguered Actress
+ノーブルヒルズの逆襲=Noble Hills' Counterattack
+猛追！ノーブルヒルズ戦=Pursuit! War on Noble Hills
+ノーブルヒルズの陰謀=Noble Hills' Conspiracy
+
+
+-s4
+激動編=Turmoil
+
+-chapter
+淵源からの呼び声=Calls from the Void
+アライアンス結成=Formation of the Alliance
+ヴァイスコロニー強襲=Vice colony assault
+
+
+
+-s5
+
+覚醒編=Awakening
+
+
