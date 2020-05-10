@@ -28,6 +28,9 @@
 いいえを選択しても、ゲームプレイは可能となり\n必須データはこの場で、必要データは随時インストールされます=Even if you select No, you can still play \nand the required data will be downloaded when necessary.
 ※通信量が多くなるため、Wi-Fi環境推奨=* Wi-Fi environment is recommended \ndue to large download size
 
+sr:"約(?<num_i>.+)MBダウンロードします"="About ${num_i}MB Download"
+必要データが端末に無い場合\n随時ダウンロードされます=If the required data is not downloaded yet\nthe required data will be downloaded when necessary.
+
 sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインストールしますか？"="The download size is about <color%3Dred>${num_i}</color> MB\nDo you want to download it?"
 インストールが完了しました=Download complete
 
@@ -216,9 +219,15 @@ sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i}
 在庫=Qty.
 無制限=∞
 交換する=Exchange
+まとめて交換=Bulk Exchange
 ※所持数が足りません=* Not enough 
 既に所持しています=Already Received
 ギア進化素材=Gear evolution material
+
+交換確認=Exchange confirmation
+ギフトークン=Gift token
+sr:"(?<name1>.[^0-9]+)(?<num1_i>[0-9]+)個消費して\n(?<name2>.+)(?<num2_i>[0-9]+)個交換します"=Use ${num1_i} ${name1} and\n exchange for ${num2_i} [${name2}]
+
 
 --Multiplayer 
 -AEGiS合同指定任務-=-AEGiS Joint Designated Task-
