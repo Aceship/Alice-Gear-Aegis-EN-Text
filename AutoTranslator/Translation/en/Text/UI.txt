@@ -278,6 +278,17 @@ ID検索のみ=ID only
 画面をタップすると再接続します=Tap the screen to reconnect
 
 
+準備完了ボタンを押してください=Press the ready button
+隊長たちに準備完了を呼びかけました=Requesting all the captain to be ready
+募集中のルームが見つかりませんでした=No rooms were found for recruitment
+ルームが見つかりません=Room not found
+ルームから退室しますか？=Are you sure you want to leave the room?
+ルームから退室しました=Room left.
+救援要請中=Requesting Assistance
+確認中=Checking
+リザルト中=In result screen
+
+
 -end of multi mission
 秒でもどります=Sec. until return
 

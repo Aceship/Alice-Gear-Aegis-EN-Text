@@ -87,3 +87,4 @@ sr:"マルチのクリア回数が(?<num_i>[0-9]+)回に到\r\n達する"="Total
 sr:"討伐任務:(?<num_i>[0-9]+)件目"="Subdue Mission : ${num_i}"
 
 
+初顔合わせ報酬=First meeting reward

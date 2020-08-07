@@ -20,6 +20,10 @@
 オベリスク=Obelisk
 キュクロプス=Cyclops
 ファルコン=Falcon
+エレクファルコン=Elect Falcon
+グラヴィファルコン=Grav Falcon
+ブレイズファルコン=Blaze Falcon
+フロストファルコン=Frost Falcon
 リムルインバス=Rim Inverse
 ヒュドラ・クリサリス=Hydra Chrysalis
 オベリスク特異型=Obelisk Special Type
@@ -37,7 +41,7 @@
 フロストバンブラ=Frost Bumbler
 VWヘヴィ=Vice Worker Heavy
 キュクロプス・クリサリス=Cyclops Chrysalis
-ケプリ=Kepuri
+ケプリ=Khepri
 リコサアラゴギ=Lycosa Aragogi
 
 

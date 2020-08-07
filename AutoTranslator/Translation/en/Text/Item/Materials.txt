@@ -74,9 +74,11 @@ sr:"Vバルブ(?<Item_i>[EGHF])"="V-Valve ${Item_i}"
 sr:"Vアンプ(?<Item_i>[EGHF])"="V-Amplifier ${Item_i}"
 
 Li・クエンチ=Li・Quench
+sr:"Li・クエンチ(?<Item_i>[EGHF])"="Li・Quench ${Item_i}"
 Li・ダンプ=Li・Dampener
 
 Fa・カソード=Fa・Cathode
+sr:"Fa・カソード(?<Item_i>[EGHF])"="Fa・Cathode ${Item_i}"
 Fa・パース=Fa・Perspective
 
 Ob・テンプ=Ob・Gyro
@@ -90,6 +92,10 @@ Cy・アイズ=Cy・Eyes
 
 Ce・プレクサ=Ce・Plexer
 Ce・ハプティクス=Ce・Haptics
+
+Ca・ボルン=Ca・Born
+
+sr:"^HV・拡張集積回路(?<Item_i>[EGHF])$"="HV・Extended Integrated Circuit ${Item_i}"
 
 sr:"^(?<enemy_i>..)・アンクル$"="${enemy_i}・Anchor"
 sr:"^(?<enemy_i>..)・アンクル(?<Item_i>[EGHF])$"="${enemy_i}・Anchor ${Item_i}"
