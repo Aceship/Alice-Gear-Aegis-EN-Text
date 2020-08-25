@@ -1,3 +1,8 @@
+sr:"(?<name>.+) ★"="${name} ★"
+sr:"(?<name>.+) ★★"="${name} ★★"
+sr:"(?<name>.+) ★★★"="${name} ★★★"
+sr:"(?<name>.+) ★★★★"="${name} ★★★★"
+
 吾妻 楓=Agatsuma Kaede
 日向 リン=Himukai Rin
 小鳥遊 怜=Takanashi Rei
