@@ -2,13 +2,19 @@
 
 称号を1回変更する=Change title once
 
+sr:"いずれかのクロスを(?<num_i>[0-9]+)レベル分\r\n（強化や合成で）上昇させる"=Enhance melee weapon by ${num_i} levels
+sr:"いずれかのショットを(?<num_i>[0-9]+)レベル分\r\n（強化や合成で）上昇させる"=Enhance ranged weapon by ${num_i} levels
 
+sr:"属性問わず拳銃を装備して(?<num_i>[0-9]+)回クリ\r\nアする"=Equip a pistol and clear ${num_i} mission ()
+
+いずれかのショットの進化を1回行\r\nう=Evolve any ranged weapon once
 
 sr:"^(?<enemy>.+)を(?<num_i>[0-9]+)体撃破する\r\n（一部特殊任務を除く）$"="Destroy ${num_i} ${enemy} (excluding some special missions)"
 sr:"^(?<enemy>.+)種を(?<num_i>[0-9]+)体撃破する\r\n（一部特殊任務を除く）$"="Destroy ${num_i} ${enemy} (excluding some special missions)"
 
-sr:"^属性問わず(?<equip>.+)を装備して5回\r\nクリアする$"="Complete 5 missions while\nequipping ${equip}\n(any attribute)"
-sr:"^属性問わず(?<equip>.+)を装備して5\r\n回クリアする$"="Complete 5 missions while\nequipping ${equip}\n(any attribute)"
+sr:"^属性問わず(?<equip>.+)を装備して(?<num_i>[0-9]+)回\r\nクリアする$"="Complete ${num_i} missions while\nequipping ${equip}\n(any attribute)"
+sr:"^属性問わず(?<equip>.+)を装備して(?<num_i>[0-9]+)\r\n回クリアする$"="Complete ${num_i} missions while\nequipping ${equip}\n(any attribute)"
+sr:"^属性問わず(?<equip>.+)を装備して(?<num_i>[0-9]+)回クリ\r\nアする$"="Complete ${num_i} missions while\nequipping ${equip}\n(any attribute)"
 
 sr:"^マルチ任務（イベントを除く）を(?<num_i>[0-9]+)\r\n回クリアする$"=Complete ${num_i} multiplayer missions (excluding events)
 
@@ -22,6 +28,13 @@ sr:"調査任務でバトルが発生するヘクス\r\nを(?<num_i>[0-9]+)回�
 コスチューム/アクセサリを1回変更\r\nする=Change costume/accessories\nonce
 自身のサポートキャラ設定を1回変\r\n更する=Change your own support character settings once
 
+sr:"SPスキルを使用した回数が累計で(?<num_i>[0-9])\r\n回\r\n（クリア時に加算される）"=Use SP ${num_i} times \n(only counted after mission complete)
+
+
 sr:"ストーリー(?<story>.+)(?<num_i>[0-9]+)章「激闘！新宿\r\nエリア防衛戦」のいずれかの討伐任\r\n務を(?<times_i>[0-9]+)回クリアする"=Clear Subdue Mission ${times_i} times\nin ${story} Chapter ${num_i}\n「Clash! Shinjuku Area Defense Operation」
 sr:"ストーリー(?<story>.+)(?<num_i>[0-9]+)章「月に叢雲、\r\n花に風」のいずれかの討伐任務を(?<times_i>[0-9]+)\r\n回クリアする"=Clear Subdue Mission ${times_i} times\nin ${story} Chapter ${num_i}\n「Tsuki ni Murakumo, Hana ni Kaze」
 sr:"ストーリー(?<story>.+)(?<num_i>[0-9]+)章「新生！成子\r\n坂製作所」のいずれかの討伐任務を\r\n(?<times_i>[0-9]+)回クリアする"=Clear Subdue Mission ${times_i} times\nin ${story} Chapter ${num_i}\n「Narukozaka, Reborn!」
+sr:"ストーリー(?<story>.+)(?<num_i>[0-9]+)章「初めての後\r\n輩」のいずれかの討伐任務を(?<times_i>[0-9]+)回ク\r\nリアする"=Clear Subdue Mission ${num_i} of the subjugation missions in Chapter ${num_i} 「First Junior」
+
+
+sr:"特別連動ビンゴ(?<num_i>[0-9]+)\r\n※詳細はお知らせをご確認ください"=Special interlocking bingo ${num_i} *Please check the news for details

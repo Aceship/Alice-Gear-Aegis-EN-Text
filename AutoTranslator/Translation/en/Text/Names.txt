@@ -88,6 +88,8 @@ SOL ラプター=SOL Raptor
 常磐 くるみ=Tokiwa Kurumi
 綿木 ミシェル=Watagi Michelle
 サドネ=Sadone
+煌上 花音=Kougami Kanon
+国枝 詩穂=Kunieda Shiho
 
 -Sylphy-
 シルフィーII=SYLPHY II

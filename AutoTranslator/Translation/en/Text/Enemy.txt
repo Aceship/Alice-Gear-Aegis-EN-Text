@@ -43,6 +43,7 @@ VWヘヴィ=Vice Worker Heavy
 キュクロプス・クリサリス=Cyclops Chrysalis
 ケプリ=Khepri
 リコサアラゴギ=Lycosa Aragogi
+クィンアルバ=Queen Alba
 
 
 --mini boss

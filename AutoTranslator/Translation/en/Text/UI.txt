@@ -295,7 +295,7 @@ ID検索のみ=ID only
 
 
 --Mission
-専用チームで登場するキャラクターは\nスカウトした際と能力が異なる場合があります=Characters appearing in the dedicated team may have different abilities when scouted
+専用チームで登場するキャラクターは\nスカウトした際と能力が異なる場合があります=Characters appearing in the dedicated team\nmay have different abilities when scouted
 注意=Caution
 初回報酬=First\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   Rewards
 ゴールドクエスト　EASY=Gold Quest EASY
@@ -388,6 +388,8 @@ sr:"任務時間：残り(?<num_i>[0-9]+)秒"=Mission time: ${num_i} seconds rem
 あと=After
 今すぐ充電=Charge now
 シェル解析結果=Shell Analysis result
+sr:"(?<num1_i>[0-9]+)個のシェルを売却し\n(?<num2_i>[0-9]+)ゴールドを入手しました"="Sold ${num1_i} shells for ${num2_i} gold"
+売却できるまで= Sell unlocked
 
 全てのシェルを一括で売却します\nよろしいですか？\n※30分経過するまで、次回の売却ができません=Are you sure you want to sell all shells at once? \n* The next sale cannot be done\nuntil 30 minutes have passed.
 
