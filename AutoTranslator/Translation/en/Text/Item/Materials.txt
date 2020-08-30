@@ -80,6 +80,8 @@ Li・ダンプ=Li・Dampener
 Fa・カソード=Fa・Cathode
 sr:"Fa・カソード(?<Item_i>[EGHF])"="Fa・Cathode ${Item_i}"
 Fa・パース=Fa・Perspective
+sr:"Fa・パース(?<Item_i>[EGHF])"="Fa・Perspective ${Item_i}"
+
 
 Ob・テンプ=Ob・Gyro
 Ob・ビオトープ=Ob・Biotope

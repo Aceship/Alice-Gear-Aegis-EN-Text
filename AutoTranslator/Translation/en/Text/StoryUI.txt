@@ -2,7 +2,6 @@
 
 黎明編=Dawn
 -s1
-成子坂製作所=Narukozaka Manufacturing
 憧れは遠く=A Distant Longing
 月に叢雲、花に風=Tsuki ni Murakumo, Hana ni Kaze
 

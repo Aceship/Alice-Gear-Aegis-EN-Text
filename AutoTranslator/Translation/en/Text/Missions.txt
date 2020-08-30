@@ -57,6 +57,7 @@ sr:"(?<gear>.+)のクロスギアを装備して\r\n任務を5回クリアする
 達成可能なミッションは現在ありません=There are currently no achievable missions
 ノーマル=Normal
 デイリー=Daily
+ウィークリー=Weekly
 
 達成済=Achieved
 挑戦中=In Progress

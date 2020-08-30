@@ -1,0 +1,112 @@
+Wishアクトレス変更=Wish actress change
+付与内容はギアにより変化=Depends on the gear
+-優先入荷中-=         -Priority Stock-
+-Wish変更申請中-=-Wish pending change-
+ギアオク=Gear Auction
+ギアオクヘルプ=Gear Auction help
+ギアを所持していません=No Gear
+デイリーで入荷を優先するアクトレスを選択=Select prioritized actress on daily 
+K.I.S.S.対応ギア=K.I.S.S. comp. list
+K.I.S.S.対応ギア一覧=K.I.S.S.compatible gear list
+この許可証は素材を使用できません=This permit cannot use material
+未チューン=Not tuned
+作業精度=Work Accuracy
+下記を消費してギアチューンを実行=Perform Gear Tune by consuming the following
+許可証を選択してください=Please select a permit
+使用できる許可証がありません=No permit available
+チューンするギアを選択してください=Select gear to tune
+納品素材=Material used
+納品する個数を選択=Select the quantity to be used
+ギアチューン結果=Gear tune results
+
+下記の内容で効果を上書きしますか？=Do you want to overwrite \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe effect with the following \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncontents?
+上書き=Overwrite
+現状維持=Maintain
+
+
+ギア整備室-ギアチューン=Gear Maintenance Room-Gear Tune
+
+一定数の素材を納品すると作業精度が上がります=Using some materials improves work accuracy
+納品する素材を選択=Select materials
+作業精度が高いほど高レアスキルが登場しやすくなります=Higher work accuracy, Higher change of high rarity skills
+
+ギアペイが足りません=Not enough Gear Pay
+
+ギアマイル付与=Gear Miles Granted
+ギアマイル=Gear Mile
+
+更新まで=Change in
+sr:"あと(?<num_i>[0-9]+)時間$"="      ${num_i}H."
+sr:"あと(?<num_i>[0-9]+)分$"="      ${num_i}M."
+
+
+//permit name
+sr:"^(?<class_i>.)級許可証$"=${class_i} Class Permit
+sr:"^(?<class_i>.)級許可証/近"=${class_i} Class Permit / Melee
+sr:"^(?<class_i>.)級許可証/射"=${class_i} Class Permit / Ranged
+sr:"^(?<class_i>.)級許可証/下"=${class_i} Class Permit / Bottom
+sr:"^(?<class_i>.)級許可証/上"=${class_i} Class Permit / Top
+
+
+sr:"^特(?<class_i>.)級/(?<actress_i>...)(?<type>.)(?<number_i>[0-9][0-9])$"=S-${class_i} Permit/${actress_i} ${type} ${number_i}
+sr:"^特(?<class_i>.)級/(?<actress_i>...)射(?<number_i>[0-9][0-9])$"=S-${class_i} Permit/${actress_i} R ${number_i}
+sr:"^特(?<class_i>.)級/(?<actress_i>...)近(?<number_i>[0-9][0-9])$"=S-${class_i} Permit/${actress_i} C ${number_i}
+sr:"^特(?<class_i>.)級/(?<actress_i>...)下(?<number_i>[0-9][0-9])$"=S-${class_i} Permit/${actress_i} B ${number_i}
+sr:"^特(?<class_i>.)級/(?<actress_i>...)上(?<number_i>[0-9][0-9])$"=S-${class_i} Permit/${actress_i} T ${number_i}
+
+
+
+特A級/AKs下01
+
+sr:"^作業精度 (?<num_i>[0-9].[0-9])$"=Work Accuracy ${num_i}
+スキル抽選確率は小数点第五位を\n切り捨て表示しているため合計値が\n100％にならない場合があります=Since the skill lottery probability\nis rounded down to the fifth decimal place,\nthe total may not be 100%.
+
+メインマージン用スキル/S=Main margin skill/S
+メインマージン用スキル/A=Main margin skill/A
+メインマージン用スキル/B=Main margin skill/B
+メインマージン用スキル/C=Main margin skill/C
+
+サブマージン用スキル/S=Sub margin skill/S
+サブマージン用スキル/A=Sub margin skill/A
+サブマージン用スキル/B=Sub margin skill/B
+サブマージン用スキル/C=Sub margin skill/C
+
+チケット詳細=Ticket details
+チューン効果例=Tune effect example
+チューン無し=No tune
+チューン対象=Tune target
+チューン効果一覧=Tune effect list
+
+メインマージン=Main margin
+サブマージン１=Sub margin 1
+サブマージン２=Sub margin 2
+サブマージン３=Sub margin 3
+
+sr:"^付与されるスキル例\n(?<Skill_1>.+)\n(?<Skill_2>.+)\n(?<Skill_3>.+)\n実際の付与内容はギアによって変化する$"=Example of skills that can be granted:\n${Skill_1}\n${Skill_2}\n${Skill_3}\nEffects change depends on the gear
+
+sr:"^(?<class_i>.)性能強化$"=${class_i} - Performance enhancement
+sr:"^(?<class_i>.)属性強化$"=${class_i} - Element enhancement
+sr:"^(?<class_i>.)出力補助$"=${class_i} - Output enhancement
+
+sr:"^ギアチューンを依頼するための許可証\n(?<desc_1>.+)\n(?<desc_2>.+)\n(?<desc_3>.+)$"=Permit to request a gear tuning \n${desc_1} \n${desc_2} \n${desc_3}
+
+
+//gear tune permit description
+
+全部位のギアに対して使用可能=Can be used for gears of all parts
+特定のギアに対してはK.I.S.S.が一定確率で付与される=K.I.S.S. is given to certain gears with a certain probability
+sr:"^(?<gear>.+)ギアに対して使用可能$"=Can be used for ${gear} gear
+素材を使用することにより作業精度を高めることが可能=Work accuracy can be improved by using materials
+素材を使用して作業精度を高めることはできない=Work accuracy cannot be improved by using materials
+
+
+sr:"ギアチューンの許可証\n最大作業精度(?<num_i>[0-9])\n(?<gear>.+)ギア専用"="Gear tuning permit\nMaximum work accuracy of ${num_i}\n${gear} gear only"
+sr:"ギアチューン用許可証\n最大作業精度(?<num_i>[0-9])\n特定の(?<actress>.+)(?<gear>.)ギア専用"="Gear tuning permit\nMaximum work accuracy of ${num_i}\n${actress}'s ${gear} gear only"
+特定のBギア専用
+//Maintenance Crew
+岡村実果=Mika Okamura
+鈴木有人=Suzuki Aruto
+遠賀八歳=Onga Yatose
+磐田宗一郎=Soichiro Iwata
+松田アレックス=Alex Matsuda
+富田海良=Umi Tomita

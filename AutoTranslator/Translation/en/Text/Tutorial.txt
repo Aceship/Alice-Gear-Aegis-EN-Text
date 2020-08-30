@@ -12,7 +12,7 @@
 ギアを装備しましょう\n（ドラッグ操作でカメラ移動）=Let's equip gears\n(Drag screen to move the camera)
 ギアを装備しましょう=Let's equip gears
 
-【ショット】【クロス】【トップス】【ボトムス】\nの４ヶ所にギアを装備しましょう=Let's equip gears in 4 places: \n[Shot] [Cross] [Tops] [Bottoms]
+【ショット】【クロス】【トップス】【ボトムス】\nの４ヶ所にギアを装備しましょう=Let's equip gears in 4 places: \n[Shot] [Close] [Tops] [Bottoms]
 ギアを決定しましょう=Let's decide the gear
 右に移動をする。=Move to the right.
 ターゲット=Target

@@ -497,25 +497,6 @@ sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろし�
 アナザー=Another
 
 
---Gear Tuning
-Wishアクトレス変更=Wish actress change
-付与内容はギアにより変化=Depends on gear
--優先入荷中-=         -Priority Stock-
--Wish変更申請中-=-Wish pending change-
-ギアオク=Gear Auction
-ギアオクヘルプ=Gear Auction help
-ギアを所持していません=No Gear
-デイリーで入荷を優先するアクトレスを選択=Select prioritized actress on daily 
-K.I.S.S.対応ギア=K.I.S.S. comp. list
-K.I.S.S.対応ギア一覧=K.I.S.S.compatible gear list
-この許可証は素材を使用できません=This permit cannot use material
-
-ギアペイが足りません=Not enough Gear Pay
-
-更新まで=Change in
-sr:"あと(?<num_i>[0-9]+)時間$"="      ${num_i}H."
-sr:"あと(?<num_i>[0-9]+)分$"="      ${num_i}M."
-
 -3DModels
 ギアを装備しましょう=Equip gear
 キャラ変更=Sw. Chara
@@ -526,8 +507,9 @@ sr:"あと(?<num_i>[0-9]+)分$"="      ${num_i}M."
 ギア所持数=Gear Qty.
 ボトムス=Bottom
 トップス=Top
-クロス=Cross
+クロス=Close
 ショット=Shot
+装備中=Equipped
 
 ロックされているため\n選択できません=Cannot be selected \n because it's locked 
 
@@ -698,7 +680,7 @@ OFF：Aボタンで決定\nON：Bボタンで決定=OFF: Confirm by the A button
 メンバー交代2=Member change 2
 メンバー交代1=Member change 1
 サポーターコール=Supporter call
-攻撃：クロスギア=Attack: Cross Gear
+攻撃：クロスギア=Attack: Close Gear
 攻撃：ショットギア=Attack: Shot gear
 通常移動設定=Default movement setting
 低速=Low speed
