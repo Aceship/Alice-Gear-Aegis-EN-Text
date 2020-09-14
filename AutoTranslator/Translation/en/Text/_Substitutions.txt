@@ -1,65 +1,369 @@
 ﻿吾妻 楓=Agatsuma Kaede
+吾妻楓=Agatsuma Kaede
+吾妻さん=Agatsuma-san
+楓さん=Kaede-san
+楓ちゃん=Kaede-chan
+楓=Kaede
+吾妻=Agatsuma
+
 日向 リン=Himukai Rin
+日向リン=Himukai Rin
+日向さん=Himukai-san
+リンさん=Rin-san
+リンちゃん=Rin-chan
+リン=Rin
+日向=Himukai
+
 小鳥遊 怜=Takanashi Rei
+小鳥遊怜=Takanashi Rei
+小鳥遊さん=Takanashi-san
+怜さん=Rei-san
+怜ちゃん=Rei-chan
+怜=Rei
+小鳥遊=Takanashi
 
 兼志谷 シタラ=Kaneshiya Sitara
-比良坂 夜露=Hirasaka Yotsuyu
-百科 文嘉=Momoshina Fumika
+兼志谷シタラ=Kaneshiya Sitara
+兼志谷さん=Kaneshiya-san
+シタラさん=Sitara-san
+シタラちゃん=Sitara-chan
+シタラ=Sitara
+兼志谷=Kaneshiya
 
-バージニア・G=Virginia G
-藤野 やよい=Fujino Yayoi
+比良坂 夜露=Hirasaka Yotsuyu
+比良坂夜露=Hirasaka Yotsuyu
+比良坂さん=Hirasaka-san
+夜露さん=Yotsuyu-san
+夜露ちゃん=Yotsuyu-chan
+夜露=Yotsuyu
+比良坂=Hirasaka
+
+百科 文嘉=Momoshina Fumika
+百科文嘉=Momoshina Fumika
+百科さん=Momoshina-san
+文嘉さん=Fumika-san
+文嘉ちゃん=Fumika-chan
+文嘉=Fumika
+百科=Momoshina
 
 相河 愛花=Aikawa Aika
+相河愛花=Aikawa Aika
+相河さん=Aikawa-san
+愛花さん=Aika-san
+愛花ちゃん=Aika-chan
+愛花=Aika
+相河=Aikawa
+
 一条 綾香=Ichijou Ayaka
+一条綾香=Ichijou Ayaka
+一条さん=Ichijou-san
+綾香さん=Ayaka-san
+綾香ちゃん=Ayaka-chan
+綾香=Ayaka
+一条=Ichijou
+
 四谷 ゆみ=Yotsuya Yumi
+四谷ゆみ=Yotsuya Yumi
+四谷さん=Yotsuya-san
+ゆみさん=Yumi-san
+ゆみちゃん=Yumi-chan
+ゆみ=Yumi
+四谷=Yotsuya
+
 二子玉 舞=Nikotama Mai
+二子玉舞=Nikotama Mai
+二子玉さん=Nikotama-san
+舞さん=Mai-san
+舞ちゃん=Mai-chan
+舞=Mai
+二子玉=Nikotama
+
 小芦 睦海=Koashi Mutsumi
+小芦睦海=Koashi Mutsumi
+小芦さん=Koashi-san
+睦海さん=Mutsumi-san
+睦海ちゃん=Mutsumi-chan
+睦海=Mutsumi
+小芦=Koashi
+
+藤野 やよい=Fujino Yayoi
+藤野やよい=Fujino Yayoi
+藤野さん=Fujino-san
+やよいさん=Yayoi-san
+やよいちゃん=Yayoi-chan
+やよい=Yayoi
+藤野=Fujino
 
 山野 薫子=Yamano Kaoruko
+山野薫子=Yamano Kaoruko
+山野さん=Yamano-san
+薫子さん=Kaoruko-san
+薫子ちゃん=Kaoruko-chan
+薫子=Kaoruko
+山野=Yamano
+
 萬場 盟華=Yorozuba Meika
+萬場盟華=Yorozuba Meika
+萬場さん=Yorozuba-san
+盟華さん=Meika-san
+盟華ちゃん=Meika-chan
+盟華=Meika
+萬場=Yorozuba
+
 下落合 桃歌=Shimoochiai Toka
+下落合桃歌=Shimoochiai Toka
+下落合さん=Shimoochiai-san
+桃歌さん=Toka-san
+桃歌ちゃん=Toka-chan
+桃歌=Toka
+下落合=Shimoochiai
+
 依城 えり=Yorishiro Eri
+依城えり=Yorishiro Eri
+依城さん=Yorishiro-san
+えりさん=Eri-san
+えりちゃん=Eri-chan
+えり=Eri
+依城=Yorishiro
 
 新谷 芹菜=Niiya Serina
+新谷芹菜=Niiya Serina
+新谷さん=Niiya-san
+芹菜さん=Serina-san
+芹菜ちゃん=Serina-chan
+芹菜=Serina
+新谷=Niiya
+
 文島 明日翔=Fumishima Asuka
+文島明日翔=Fumishima Asuka
+文島さん=Fumishima-san
+明日翔さん=Asuka-san
+明日翔ちゃん=Asuka-chan
+明日翔=Asuka
+文島=Fumishima
 
 仁紀藤 奏=Nikitoh Kanade
+仁紀藤奏=Nikitoh Kanade
+仁紀藤さん=Nikitoh-san
+奏さん=Kanade-san
+奏ちゃん=Kanade-chan
+奏=Kanade
+仁紀藤=Nikitoh
+
 州天頃 椎奈=Sutegoro Shiina
+州天頃椎奈=Sutegoro Shiina
+州天頃さん=Sutegoro-san
+椎奈さん=Shiina-san
+椎奈ちゃん=Shiina-chan
+椎奈=Shiina
+州天頃=Sutegoro
+
 紺堂 地衛理=Kondoh Chieri
+紺堂地衛理=Kondoh Chieri
+紺堂さん=Kondoh-san
+地衛理さん=Chieri-san
+地衛理ちゃん=Chieri-chan
+地衛理=Chieri
+紺堂=Kondoh
 
 村尾 未羅=Murao Mira
+村尾未羅=Murao Mira
+村尾さん=Murao-san
+未羅さん=Mira-san
+未羅ちゃん=Mira-chan
+未羅=Mira
+村尾=Murao
+
 君影 唯=Kimikage Yui
+君影唯=Kimikage Yui
+君影さん=Kimikage-san
+唯さん=Yui-san
+唯ちゃん=Yui-chan
+唯=Yui
+君影=Kimikage
 
 鳳 加純=Ohtori Kasumi
+鳳加純=Ohtori Kasumi
+鳳さん=Ohtori-san
+加純さん=Kasumi-san
+加純ちゃん=Kasumi-chan
+加純=Kasumi
+鳳=Ohtori
+
 神宮寺 真理=Jinguji Mari
+神宮寺真理=Jinguji Mari
+神宮寺さん=Jinguji-san
+真理さん=Mari-san
+真理ちゃん=Mari-chan
+真理=Mari
+神宮寺=Jinguji
+
 御茶ノ水 美里江=Ochanomizu Mirie
+御茶ノ水美里江=Ochanomizu Mirie
+御茶ノ水さん=Ochanomizu-san
+美里江さん=Mirie-san
+美里江ちゃん=Mirie-chan
+美里江=Mirie
+御茶ノ水=Ochanomizu
 
 蛙坂 来弥=Kaeruzaka Raiya
+蛙坂来弥=Kaeruzaka Raiya
+蛙坂さん=Kaeruzaka-san
+来弥さん=Raiya-san
+来弥ちゃん=Raiya-chan
+来弥=Raiya
+蛙坂=Kaeruzaka
+
 宇佐元 杏奈=Usamoto Anna
-ニーナ・K=Nina Kalinina
+宇佐元杏奈=Usamoto Anna
+宇佐元さん=Usamoto-san
+杏奈さん=Anna-san
+杏奈ちゃん=Anna-chan
+杏奈=Anna
+宇佐元=Usamoto
 
 御蔵座 梓希=Mikuraza Azuki
+御蔵座梓希=Mikuraza Azuki
+御蔵座さん=Mikuraza-san
+梓希さん=Azuki-san
+梓希ちゃん=Azuki-chan
+梓希=Azuki
+御蔵座=Mikuraza
+
 琴村 朱音=Kotomura Akane
+琴村朱音=Kotomura Akane
+琴村さん=Kotomura-san
+朱音さん=Akane-san
+朱音ちゃん=Akane-chan
+朱音=Akane
+琴村=Kotomura
+
 琴村 天音=Kotomura Amane
+琴村天音=Kotomura Amane
+琴村さん=Kotomura-san
+天音さん=Amane-san
+天音ちゃん=Amane-chan
+天音=Amane
+琴村=Kotomura
 
 千島 美幸=Chishima Miyuki
-サンティ・R=Shanti Rana
+千島美幸=Chishima Miyuki
+千島さん=Chishima-san
+美幸さん=Miyuki-san
+美幸ちゃん=Miyuki-chan
+美幸=Miyuki
+千島=Chishima
+
 大関 小結=Ohzeki Koyui
+大関小結=Ohzeki Koyui
+大関さん=Ohzeki-san
+小結さん=Koyui-san
+小結ちゃん=Koyui-chan
+小結=Koyui
+大関=Ohzeki
+
 王 紅花=Wang Honghua
-シャーリー・O=Shirley Oakley
+王紅花=Wang Honghua
+王さん=Wang-san
+紅花さん=Honghua-san
+紅花ちゃん=Honghua-chan
+紅花=Honghua
+王=Wang
 
 東雲 チヱ=Shinonome Chie
-リタ・H=Rita Henschel
+東雲チヱ=Shinonome Chie
+東雲さん=Shinonome-san
+チヱさん=Chie-san
+チヱちゃん=Chie-chan
+チヱ=Chie
+東雲=Shinonome
+
 籠目 深沙希=Kagome Misaki
+籠目深沙希=Kagome Misaki
+籠目さん=Kagome-san
+深沙希さん=Misaki-san
+深沙希ちゃん=Misaki-chan
+深沙希=Misaki
+籠目=Kagome
 
 金潟 すぐみ=Kanagata Sugumi
+金潟すぐみ=Kanagata Sugumi
+金潟さん=Kanagata-san
+すぐみさん=Sugumi-san
+すぐみちゃん=Sugumi-chan
+すぐみ=Sugumi
+金潟=Kanagata
+
 二階堂 司=Nikaidoh Tsukasa
+二階堂司=Nikaidoh Tsukasa
+二階堂さん=Nikaidoh-san
+司さん=Tsukasa-san
+司ちゃん=Tsukasa-chan
+司=Tsukasa
+二階堂=Nikaidoh
+
 須賀 乙莉=Suga Itsuri
+須賀乙莉=Suga Itsuri
+須賀さん=Suga-san
+乙莉さん=Itsuri-san
+乙莉ちゃん=Itsuri-chan
+乙莉=Itsuri
+須賀=Suga
+
 新居目 安里=Araime Yasuri
-ファティマ・B=Fatima Betrorum
+新居目安里=Araime Yasuri
+新居目さん=Araime-san
+安里さん=Yasuri-san
+安里ちゃん=Yasuri-chan
+安里=Yasuri
+新居目=Araime
 
 九炉鉄 悠都=Kurogane Yuto
-ミア・V=Mia V
+九炉鉄悠都=Kurogane Yuto
+九炉鉄さん=Kurogane-san
+悠都さん=Yuto-san
+悠都ちゃん=Yuto-chan
+悠都=Yuto
+九炉鉄=Kurogane
+
+バージニア・G=Virginia Glynnberets
+バージニアさん=Virginia-san
+バージニアちゃん=Virginia-chan
+バージニア=Virginia
+ジニーさん=Ginny-san
+ジニーちゃん=Ginny-chan
+ジニー=Ginny
+
+ニーナ・K=Nina Kalinina
+ニーナさん=Nina-san
+ニーナちゃん=Nina-chan
+ニーナ=Nina
+
+サンティ・R=Shanti Rana
+サンティさん=Shanti-san
+サンティちゃん=Shanti-chan
+サンティ=Shanti
+
+シャーリー・O=Shirley Oakley
+シャーリーさん=Shirley-san
+シャーリーちゃん=Shirley-chan
+シャーリー=Shirley
+
+リタ・H=Rita Henschel
+リタさん=Rita-san
+リタちゃん=Rita-chan
+リタ=Rita
+
+ファティマ・B=Fatima Betrorum
+ファティマさん=Fatima-san
+ファティマちゃん=Fatima-chan
+ファティマ=Fatima
+
+ミア・V=Mia Voisin
+ミアさん=Mia-san
+ミアちゃん=Mia-chan
+ミア=Mia
+
 
 --Collab Chara
 
@@ -71,120 +375,85 @@
 
 -SOL-
 SOL ラプター=SOL Raptor
-
--Strike Witches-
-宮藤 芳佳=Miyafuji Yoshika
-リネット・B=Lynette Bishop
-ゲルトルート・B=Gertrud Barkhorn
-エーリカ・H=Erica Hartmann
-
-
--BGHS-
-星月 みき=Hoshitsuki Miki
-常磐 くるみ=Tokiwa Kurumi
-綿木 ミシェル=Watagi Michelle
-サドネ=Sadone
-煌上 花音=Kougami Kanon
-国枝 詩穂=Kunieda Shiho
-
--Sylphy-
-シルフィーII=SYLPHY II
-
--DOAXVV-
-かすみ=Kasumi
-マリー・ローズ=Marie Rose
-
-
-
-----------------
--NoSpace Version
-----------------
-
-吾妻楓=Agatsuma Kaede
-日向リン=Himukai Rin
-小鳥遊怜=Takanashi Rei
-
-兼志谷シタラ=Kaneshiya Sitara
-比良坂夜露=Hirasaka Yotsuyu
-百科文嘉=Momoshina Fumika
-
-バージニア・G=Virginia G
-藤野やよい=Fujino Yayoi
-
-相河愛花=Aikawa Aika
-一条綾香=Ichijou Ayaka
-四谷ゆみ=Yotsuya Yumi
-二子玉舞=Nikotama Mai
-小芦睦海=Koashi Mutsumi
-
-山野薫子=Yamano Kaoruko
-萬場盟華=Yorozuba Meika
-下落合桃歌=Shimoochiai Toka
-依城えり=Yorishiro Eri
-
-新谷芹菜=Niiya Serina
-文島明日翔=Fumishima Asuka
-
-仁紀藤奏=Nikitoh Kanade
-州天頃椎奈=Sutegoro Shiina
-紺堂地衛理=Kondoh Chieri
-
-村尾未羅=Murao Mira
-君影唯=Kimikage Yui
-
-鳳加純=Ohtori Kasumi
-神宮寺真理=Jinguji Mari
-御茶ノ水美里江=Ochanomizu Mirie
-
-蛙坂来弥=Kaeruzaka Raiya
-宇佐元杏奈=Usamoto Anna
-ニーナ・K=Nina Kalinina
-
-御蔵座梓希=Mikuraza Azuki
-琴村朱音=Kotomura Akane
-琴村天音=Kotomura Amane
-
-千島美幸=Chishima Miyuki
-サンティ・R=Shanti Rana
-大関小結=Ohzeki Koyui
-王紅花=Wang Honghua
-シャーリー・O=Shirley Oakley
-
-東雲チヱ=Shinonome Chie
-リタ・ H=Rita Henschel
-籠目深沙希=Kagome Misaki
-
-金潟すぐみ=Kanagata Sugumi
-二階堂司=Nikaidoh Tsukasa
-須賀乙莉=Suga Itsuri
-新居目安里=Araime Yasuri
-ファティマ・B=Fatima Betrorum
-
-九炉鉄悠都=Kurogane Yuto
-
---Collab Chara
-
--FAG-
-轟雷=Gourai
-スティレット=Stylet
-バーゼラルド=Baselard
-フレズヴェルク=Hresvelgr
-
--SOL-
 SOLラプター=SOL Raptor
 
 -Strike Witches-
+
+宮藤 芳佳=Miyafuji Yoshika
 宮藤芳佳=Miyafuji Yoshika
+宮藤さん=Miyafuji-san
+芳佳さん=Yoshika-san
+芳佳ちゃん=Yoshika-chan
+芳佳=Yoshika
+宮藤=Miyafuji
+
 リネット・B=Lynette Bishop
+リネットさん=Lynette-san
+リネットちゃん=Lynette-chan
+リネット=Lynette
+
 ゲルトルート・B=Gertrud Barkhorn
+ゲルトルートさん=Gertrud-san
+ゲルトルートちゃん=Gertrud-chan
+ゲルトルート=Gertrud
+バルクホルン=Barkhorn
+
 エーリカ・H=Erica Hartmann
+エーリカさん=Erica-san
+エーリカちゃん=Erica-chan
+エーリカ=Erica
+
+
+
+
+
 
 
 -BGHS-
+
+星月 みき=Hoshitsuki Miki
 星月みき=Hoshitsuki Miki
+星月さん=Hoshitsuki-san
+みきさん=Miki-san
+みきちゃん=Miki-chan
+みき=Miki
+星月=Hoshitsuki
+
+常磐 くるみ=Tokiwa Kurumi
 常磐くるみ=Tokiwa Kurumi
+常磐さん=Tokiwa-san
+くるみさん=Kurumi-san
+くるみちゃん=Kurumi-chan
+くるみ=Kurumi
+常磐=Tokiwa
+
+綿木 ミシェル=Watagi Michelle
 綿木ミシェル=Watagi Michelle
+綿木さん=Watagi-san
+ミシェルさん=Michelle-san
+ミシェルちゃん=Michelle-chan
+ミシェル=Michelle
+綿木=Watagi
+
+サドネさん=Sadone-san
+サドネちゃん=Sadone-chan
 サドネ=Sadone
+
+煌上 花音=Kougami Kanon
+煌上花音=Kougami Kanon
+煌上さん=Kougami-san
+花音さん=Kanon-san
+花音ちゃん=Kanon-chan
+花音=Kanon
+煌上=Kougami
+
+国枝 詩穂=Kunieda Shiho
+国枝詩穂=Kunieda Shiho
+国枝さん=Kunieda-san
+詩穂さん=Shiho-san
+詩穂ちゃん=Shiho-chan
+詩穂=Shiho
+国枝=Kunieda
 
 -Sylphy-
 シルフィーII=SYLPHY II
@@ -192,29 +461,38 @@ SOLラプター=SOL Raptor
 -DOAXVV-
 かすみ=Kasumi
 マリー・ローズ=Marie Rose
+マリー=Marie
 
 //Maintenance Crew
-岡村実果=Mika Okamura
-鈴木有人=Suzuki Aruto
-磐田 宗一郎=Soichiro Iwata
+磐田 宗一郎=Iwata Soichiro
+磐田宗一郎=Iwata Soichiro
+磐田さん=Iwata-san
+宗一郎さん=Soichiro-san
+宗一郎=Soichiro
+磐田=Iwata
 
---Short Name--
-文嘉=Fumika
-バージニア=Virginia
-サンティ=Shanti
-ニーナ=Nina
-マリー=Marie
-ファティマ=Fatima
-リタ=Rita
-リネット=Lynette
-ゲルトルート=Gertrud
-バルクホルン=Barkhorn
-エーリカ=Erica
+岡村 実果=Okamura Mika
+岡村実果=Okamura Mika
+岡村さん=Okamura-san
+実果さん=Mika-san
+実果=Mika
+岡村=Okamura
+
+鈴木 有人=Suzuki Aruto
+鈴木有人=Suzuki Aruto
+鈴木さん=Suzuki-san
+有人さん=Aruto-san
+有人=Aruto
+鈴木=Suzuki
+
 
 //manufacturer
 成子坂製作所=Narukozaka Manufacturing
+成子坂=Narukozaka
 ヤシマ重工=Yashima Heavy Industries
+ヤシマ=Yashima
 叢雲工業=Murakumo Industries
+叢雲=Murakumo
 
 \\ETC
 ヴァイス=vice

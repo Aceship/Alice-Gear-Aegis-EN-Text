@@ -91,6 +91,9 @@ VWキャノン=VW Cannon
 サイクド特異型=Psycud Special Type
 ゾエア=Zoea
 サイクドAdv.=Psycud Adv.
+ウィプレイ=Whipray
+プラヌ=Planu
+
 
 -boss skill
 

@@ -46,3 +46,12 @@ sr:"^「調査目録」を(?<num_i>[0-9,]+)個使用して\nヘクスの調査�
 ヴァイス討伐=Vice suppression
 警戒・遭遇戦=Alert・Encounter
 警報・大型特殊個体出現=Warning・Massive readings
+
+
+
+-Multi difficulty Hex
+sr:"^特殊宙域作戦　(?<name>.+)$"= Special Space Operation ${name}
+挑戦する=Challenge
+クリア報酬=Clear reward
+達成度=Level of achievement
+調査済みヘクス=Surveyed Hex
