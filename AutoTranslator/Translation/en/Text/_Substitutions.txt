@@ -93,6 +93,7 @@
 やよいちゃん=Yayoi-chan
 やよい=Yayoi
 藤野=Fujino
+ヤヨイ=Yayoi
 
 山野 薫子=Yamano Kaoruko
 山野薫子=Yamano Kaoruko
@@ -117,6 +118,7 @@
 桃歌ちゃん=Toka-chan
 桃歌=Toka
 下落合=Shimoochiai
+卜ウ力=Toka
 
 依城 えり=Yorishiro Eri
 依城えり=Yorishiro Eri
@@ -149,6 +151,7 @@
 奏ちゃん=Kanade-chan
 奏=Kanade
 仁紀藤=Nikitoh
+ナデちゃん=Nade-chan
 
 州天頃 椎奈=Sutegoro Shiina
 州天頃椎奈=Sutegoro Shiina
@@ -157,6 +160,7 @@
 椎奈ちゃん=Shiina-chan
 椎奈=Shiina
 州天頃=Sutegoro
+コロちゃん=Koro-chan
 
 紺堂 地衛理=Kondoh Chieri
 紺堂地衛理=Kondoh Chieri
@@ -165,6 +169,7 @@
 地衛理ちゃん=Chieri-chan
 地衛理=Chieri
 紺堂=Kondoh
+ちえり=Chieri
 
 村尾 未羅=Murao Mira
 村尾未羅=Murao Mira
@@ -325,6 +330,17 @@
 悠都ちゃん=Yuto-chan
 悠都=Yuto
 九炉鉄=Kurogane
+
+伊戸倉 音緒=Itokura Neo
+伊戸倉音緒=Itokura Neo
+伊戸倉さん=Itokura-san
+音緒さん=Neo-san
+音緒ちゃん=Neo-chan
+音緒=Neo
+伊戸倉=Itokura
+ネオ=Neo
+
+
 
 バージニア・G=Virginia Glynnberets
 バージニアさん=Virginia-san
