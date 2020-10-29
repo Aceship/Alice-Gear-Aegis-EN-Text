@@ -356,13 +356,13 @@
 絵美=Emi
 我龍=Garyu
 
-宮南 ひかり=Miyanami Hikari
-宮南ひかり=Miyanami Hikari
-宮南さん=Miyanami-san
+宮南 ひかり=Miyaminami Hikari
+宮南ひかり=Miyaminami Hikari
+宮南さん=Miyaminami-san
 ひかりさん=Hikari-san
 ひかりちゃん=Hikari-chan
 ひかり=Hikari
-宮南=Miyanami
+宮南=Miyaminami
 
 
 バージニア・G=Virginia Glynnberets
