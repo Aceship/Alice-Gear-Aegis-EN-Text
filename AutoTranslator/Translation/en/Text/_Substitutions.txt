@@ -340,6 +340,33 @@
 伊戸倉=Itokura
 ネオ=Neo
 
+天狐 天=Tenko Sora
+天狐天=Tenko Sora
+天狐さん=Tenko-san
+天さん=Sora-san
+天ちゃん=Sora-chan
+天チャン=Sora-chan
+--天 Sora--
+天狐=Tenko
+
+我龍 絵美=Garyu Emi
+我龍絵美=Garyu Emi
+我龍さん=Garyu-san
+絵美さん=Emi-san
+絵美ちゃん=Emi-chan
+絵美=Emi
+我龍=Garyu
+
+宮南 ひかり=Miyaminami Hikari
+宮南ひかり=Miyaminami Hikari
+宮南さん=Miyaminami-san
+ひかりさん=Hikari-san
+ひかりちゃん=Hikari-chan
+ひかり=Hikari
+宮南=Miyaminami
+
+
+ヘットカットハイス=Cat House
 
 
 バージニア・G=Virginia Glynnberets
@@ -478,6 +505,20 @@ SOLラプター=SOL Raptor
 かすみ=Kasumi
 マリー・ローズ=Marie Rose
 マリー=Marie
+
+-PTD-
+ユキ=Yuki
+ヤマダ=Yamada
+アヤ=Aya
+
+
+-Darius-
+ダライアス=Darius
+イア・レトナ=IA Rehtona
+イア=IA
+
+
+
 
 //Maintenance Crew
 磐田 宗一郎=Iwata Soichiro
