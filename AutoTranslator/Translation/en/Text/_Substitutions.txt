@@ -1,10 +1,16 @@
 ﻿吾妻 楓=Agatsuma Kaede
 吾妻楓=Agatsuma Kaede
+吾妻 京=Agatsuma Kei
+吾妻京=Agatsuma Kei
 吾妻さん=Agatsuma-san
 楓さん=Kaede-san
 楓ちゃん=Kaede-chan
 楓=Kaede
 吾妻=Agatsuma
+
+京さん=Kei-san
+京ちゃん=Kei-chan
+
 
 日向 リン=Himukai Rin
 日向リン=Himukai Rin
@@ -273,7 +279,7 @@
 紅花さん=Honghua-san
 紅花ちゃん=Honghua-chan
 紅花=Honghua
-王=Wang
+--王 Wang--
 
 東雲 チヱ=Shinonome Chie
 東雲チヱ=Shinonome Chie
@@ -345,6 +351,7 @@
 天狐さん=Tenko-san
 天さん=Sora-san
 天ちゃん=Sora-chan
+天チャン=Sora-chan
 --天 Sora--
 天狐=Tenko
 
@@ -356,13 +363,33 @@
 絵美=Emi
 我龍=Garyu
 
-宮南 ひかり=Miyanami Hikari
-宮南ひかり=Miyanami Hikari
-宮南さん=Miyanami-san
+宮南 ひかり=Miyaminami Hikari
+宮南ひかり=Miyaminami Hikari
+宮南さん=Miyaminami-san
 ひかりさん=Hikari-san
 ひかりちゃん=Hikari-chan
 ひかり=Hikari
-宮南=Miyanami
+宮南=Miyaminami
+
+
+ヘットカットハイス=Cat House
+
+
+在賀 奈々=Aruga Nana
+在賀奈々=Aruga Nana
+在賀さん=Aruga-san
+奈々さん=Nana-san
+奈々ちゃん=Nana-chan
+奈々=Nana
+在賀=Aruga
+
+的場 アオイ=Matoba Aoi
+的場アオイ=Matoba Aoi
+的場さん=Matoba-san
+アオイさん=Aoi-san
+アオイちゃん=Aoi-chan
+アオイ=Aoi
+的場=Matoba
 
 
 バージニア・G=Virginia Glynnberets
@@ -403,6 +430,14 @@
 ミアちゃん=Mia-chan
 ミア=Mia
 
+アンジェリカ・G=Angelica G.
+アンジェリカ・グラズノワ=Angelica Graznowa
+アンジー・G=Angie G.
+アンジーさん=Angie-san
+アンジーちゃん=Angie-chan
+アンジェリカさん=Angelica-san
+アンジー=Angie
+アンジェリカ=Angelica
 
 --Collab Chara
 
@@ -501,6 +536,20 @@ SOLラプター=SOL Raptor
 かすみ=Kasumi
 マリー・ローズ=Marie Rose
 マリー=Marie
+
+-PTD-
+ユキ=Yuki
+ヤマダ=Yamada
+アヤ=Aya
+
+
+-Darius-
+ダライアス=Darius
+イア・レトナ=IA Rehtona
+--イア IA--
+
+
+
 
 //Maintenance Crew
 磐田 宗一郎=Iwata Soichiro
