@@ -392,6 +392,24 @@
 的場=Matoba
 
 
+春日丘 もえ=Kasugaoka Moe
+春日丘もえ=Kasugaoka Moe
+春日丘さん=Kasugaoka-san
+もえさん=Moe-san
+もえちゃん=Moe-chan
+もえ=Moe
+春日丘=Kasugaoka
+
+
+波佐見 利佳=Hasami Rika
+波佐見利佳=Hasami Rika
+波佐見さん=Hasami-san
+利佳さん=Rika-san
+利佳ちゃん=Rika-chan
+利佳=Rika
+波佐見=Hasami
+
+
 バージニア・G=Virginia Glynnberets
 バージニアさん=Virginia-san
 バージニアちゃん=Virginia-chan
