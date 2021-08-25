@@ -279,7 +279,7 @@
 紅花さん=Honghua-san
 紅花ちゃん=Honghua-chan
 紅花=Honghua
---王 Wang--
+
 
 東雲 チヱ=Shinonome Chie
 東雲チヱ=Shinonome Chie
@@ -352,7 +352,6 @@
 天さん=Sora-san
 天ちゃん=Sora-chan
 天チャン=Sora-chan
---天 Sora--
 天狐=Tenko
 
 我龍 絵美=Garyu Emi
@@ -457,7 +456,7 @@
 アンジー=Angie
 アンジェリカ=Angelica
 
---Collab Chara
+-Collab Chara-
 
 -FAG-
 轟雷=Gourai
@@ -496,9 +495,19 @@ SOLラプター=SOL Raptor
 エーリカ=Erica
 
 
+坂本 美緒=Sakamoto Mio
+坂本美緒=Sakamoto Mio
+坂本さん=Sakamoto-san
+美緒さん=Mio-san
+美緒ちゃん=Mio-chan
+美緒=Mio
+坂本=Sakamoto
 
-
-
+ペリーヌ・C=Perrine H. Clostermann
+ペリーヌさん=Perrine-san
+ペリーヌちゃん=Perrine-chan
+ペリーヌ=Perrine
+クロステルマン=Clostermann
 
 
 -BGHS-
@@ -564,7 +573,7 @@ SOLラプター=SOL Raptor
 -Darius-
 ダライアス=Darius
 イア・レトナ=IA Rehtona
---イア IA--
+
 
 
 
