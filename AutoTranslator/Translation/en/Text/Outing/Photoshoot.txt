@@ -1,0 +1,48 @@
+﻿sr:"形式：(?<name>.+)\nクリア条件　：(?<num_i>[0-9]+)点以上\n\n(?<after>[\s\S]+)"="Format: ${name}\nReq : >${num_i} points\n\n${after}"
+
+-desc title
+ハロウィンポスター=Halloween Poster
+雑誌表紙=Magazine Cover
+ポスター=Poster
+ブロマイド=Promade
+雑誌内の特集記事=Feature article \n              in a magazine
+
+
+-desc
+ハロウィンの広告ポスター\nです。いろいろなバリエー\nションがほしいんですよね\nご協力お願いします=It's a Halloween \nadvertising poster, \nand we'd like to have a \nvariety of variations, \nso please help us out.
+ハロウィンの広告ポスター\nです。ウキウキするような\n楽しい感じで撮ってもらえ\nると嬉しいですね=This is a Halloween \nadvertising poster, \nwe hope you can \ntake it in a fun \nand exciting way!
+
+ハロウィンの広告ポスターです=It's a Halloween advertising poster.
+
+大注目のアクトレスを特集\nする予定です。是非とも御\n社のアクトレスを掲載させ\nていただけないでしょうか=We are featuring some of \nthe hottest actresses \nin the world, and we would \nlove to feature your \ncompany's actresses!
+大注目のアクトレスを特集する予定です=We are planning to feature the most popular Actresses!
+
+月刊アクトレスの表紙を飾\nっていただきたい。とびき\nり良い写真をどうぞよろし\nくお願いします=We would like you to \nappear on the cover of \nMonthly Actress, so \nplease send us your \nbest photos!
+月刊アクトレスの表紙を飾っていただきたい=We would like you to appear \non the cover of Monthly Actress 
+
+脱出ゲームを開催するので\nすが、ポスターのモデルに\nなっていただけませんか？\n検討よろしくお願いします=We are organizing an \nescape game, and we \nwould like you to be a \nmodel for our poster.
+脱出ゲームを開催するのですが、ポスターの\nモデルになっていただけませんか？=We are organizing an escape game, \nand we would like you to be a model for our poster.
+
+雑誌の付録にアクトレスの\nブロマイドをつけようと考\nえております。宣材提供に\nご協力いただきたいです=We are planning to put a\nPromade of Actress as a \nsupplement of the \nmagazine, and we would \nlike your cooperation in \nproviding the material.
+雑誌の付録にアクトレスのブロマイドを\nつけようと考えております。=We are planning to put a Promade of Actress \nas a supplement of the magazine.
+
+ハロウィンの広告ポスター\nです。え？このクオリティ\nは難しい？いやいや、貴方\nならできますよ=This is a Halloween \nadvertising poster, \nis this quality too difficult?
+
+-Comment
+ミッション達成！\nこの度は写真の提供ありがとうございました\nこちらの写真を使用させていただきます=Mission accomplished! \nThank you very much for the photo, \nwe will use this photo here!
+ミッション未達成\nクリア条件を満たしていません=Mission unfulfilled \nYou have not met the clearing condition.
+
+-buttons 
+写真を保存しますか？=Do you want to save your photos?
+写真を保存しました=Your photo is saved.
+リザルトへ=Results
+
+-titles
+選択中の撮影ミッション=Shooting mission being selected
+撮影レベル=Shooting level
+撮影するアクトレス=Actress to shoot
+撮影ミッション=Shooting Mission
+撮影をはじめる=Start shooting
+ミッション撮影達成=Mission Shooting Accomplished
+お疲れ様でした\r=Thank you for your time.\r
+撮影を終了する=End shooting
