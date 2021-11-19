@@ -1,0 +1,5 @@
+シーファウル・ダイブ=Seafowl Dive
+オフェンスピジョンの展開とガト{{A}}グを掃射する\nガト{{A}}グの掃射に、重力耐性低下効果を付与する\nSP発動毎に 1回 まで使用可能\nアクトレスの限界突破により使用回数が 2回 まで増加する=Fires an energy barrage with the support units while also deploying a group of beam laser drones for a multi-angle strike.\nRepeated hits from the energy barrage apply Gravity resistance debuffs.\nCan be used up to 1 times per SP activation\nCan be increased to 2 times by actress limit break
+
+スピアーフィッシュ=Spearfish Strike
+高速で移動しつつ、ランスでの攻撃を行う\nSP発動毎に 2回 まで使用可能\nアクトレスの限界突破により使用回数が 3回 まで増加する=Dashes sideways in a user-defined direction multiple times, then approaches the target for a torrential melee attack.\nDestroys certain enemy projectiles while moving.\n3s recharge time.\nCan be used up to 2 times per SP activation\nCan be increased to 3 times by actress limit break

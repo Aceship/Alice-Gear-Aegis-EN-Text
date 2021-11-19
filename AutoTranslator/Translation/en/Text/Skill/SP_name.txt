@@ -21,16 +21,16 @@ B.O.A.R.SP=B.O.A.R. SP
 武神荒魂=Bujin Aratama
 エクスキューショナー=Executioner
 サテライトピジョン=Satellite Pigeon
-アルクバリスタ3-A=Arcuballista Model 3-A
+アルクバリスタ3-A=Arcuballista 3-A
 明鏡止水=Meikyoushisui
-アンナズダイジェスト=Anna's Daily Digest
+アンナズダイジェスト=Anna's Digest
 ジェド・マロース=Ded Moroz
 百機退魔の蔵=Hundred Machine-Banishing Statue
 セントエルモの火=St. Elmo's Fire
 ディオスクロイ=Dioscuri
 マハカーラククリ=Mahakala's Kukri
 吉祥五節の舞=Gosechi Dance of Auspiciousness
-絶招【疾歩双焔掌】=Juezhao [Flash Step Dual Flaming Palm]
+絶招【疾歩双焔掌】=Secret Technique [Flash Step Dual Flaming Palm]
 レイジングブル=Raging Bull
 シュベーレヘルタKn=Schwerekanone "Hertha"
 夢幻抱擁=Phantasmal Embrace
@@ -39,7 +39,7 @@ B.O.A.R.SP=B.O.A.R. SP
 固有魔法:治癒=Innate Magic: Healing
 固有魔法:射撃弾道安定=Innate Magic: Ballistic Trajectory Stabilization
 固有魔法:怪力=Innate Magic: Superhuman Strength
-固有魔法:疾風=Innate Magic: Gale
+固有魔法:疾風=Innate Magic: Sturm
 エア・ドミナンス=Air Dominance
 ストライクフォース=Strike Force
 R.バスターキャノン=Revolving Buster Cannon
@@ -59,12 +59,38 @@ TTCスラッシュ=Tornado Typhoon Cyclone Slash
 輪金環砕=Rinkin Kansai
 機装・桜花爛漫=Kisou - Oukaranman
 ローズチャリオット =Rose Chariot
+トリプルクラウン=Triple Crown
+ビュフェ・フィデル=Buffet Fidèle
+エンジェルブレード=Angel Blade
+シャドウブレード=Shadow Blade
+インフィニティライト=Infinity Light
+ビヨンド・ザ・パスト=Beyond the Past
+NEOエクスペリエンス=The NEO Experience
+IRH47【纏撃槍】=IRH-47 [Matoi Strikelance]
+殺戮手法【壱】：分断=Slayer Technique 1: Severance
+殺戮手法【壱】：分断=Slayer Technique 1: Severance
+殺戮手法【壱】：分断=Slayer Technique 1: Severance
+クリエイション=Creation
+画龍点睛=Garyuu Tensei
+ニアバーストビーム=Near-Burst Beam
+コンプレッションニア=Compression Near-Burst
+クロス・ザ・フェイト=Cross the Fate
+ブルズアイ・シュート=Bullseye Shot
+ストームグライド=Storm Glide
+固有魔法:魔眼=Innate Magic: Mystic Eye
+固有魔法:雷撃=Innate Magic: Tonnerre
+リデンプション=Redemption
+シグルドリーヴァ=Sigrdrifa
+
+-- extra
 
 千本桜【鳴狐】=Senbonzakura [Nakigitsune]
 フォティノランチャー=Photino Launcher
 菩提薩婆訶=Bodhisvaha
 アンナズリポート=Anna's Report
 
+
+-- another
 
 千本桜【四ノ切】=Senbonzakura [Shinokiri]
 アグレッシブパイル=Aggressive Pile Bunker
@@ -79,19 +105,39 @@ TTCスラッシュ=Tornado Typhoon Cyclone Slash
 パープルハート=Violet Heart
 ディヴェルティスマン=Divertissement
 ビーストインストール=Beast Install
-
+ブリーズギフト=Breeze Gift
 アクティングアサルト=Acting Assault
 戦いのプリパレーション=Battle Preparation
 ムラタ-319.BA=Murata 319 Bolt-Action Rifle
 ファスファレセンス=Phosphorescence
-
+カラドリウス=Caladrius
+メルクリウス=Mercurius
+御霞槌=Gokasumi-Tsuchi
+ぺルセウス=Perseus
 プロビデンスアイズ=Eye of Providence
-
+バステリオンγ=Basterion Gamma
 霧幻五月雨・繰火羅=Mugen Samidare - Kuhira
 トライアンフエース=Triumphant Ace
+スネグーラチカ=Snegurochka
 
+ハーモニー・ルージュ=Harmony Rouge
+ハーモニー・セレスト=Harmony Celeste
+オペレーションウグラ=Operation Ugra
 五穀豊穣の恵み=Blessings of Plentiful Harvests
 中華炎焔=Chinese Blazing Inferno
+ラフストック=Roughstock
+Knヘクセパンツァー=Hexenpanzer und Kanone
+荒絹の帳=Araginu's Veil
+マグナム・オプス=Magnum Opus
+アムピトリーテー=Amphitrite
+
+ロイヤル・バーティツ=Royal Bartitsu
+
+オービタルスティング=Orbital Sting
+
+
+-- Lower Rarity
+
 
 バスターキャノンE=Buster Cannon E
 ブラストバイト=Blast Bit

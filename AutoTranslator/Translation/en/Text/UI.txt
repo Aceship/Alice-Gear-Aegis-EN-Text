@@ -126,7 +126,8 @@ sr="^・★(?<num1_i>[0-9]+) (?<name>.+)Lv.(?<num2_i>[0-9]+)$"="・★${num1_i} 
 サポーター=Supporter
 隊長の誕生日=Captain's birthday
 累計ログイン日数=Login Day
-ボーナス履歴=Login Bonus history
+ボーナス履歴=Login Bonus\nhistory
+習熟訓練=Training
 
 アイテム=Item
 オプション=Option
@@ -339,6 +340,7 @@ sr:"任務時間：残り(?<num_i>[0-9]+)秒"=Mission time: ${num_i} seconds rem
 サポートしてくれた=Support
 
 -Sorting
+適用中=Applied
 ▼降順=▼ Desc.
 ▲昇順=▲ Asc.
 ソート=Sort
@@ -354,6 +356,21 @@ sr:"任務時間：残り(?<num_i>[0-9]+)秒"=Mission time: ${num_i} seconds rem
 レベル=Level
 イベント=Events
 任務=Mission
+お気に入り以外=Not Favorited
+お気に入り=Favorited 
+
+その他フィルタ=Other Filters
+未使用=none
+
+--Collab filter --
+{{A}} コズミックリベレーション={{A}} Cosmic Revelation
+ダライアス コズミックリベレーション=Darius Cosmic Revelation
+プロジェクト東京ドールズ=Project Tokyo Dolls
+デスクトップアーミー=Desktop Army
+バトルガール ハイスクール=Battle Girl High School
+ストライクウィッチーズ=Strike Witches
+メガミデバイス=Megami Device
+フレームアームズ・ガール=Frame Arms Girl
 
 属性=Attribute
 攻撃力=Atk. Power
@@ -459,6 +476,9 @@ sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろし�
 ※他キャラクター装備中のギアが含まれています※=*Includes gears equipped with other characters*
 装備を変更します、よろしいですか？=Change equipment, are you sure?
 
+
+SP発動中はアクティブスキルが下記に入れ替わる=While SP is active, active skills are replaced by the following
+※上記はSPに準じアクティブスキルに干渉するスキル効果は作用しない=The above does not apply to skill effects that interfere with active skills.
 
 --Evolution 
 ギア整備室-進化=Gear Maintenance Room-Evolution
@@ -860,3 +880,15 @@ sr:"オフライン：(?<num_i>[0-9]+)分前"=Offline: ${num_i} m. ago
 フォローを解除しました=Unfollowed
 フォロワーを解除します\nよろしいですか？=Remove follower\nIs it OK?
 フォローを解除します\nよろしいですか？=Unfollow\nIs it OK?
+
+
+--Training
+ターゲットを複数表示=Show multiple targets
+SPスキル自動回復=SP Skill Auto Recovery
+習熟訓練を終了しますか？=Do you wish to complete your proficiency training?
+近接戦闘ナビゲーター=Close Quarter Battle Navigator
+終了=Exit
+
+
+
+
