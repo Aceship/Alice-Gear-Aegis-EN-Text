@@ -574,8 +574,24 @@ SOLラプター=SOL Raptor
 ダライアス=Darius
 イア・レトナ=IA Rehtona
 
+-Steins;Gate-
+牧瀬 紅莉栖=Makise Kurisu
+紅莉栖=Kurisu
+クリスちゃん=Kurisu-chan
 
+阿万音 鈴羽=Amane Suzuha
+鈴羽=Suzuha
 
+椎名 まゆり=Mayuri Shiina
+まゆり=Mayuri
+まゆしぃ=Mayushii
+トゥットゥルー=Tutturu
+
+紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
+
+おかべ=Okabe
+エル・プサイ・コングルゥ=El・Psy・Congroo
+シュタインズゲート=Steins Gate
 
 
 //Maintenance Crew
