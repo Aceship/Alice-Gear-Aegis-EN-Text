@@ -1,6 +1,7 @@
 ﻿sr:"◆(?<name>.+)\n　クリア条件：(?<num_i>[0-9]+)点以上\n\n　(?<after>[\s\S]+)"="◆${name}\nReq : >${num_i} points\n\n${after}"
 sr:"◆(?<name>.+)\n　クリア条件：(?<num_i>[0-9]+)点以上\n　※(?<collab>.+)コラボ\n\n　(?<after>[\s\S]+)"="◆${name}\nReq : >${num_i} points\n※${collab} Collab\n\n${after}"
 
+sr:"◆(?<name>.+)\n　クリア条件：(?<num_i>[0-9]+)点以上\n　※(?<collab>.+)コラボ"="◆${name}\nReq : >${num_i} points\n※${collab} Collab"
 -Title
 
 レトロ写真=Retro-photography
@@ -20,6 +21,17 @@ PICK UPアクトレス=PICK UP Actress
 ポスター=Poster
 ブロマイド=Promade
 雑誌内の特集記事=Feature article \n              in a magazine
+
+
+-Places
+背景選択=background selection
+撮影ルーム=Shooting Room
+展示ブース/手前=Exhibition Booth/Front
+リゾートプール/チェア前=Resort Pool / Chair Front
+リゾートプール/プールサイド=Resort Pool / Poolside
+ラジ館7F/店舗前通路=Rajikan 7F/store front aisle
+ラジ館7F/階段前=Rajikan 7F/Front of the stairs
+展示ブース/奥=Exhibition booth / back
 
 -desc
 -old
@@ -62,6 +74,7 @@ PICK UPアクトレス=PICK UP Actress
 
 
 -Comment
+撮影コメント=Photo Comment
 ミッション達成！\nこの度は写真の提供ありがとうございました\nこちらの写真を使用させていただきます=Mission accomplished! \nThank you very much for the photo, \nwe will use this photo here!
 ミッション未達成\nクリア条件を満たしていません=Mission unfulfilled \nYou have not met the clearing condition.
 
