@@ -1,4 +1,18 @@
-﻿sr:"形式：(?<name>.+)\nクリア条件　：(?<num_i>[0-9]+)点以上\n\n(?<after>[\s\S]+)"="Format: ${name}\nReq : >${num_i} points\n\n${after}"
+﻿sr:"◆(?<name>.+)\n　クリア条件：(?<num_i>[0-9]+)点以上\n\n　(?<after>[\s\S]+)"="◆${name}\nReq : >${num_i} points\n\n${after}"
+sr:"◆(?<name>.+)\n　クリア条件：(?<num_i>[0-9]+)点以上\n　※(?<collab>.+)コラボ\n\n　(?<after>[\s\S]+)"="◆${name}\nReq : >${num_i} points\n※${collab} Collab\n\n${after}"
+
+-Title
+
+レトロ写真=Retro-photography
+ハロウィン=Halloween
+撮影ミッション選択画面=Shooting mission selection screen
+ハッピーバースデー=Happy Birthday
+クリスマス=Christmas
+ある部屋からの脱出=Escape from a Room
+プール=Pool
+月刊アクトレス=Actres Monthly
+PICK UPアクトレス=PICK UP Actress
+謹賀新年=Happy New Year!
 
 -desc title
 ハロウィンポスター=Halloween Poster
@@ -7,26 +21,45 @@
 ブロマイド=Promade
 雑誌内の特集記事=Feature article \n              in a magazine
 
-
 -desc
+-old
 ハロウィンの広告ポスター\nです。いろいろなバリエー\nションがほしいんですよね\nご協力お願いします=It's a Halloween \nadvertising poster, \nand we'd like to have a \nvariety of variations, \nso please help us out.
 ハロウィンの広告ポスター\nです。ウキウキするような\n楽しい感じで撮ってもらえ\nると嬉しいですね=This is a Halloween \nadvertising poster, \nwe hope you can \ntake it in a fun \nand exciting way!
-
 ハロウィンの広告ポスターです=It's a Halloween advertising poster.
-
-大注目のアクトレスを特集\nする予定です。是非とも御\n社のアクトレスを掲載させ\nていただけないでしょうか=We are featuring some of \nthe hottest actresses \nin the world, and we would \nlove to feature your \ncompany's actresses!
 大注目のアクトレスを特集する予定です=We are planning to feature the most popular Actresses!
-
-月刊アクトレスの表紙を飾\nっていただきたい。とびき\nり良い写真をどうぞよろし\nくお願いします=We would like you to \nappear on the cover of \nMonthly Actress, so \nplease send us your \nbest photos!
 月刊アクトレスの表紙を飾っていただきたい=We would like you to appear \non the cover of Monthly Actress 
-
-脱出ゲームを開催するので\nすが、ポスターのモデルに\nなっていただけませんか？\n検討よろしくお願いします=We are organizing an \nescape game, and we \nwould like you to be a \nmodel for our poster.
 脱出ゲームを開催するのですが、ポスターの\nモデルになっていただけませんか？=We are organizing an escape game, \nand we would like you to be a model for our poster.
-
 雑誌の付録にアクトレスの\nブロマイドをつけようと考\nえております。宣材提供に\nご協力いただきたいです=We are planning to put a\nPromade of Actress as a \nsupplement of the \nmagazine, and we would \nlike your cooperation in \nproviding the material.
 雑誌の付録にアクトレスのブロマイドを\nつけようと考えております。=We are planning to put a Promade of Actress \nas a supplement of the magazine.
-
 ハロウィンの広告ポスター\nです。え？このクオリティ\nは難しい？いやいや、貴方\nならできますよ=This is a Halloween \nadvertising poster, \nis this quality too difficult?
+
+-new
+ハロウィンイベントの広 \n　告で使用させていただき \n　ます。楽しい感じに撮影 \n　してもらえると嬉しいで \n　すね=We are going to use it for\nour Halloween event \nadvertisement.\nIt would be great if you \ncould make it look fun!
+クリスマスイベント用の\n　ポスターを作成します。\n　是非とも御社のアクトレ\n　スにお願いしたいです=We are going to make\nposters for a Christmas\nevent.\nI would love to have \nyour Actress do it!
+年賀状印刷の宣伝用とし\n　て飾る見本写真のモデル\n　を今、話題のアクトレス\n　にお願いしたいです=I'd like to ask your\nActress to be the model\nfor a sample photo to be\ndisplayedas a promotion\nfor printing New Year's\ncards.
+誕生日コーナーで掲載す\n　る写真をご協力いただき\n　たいです。魅力的な姿を\n　お願いします=We would like your help\nwith photos to be posted\nin the birthday section.\nPlease make sure you \nlook attractive!
+新しくできるレジャー施\n　設の宣伝写真をお願いし\n　たいです。楽しんでいる\n　雰囲気だと嬉しいです=I would like to ask\nyou to take a photo\npromoting a new leisure \nfacility. It would be great \nif you are having fun!
+大注目のアクトレスを特集 \n　する予定です。是非とも御 \n　社のアクトレスを掲載させ \n　ていただけないでしょうか=We are featuring \nsome of the hottest\nactresses in the world,\n and we would \nlove to feature your \ncompany's actresses!
+月刊アクトレスの表紙を飾 \n　っていただきたい。とびき \n　り良い写真をどうぞよろし \n　くお願いします=We would like you to \nappear on the cover of \nMonthly Actress, so \nplease send us your \nbest photos!
+脱出ゲームを開催するので \n　すが、ポスターのモデルに \n　なっていただけませんか？ \n　検討よろしくお願いします=We are organizing an \nescape game, and we \nwould like you to be a \nmodel for our poster.
+ノスタルジック感じる写\n　真が流行っていると聞き\n　ました。そんな雰囲気の\n　写真をいただきたいです=I've heard that nostalgic \nphotos are very popular. \nI would like to receive \nphotos with such an \natmosphere.
+
+-collab Title
+【コラボ】雷ネットソーセージ=[Collaboration] RaiNet Sausage
+【コラボ】ブラウン管工房=Collaboration] Braun Tube Workshop
+【コラボ】メイクイーン+ニャン2=[Collaboration] May Queen+Nyan2
+【コラボ】SCIENCY=[Collaboration] SCIENCY
+-collab desc title 
+ブラウン管工房=CRT Workshop
+メイクイーン+ニャン2=May Queen+Nyan2
+雷ネットソーセージ=Rai-net Sausage
+
+-collab desc
+お店に飾る宣材写真を\n　お願いしたいニャン♪=I'd like a publicity material\nfor the shop\nPlease-nyan♪
+科学誌の表紙をお願いし\n　たいです。理知的な雰囲\n　気だと嬉しいです=Please give me a cover of \na scientific magazine.\nI'll be happy if it have\nintellectual atmosphere.
+もっとブラウン管の良さ\n　を伝えるために店のポス\n　ターに使う写真を頼む=I would like to have\na poster for a shop,\nto convey the greatness\nof CRT
+御社のアクトレスを\n　新パッケージに使わせて\n　いただけないでしょうか=I'd like to use your\ncompany actresses\nfor our new product\npackaging.
+
 
 -Comment
 ミッション達成！\nこの度は写真の提供ありがとうございました\nこちらの写真を使用させていただきます=Mission accomplished! \nThank you very much for the photo, \nwe will use this photo here!
