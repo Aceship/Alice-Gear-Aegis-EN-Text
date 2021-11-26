@@ -58,7 +58,7 @@
 西暦でいったら\n2400とー……4、50年ぐらい？\nかな？\r\n=In terms of A.D.\n2400 and - ......4, or about 50 years?\ni think?\r\n
 西暦2400年代!?\r\n=2400s A.D.!?\r\n
 つまり、ここは……\n2010年から数えて\n400年以上も先の未来？\r\n=In other words......\nCounting from 2010,\n400+ years into the future?\r\n
-待って待って……\nそれなのにラジ館があるの？\nおかしくない？\r\n=Wait, wait, wait......\nbut the Rajikikan still here?\nIsn't that weird?\r\n
+待って待って……\nそれなのにラジ館があるの？\nおかしくない？\r\n=Wait, wait, wait......\nbut the Radio Kaikan still here?\nIsn't that weird?\r\n
 東京シャードは2010年頃の\n再現っていわれてますので……\nおかしくはない、ですかね？\r\n=Tokyo Shard is said to be\na re-creation around 2010 era\nIs it that strange?\r\n
 東京シャード？\n2010年頃を再現……？\r\n=Tokyo Shard?\nre-create 2010 era......?\r\n
 そんなことが技術的に可能なの？\nそれに――\r\n=How is that even technically possible?\nBesides--\r\n
@@ -85,7 +85,7 @@
 {{A}}、行こっ\r\n={{A}}, let's go there\r\n
 <color%3D#FFFFFFFF>俺だ……\n非常事態だ……</color>\r\n=<color%3D#FFFFFFFF>It's me......\nIt's an emergency......</color>\r\n
 <color%3D#FFFFFFFF>我がラボメンの３名が\n機関に捕らわれてしまったらしい</color>\r\n=<color%3D#FFFFFFFF>Three of my lab member\nHave been captured by the organization</color>\r\n
-<color%3D#FFFFFFFF>これも\n{{A}}の選択か……</color>\r\n=<color%3D#FFFFFFFF>Is this also\nthe choice of {{A}}......</color>\r\n
+<color%3D#FFFFFFFF>これも\n{{A}}の選択か……</color>\r\n=<color%3D#FFFFFFFF>Is this also the choice of \n{{A}}......</color>\r\n
 <color%3D#FFFFFFFF>至急、応援を頼む！\n{{A}}</color>\r\n=<color%3D#FFFFFFFF>I need backup ASAP!\n{{A}}</color>\r\n
 ……隊長？\nどうかしましたか？\r\n=Captain ......?\nWhat's wrong?\r\n
 ……勧誘電話、ですか\r\n=...... solicitation calls, huh?\r\n

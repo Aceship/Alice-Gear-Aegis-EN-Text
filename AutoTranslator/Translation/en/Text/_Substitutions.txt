@@ -17,7 +17,6 @@
 日向さん=Himukai-san
 リンさん=Rin-san
 リンちゃん=Rin-chan
-リン=Rin
 日向=Himukai
 
 小鳥遊 怜=Takanashi Rei
@@ -199,7 +198,6 @@
 加純さん=Kasumi-san
 加純ちゃん=Kasumi-chan
 加純=Kasumi
-鳳=Ohtori
 
 神宮寺 真理=Jinguji Mari
 神宮寺真理=Jinguji Mari
@@ -575,11 +573,16 @@ SOLラプター=SOL Raptor
 イア・レトナ=IA Rehtona
 
 -Steins;Gate-
+紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
+
 牧瀬 紅莉栖=Makise Kurisu
+紅莉栖さん=Kurisu-san
 紅莉栖=Kurisu
 クリスちゃん=Kurisu-chan
 
+
 阿万音 鈴羽=Amane Suzuha
+阿万音さ=Amane-san
 鈴羽=Suzuha
 
 椎名 まゆり=Mayuri Shiina
@@ -587,10 +590,22 @@ SOLラプター=SOL Raptor
 まゆしぃ=Mayushii
 トゥットゥルー=Tutturu
 
-紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
 
+
+
+岡部 倫太郎=Okabe Rintaro
+鳳凰院 凶真=Hououin Kyouma
+凶真さん=Kyouma-san
+おかべさん=Okabe-san
+岡部さん=Okabe-san
+岡部=Okabe
 おかべ=Okabe
-エル・プサイ・コングルゥ=El・Psy・Congroo
+オカリン=Okarin
+
+橋田 至=Hashida Itaru
+ダルくん=Daru-kun
+
+エル・プサイ・コングルゥ=El・Psy・Kongroo
 シュタインズゲート=Steins Gate
 
 
@@ -627,3 +642,10 @@ SOLラプター=SOL Raptor
 
 \\ETC
 ヴァイス=vice
+
+
+--Very common stuff that probably needs to be last
+
+
+鳳=Ohtori
+-リン-=Rin

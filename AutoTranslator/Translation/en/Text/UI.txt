@@ -890,5 +890,9 @@ SPスキル自動回復=SP Skill Auto Recovery
 終了=Exit
 
 
+--story
+リプレイしますか？=Do you want a replay?
+
+
 
 

@@ -49,7 +49,7 @@
 む？　いや\nケガ人はいないーって\nニュースで言ってたよね？\r\n=Hmm?, no\nNo one's hurt.\nThey said that on the news, right?\r\n
 えっ、ニュース？\n……って、なんのですか？\r\n=Eh, news?\n......What?\r\n
 いや、ほら\n昼休みに一緒にお昼食べながら\nテレビ見ててさ\r\n=Uh well, you see, during lunch break,\nwe were watching tv while \neating lunch together\r\n
-そしたら、ラジ館屋上に\n人工衛星が墜落かー？　って\nニュースでやってたじゃん？\r\n=And then, a satellite\ncrashed on the roof of the radio building?\ndidn't you just watch it on the news too?\r\n
+そしたら、ラジ館屋上に\n人工衛星が墜落かー？　って\nニュースでやってたじゃん？\r\n=And then, a satellite\ncrashed on the roof of the Radio Kaikan?\ndidn't you just watch it on the news too?\r\n
 で、{{A}}が\n現場に行くって\n言い出したんだぞ？\r\n=And then, {{A}}\nwants to go there, you said it, right?\r\n
 人工衛星……ニュース……？\r\n=Satellites ...... news ......?\r\n
 いや、でも\nさっきまでお店で\nゲーム見てましたよね？\r\n=No, but...\nyou were watching for a game\nin the store until a while ago, right?\r\n
