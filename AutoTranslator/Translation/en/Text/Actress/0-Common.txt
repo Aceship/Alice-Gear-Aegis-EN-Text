@@ -1,0 +1,20 @@
+sr:"【年齢】(?<num1_i>[0-9?/]+)\n【誕生日】(?<num2_i>[0-9?/]+)\n【血液型】(?<num1_i>[ABO?/]+)"="【Age】${num1_i}\n【Birthday】${num2_i}\n【Blood Type】${num3_i}"
+sr:"(?<num1_i>[0-9?/]+)年(?<num2_i>[0-9?/]+)月(?<num3_i>[0-9?/]+)日 登録"="Registeration date : ${num3_i}-${num2_i}-${num1_i}"
+
+誕生日=BD
+身長=Height
+血液型=Blood
+型=type
+年齢=Age
+歳=y.o
+職業=Work
+ラボメン\nナンバー=Lab mem\nnumber
+
+苦手なもの=What I don't like.
+好きなもの=Favorite Things.
+趣味・特技=Hobbies and special skills
+自己PR=Self-promotion
+アクトレスを志した理由=Why did you choose to work for ACTRESS?
+将来の目標=Future goals
+
+備考=Remarks

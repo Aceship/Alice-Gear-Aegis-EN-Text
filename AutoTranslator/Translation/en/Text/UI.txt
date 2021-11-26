@@ -51,6 +51,9 @@ sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインス�
 やりなおす=Start over
 クリップボードにコピーしました=Copied to clipboard
 
+所持していません=There's nothing here
+表示するキャラがいません=There are no characters to display.
+
 --Item name user
 
 sr:"^【(?<actress>[^【】]+) 専用】(?<after>[^【】]+)"="[Exclusive For ${actress}]\n${after}"
@@ -93,6 +96,7 @@ sr:".(?<Quest>.+). \+(?<num2_i>[0-9]+)pt"=""${Quest}" + ${num2_i}pt"
 コスチューム=Costume
 
 -rescue request
+救援要請=Rescue Request
 ルーム選択=Room selection
 更新=Refresh
 検索中=Searching
@@ -163,6 +167,7 @@ sr="^・★(?<num1_i>[0-9]+) (?<name>.+)Lv.(?<num2_i>[0-9]+)$"="・★${num1_i} 
 sr:"サポート回数 : (?<num1_i>[0-9]+)\n獲得ゴールド : (?<num2_i>[0-9]+)"="Support count: ${num1_i} \nGold earned: ${num2_i}"
 
 -Gacha
+所持=Qty.
 詳細=Detail
 交換品詳細=Exch. details
 提供割合=Rate
@@ -193,7 +198,7 @@ sr:"受け取り可能な項目が (?<num_i>[0-9]+) 件あります"="${num_i} i
 ※すでに取得していた場合、特典アイテムが貰えます=※Get special item from duplicate character
 
 -get scout tick
-sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i} points remaining \nuntil you get the scout card
+sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i} points remaining \nuntil you the scout card
 
 --BD setting
 
@@ -599,6 +604,7 @@ BGM音量=BGM volume
 アンチエイリアス-バトル=Antialiasing-Battle
 アンチエイリアス-マルチ=Antialiasing-Multi
 ポストフィルター=Post-Processing Filter
+ポストフィルタ=Post-Processing Filter
 
 -Battle Tabs
 バトル関連=Battle related
@@ -620,6 +626,7 @@ BGM音量=BGM volume
 近=Near
 
 セミオート操作=Semi-auto operation
+画面内/外ロック切替ボタン表示=Switch button for in/out screen lock
 セミオート時のターゲット自由変更機能=Free switch target function\nduring semi-auto
 オート近接攻撃モード=Auto melee attack mode
 押した敵にターゲットを切り替える=Switch target by clicking on enemy
@@ -669,6 +676,7 @@ AUTOの進行速度=AUTO progress speed
 -Gamepad Tab
 ゲームパッド関連=Gamepad related
 アナログスティックの感度=Analog stick sensitivity
+Xinputを有効=Enable Xinput
 軸の遊び=Axis play
 決定ボタンの位置を反転=Invert the position of the confirm button
 OFF：Aボタンで決定\nON：Bボタンで決定=OFF: Confirm by the A button \nON: Confirm by the B button
@@ -680,12 +688,19 @@ OFF：Aボタンで決定\nON：Bボタンで決定=OFF: Confirm by the A button
 -Experimental Tab
 実験的機能=Experimental function
 バトル操作時のセミオートとマニュアルを統合=Integrated semi-auto and manual for \nbattle operation
+パッド操作時のフリック入力補正無効化=Disabling flick input correction \nwhile using gamepad
 <color%3Dred>※セミオート操作設定無効</color>=<color%3Dred>* Semi-auto operation setting disabled</color>
 リフレッシュレート制限解除=Unlock Refresh rate
 タイトル画面のみ消音=Mute Title Screen
+シナリオ中の高速再生ボタンを有効=Enable fast play button during scenario
 ホームのカメラ操作を反転させる=Invert Home Camera Control
 キーバインド=Key binding
 ダークモード=Dark mode
+Web表示モード2=Web display mode 2
+<color%3Dred>※高負荷 お知らせが表示されない場合に利用</color>=<color%3Dred>※Use this in case web notice not loaded</color>
+ゴールド/アニマ所持上限警告を非表示=Hide gold/anima possession limit warning
+
+インストールデータの整理=Organize the installation data
 
 -Keybinding
 

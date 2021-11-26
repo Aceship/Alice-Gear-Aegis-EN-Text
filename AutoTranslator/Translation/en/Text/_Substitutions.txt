@@ -576,6 +576,7 @@ SOLラプター=SOL Raptor
 紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
 
 牧瀬 紅莉栖=Makise Kurisu
+まきせ くりす=Makise Kurisu
 紅莉栖さん=Kurisu-san
 紅莉栖=Kurisu
 クリスちゃん=Kurisu-chan
@@ -649,3 +650,5 @@ SOLラプター=SOL Raptor
 
 鳳=Ohtori
 -リン-=Rin
+
+隊長=Captain
