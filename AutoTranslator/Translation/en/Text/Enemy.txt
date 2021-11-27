@@ -118,3 +118,4 @@ VWキャノン=VW Cannon
 リストリクトアンカー=Restricted Anchor
 インザケージ=In The Cage
 トルアンティクロック=Torque Anticlock
+エンタングルフォトン=Entangled photon

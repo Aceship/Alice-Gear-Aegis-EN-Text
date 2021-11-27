@@ -211,6 +211,12 @@ sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i}
 
 
 --Login Bonus 
+sr:"開催期間：(?<num1_i>[0-9]+)年 (?<num2_i>[0-9]+)月 (?<num3_i>[0-9]+)日  (?<num4_i>[0-9:]+) まで"="Period : Until ${num3_i}-${num2_i}-${num1_i} at ${num4_i}"
+差出人：AEGiS=From: AEGiS
+件名：{{A}}への特別ボーナス=Subject: Bonus for {{A}}
+件名：{{A}}へのサポート=Subject: Support for {{A}}
+件名：{{A}}の来訪者へ=Subject: for {{A}} visitors
+差出人：未来ガジェット研究所=From: Future Gadget Lab
 10日目=Day 10
 9日目=Day 9
 8日目=Day 8

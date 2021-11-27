@@ -585,6 +585,7 @@ SOLラプター=SOL Raptor
 
 阿万音 鈴羽=Amane Suzuha
 阿万音さ=Amane-san
+鈴羽さん=Suzuha-san
 鈴羽=Suzuha
 
 椎名 まゆり=Mayuri Shiina
@@ -643,6 +644,7 @@ SOLラプター=SOL Raptor
 叢雲=Murakumo
 
 \\ETC
+Dヴァイス=D-Vice
 ヴァイス=vice
 
 -common stuff
