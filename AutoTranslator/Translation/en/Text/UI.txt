@@ -129,6 +129,7 @@ sr="^・★(?<num1_i>[0-9]+) (?<name>.+)Lv.(?<num2_i>[0-9]+)$"="・★${num1_i} 
 称号=Title
 サポーター=Supporter
 隊長の誕生日=Captain's birthday
+{{A}}の誕生日={{A}}'s Birthday
 累計ログイン日数=Login Day
 ボーナス履歴=Login Bonus\nhistory
 習熟訓練=Training

@@ -1,12 +1,16 @@
+-greetings
+グッドモーニング、朝ごはん食べました？\nまだなら一緒にどうですか？\r\n=Good morning. Have you eaten breakfast? If you haven't, would you like to join us?\r\n
+
+{{A}}\n確認忘れずにお願いしますね\r\n={{A}}, Please don't forget to check it\r\n
 
 
 - touch stuff -
-整備部の人たちに、アリスギアの諸元表など\nを見せていただいたんですけど\n実に興味深いですね……\r\n=The maintenance staff showed me the specification list of Alice Gear.\nand so on.\nIt's really interesting. ......\r\n
-あ、専門は違いますけど、アリスギアって\n私の知らない未来の技術ばかりで……\r\n=Oh, I'm not a specialist, but Alice Gear is.\nIt's all future technology that I don't even know about. ......\r\n
+整備部の人たちに、アリスギアの諸元表など\nを見せていただいたんですけど\n実に興味深いですね……\r\n=The maintenance staff showed me the specification list of Alice Gear.and so on.It's really interesting. ......\r\n
+あ、専門は違いますけど、アリスギアって\n私の知らない未来の技術ばかりで……\r\n=Oh, I'm not a specialist, but Alice Gear is.It's all future technology that I don't even know about. ......\r\n
 あの……冷蔵庫に「牧瀬」と書いてある\nプリンを見ませんでしたか？\n実験用に買っておいたんですが……\r\n=That ...... fridge says "Makise" on it.\nHave you seen the pudding with "Makise" on it?\nI bought it for an experiment. ......\r\n
 いえ、大それた実験ではなくって\n数百年後でもプリンの味というのは\n同じなのかどうか、という……\r\n=No, it's not a big experiment.\nI was wondering if the taste of pudding would be the same\nwhether the taste of pudding will be the same in a few hundred years or not. ......\r\n
 でも、すでにひとつ食べて\n確認はしてますから、大丈夫です\n美味しかったので、お裾分けしようかなって……\r\n=But I already ate one.\nI've already eaten one and confirmed it, so it's okay.\nIt was so good, I thought I'd share it with you: ......\r\n
-
+確か「境界福祉法」でしたっけ？\nそれが無ければどこまでも調べてましたね\nふふっ\r\n=I believe it was the "Boundary Welfare Act"?If it weren't for that, I'd have looked everywhere. Hmm.\r\n
 {{B}}の書類なんですが、機能的に整理\nされていて見やすくて、作業が捗りますね\n……{{A}}が書式を？　さすがですね\r\n=It's a {{B}} document, but it's functionally organized\nIt's organized and easy to read and work with!\n......{{A}} has the forms? That's great!\r\n
 この書類、ボタンなどを使うことで誰でも\n作業ができ、入力のミスが減らせるところ\nが優れているんだと思います\r\n=By using this document, buttons, etc., anyone can\nand reduce input errors.\nI think it's excellent.\r\n
 ところで隊長の提出した『交際費』ですが\n多くありませんか？\nえっ、この前みなさんと行ったお食事会の\n支払い!?\r\n=By the way, the "entertainment expenses" that the captain submitted...\nIsn't it a lot?\nWhat? The dinner party I went to with you guys the other day.\nPayment?\r\n
@@ -21,3 +25,6 @@
 コラ、じろじろ見るな！\n見続けるなら……へ、変態と呼ぶぞ！\r\n=Kola, stop staring at me!\nIf you keep looking, go to ...... and I'll call you a pervert!\r\n
 
 に、似合いますか？\n{{A}}や漆原さんなら何て言うかな……\r\n=Does it look good on you?\nWhat would {{A}} or Urushibara say about it: ......\r\n
+
+-Gift
+えっ、私に？\nグッジョブ！　とっても嬉しい！\r\n=What, for me?\nGood job! I'm so happy for you!\r\n

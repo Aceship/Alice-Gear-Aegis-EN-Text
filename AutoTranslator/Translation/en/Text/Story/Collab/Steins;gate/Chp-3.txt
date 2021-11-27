@@ -45,7 +45,7 @@
 
 これまで、世界の科学者たちが\n提唱してきたタイムマシン理論だけど\n主な理論だけで11\r\n=So far, time machine theory have been\nproposed by scientists around the world,\nthere's 11 major theories\r\n
 中性子理論、ブラックホール理論\n光速理論、タキオン理論\nワームホール理論\r\n=Neutron theory, Black hole theory\nSpeed of light theory, Tachyon theory\nWormhole Theory\r\n
-エキゾチック物質理論、宇宙ひも理論\n量子重力理論、セシウムレーザー光理論\n素粒子{{A}}グ・レーザー理論\r\n=Exotic matter theory, cosmic string theory\nQuantum gravity theory, Cesium laser theory\nElementary particle ring and laser theory\r\n
+エキゾチック物質理論、宇宙ひも理論\n量子重力理論、セシウムレーザー光理論\n素粒子リング・レーザー理論\r\n=Exotic matter theory, cosmic string theory\nQuantum gravity theory, Cesium laser theory\nElementary particle ring and laser theory\r\n
 ディラック反粒子理論……\nどれも仮説の域を出なかった\r\n=Dirac anti-particle theory...\nBut, None of them went beyond hypothesis\r\n
 でも、ここにあるタイムマシンは\nそれらとは別の新しいタイマシン理論で\n作られたものなんだ\r\n=But the time machine we have here...\nIs built based on a new theory\nof time machines\r\n
 カー・ブラックホールを\n２つ生成することで\nタイムトラベルを行うんだよ\r\n=By creating 2 of Kerr Black hole,\ntime travel can happen
@@ -58,7 +58,7 @@
 西暦でいったら\n2400とー……4、50年ぐらい？\nかな？\r\n=In terms of A.D.\n2400 and - ......4, or about 50 years?\ni think?\r\n
 西暦2400年代!?\r\n=2400s A.D.!?\r\n
 つまり、ここは……\n2010年から数えて\n400年以上も先の未来？\r\n=In other words......\nCounting from 2010,\n400+ years into the future?\r\n
-待って待って……\nそれなのにラジ館があるの？\nおかしくない？\r\n=Wait, wait, wait......\nbut the Radio Kaikan still here?\nIsn't that weird?\r\n
+待って待って……\nそれなのにラジ館があるの？\nおかしくない？\r\n=Wait, wait, wait......\nbut the Radio-kan still here?\nIsn't that weird?\r\n
 東京シャードは2010年頃の\n再現っていわれてますので……\nおかしくはない、ですかね？\r\n=Tokyo Shard is said to be\na re-creation around 2010 era\nIs it that strange?\r\n
 東京シャード？\n2010年頃を再現……？\r\n=Tokyo Shard?\nre-create 2010 era......?\r\n
 そんなことが技術的に可能なの？\nそれに――\r\n=How is that even technically possible?\nBesides--\r\n
@@ -87,11 +87,11 @@
 <color%3D#FFFFFFFF>我がラボメンの３名が\n機関に捕らわれてしまったらしい</color>\r\n=<color%3D#FFFFFFFF>Three of my lab member\nHave been captured by the organization</color>\r\n
 <color%3D#FFFFFFFF>これも\n{{A}}の選択か……</color>\r\n=<color%3D#FFFFFFFF>Is this also the choice of \n{{A}}......</color>\r\n
 <color%3D#FFFFFFFF>至急、応援を頼む！\n{{A}}</color>\r\n=<color%3D#FFFFFFFF>I need backup ASAP!\n{{A}}</color>\r\n
-……隊長？\nどうかしましたか？\r\n=Captain ......?\nWhat's wrong?\r\n
+……{{A}}？\nどうかしましたか？\r\n={{A}}......?\nWhat's wrong?\r\n
 ……勧誘電話、ですか\r\n=...... solicitation calls, huh?\r\n
 ヘルプ……サイ……カンガルー？\r\n=Help ...... sai ...... kangaroo?\r\n
 海外の動物愛護団体かしら\r\n=I wonder if it's a foreign animal rights group.\r\n
-AEGiS端末は、隊長のほうで\n登録した相手としか通じないのに……\nさっきから、おかしいですね\r\n=The AEGiS terminal is on the captain's side,\nIt only works with people you've registered\nwith.., it's been weird for a while right\r\n
+AEGiS端末は、{{A}}のほうで\n登録した相手としか通じないのに……\nさっきから、おかしいですね\r\n=The AEGiS terminal {{A}} have, It can only\ncommunicate with people you've registered\nwith.., it's been weird for a while, right?\r\n
 {{A}}が戻ってきたら\nすぐに見てもらいましょう\r\n=When {{A}} comes back,\nI'll have her look at it right away\r\n
 まったく……\nいつになったら戻るのかしら\r\n=Well......\nI wonder when she'll be back\r\n
 

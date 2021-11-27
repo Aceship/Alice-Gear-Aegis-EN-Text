@@ -576,6 +576,7 @@ SOLラプター=SOL Raptor
 紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
 
 牧瀬 紅莉栖=Makise Kurisu
+牧瀬紅莉栖=Makise Kurisu
 まきせ くりす=Makise Kurisu
 紅莉栖さん=Kurisu-san
 紅莉栖=Kurisu
@@ -644,11 +645,15 @@ SOLラプター=SOL Raptor
 \\ETC
 ヴァイス=vice
 
+-common stuff
+
+支給ですよ=It's supplies
+
 
 --Very common stuff that probably needs to be last
 
 
-鳳=Ohtori
+-鳳-=Ohtori
 -リン-=Rin
 
 隊長=Captain

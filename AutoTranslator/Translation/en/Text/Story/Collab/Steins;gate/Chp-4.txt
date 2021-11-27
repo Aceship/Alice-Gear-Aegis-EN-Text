@@ -1,4 +1,4 @@
-{{A}}ー、隊長ーっ\nお客さんが来てまーす\r\n={{A}}, Captain!\nYou have a visitor.\r\n
+{{A}}ー、{{B}}ーっ\nお客さんが来てまーす\r\n={{A}}, {{B}}!\nYou have a visitor.\r\n
 これが……ギア……\r\n=This is...... gear......\r\n
 未来ガジェットみたいだね～\r\n=It looks like future gadget～\r\n
 アクトレスは活動時に\nこのようなギアを使用します\r\n=When actress go sortie,\nwe used this kind of gear\r\n
@@ -27,7 +27,7 @@
 本来ならあたしたちは\n５時間前に飛ぶはずだった\r\n=Originally, we were\nsupposed to fly 5 hours ago\r\n
 {{A}}んがセットするのを\n私も確認したから\nそれは間違いない\r\n=I saw {{A}} set it up.\ni checked it too\ndefinitely nothing wrong\r\n
 それなのに\n過去へ行くどころか\n未来に飛ばされてきてた\r\n=And yet...\nInstead of going back in time,\nwe got transported into the future.\r\n
-行けるはずのない\n400年後のラジ館に\r\n=Where its impossible,\nTo the Radio Kaikan 400 years later.\r\n
+行けるはずのない\n400年後のラジ館に\r\n=Where its impossible,\nTo the Radio-kan 400 years later.\r\n
 でも、そのありえない状況に\n私たちは存在してる……\r\n=But in that impossible situation.\nWe are here.......\r\n
 なぜこうなってしまったのか\nどうしたら2010年に帰れるのか\n手がかりすらない\r\n=Why did this happen?\nHow do we get back to 2010?\nNot even a clue.\r\n
 絶望的な状況よ……\r\n=It's a desperate situation.......\r\n
@@ -41,8 +41,8 @@
 そう、だよね……\nきっと何かあるよね……\r\n=Right......\nI'm sure there's something......\r\n
 でも、どうしたらいいのか\n見当もつかない……\r\n=But we have no idea what to do.......\r\n
 原因にも心当たりはないし\n調べる方法も\nわからないな……\r\n=We have no idea what caused it,\ndon't even know how to find it out......\r\n
-電話……？\n隊長の端末みたいですね\r\n=Phone ......?\nLooks like it's captain's terminal.\r\n
-そうだ、{{A}}……\n隊長の端末なんだけど――\r\n=Ah yeah, {{A}}......\nAbout captain's terminal--\r\n
+電話……？\n{{A}}の端末みたいですね\r\n=Phone ......?\nLooks like it's {{A}}'s terminal.\r\n
+そうだ、{{A}}……\n{{B}}の端末なんだけど――\r\n=Ah yeah, {{A}}......\nAbout {{B}}'s terminal--\r\n
 ……こえているか？　俺だ\n狂気のマッドサイエンティストだ……\r\n=...Can you hear me? it's me.\nCrazy mad scientist......\r\n
 {{A}}だ！\r\n={{A}}!\r\n
 待って！\r\n=Wait!\r\n

@@ -2,7 +2,7 @@
 {{A}}です！\n聞こえますか？\nえぇと……{{B}}？\r\n=This is {{A}}!\nCan you hear me?\nUh, ......{{B}}?\r\n
 むっ\n{{A}}と名乗る少女よ\n聞こえている！　だが……！\r\n=Mmm.\nThe girl who calls herself {{A}},\nI hear you! But......!\r\n
 俺は、{{A}}ではない！\r\n=I'm not {{A}}!\r\n
-俺は{{A}}\n世界中の秘密組織から狙われる\n狂気のマッドサイエンティストだ!!\r\n=My name is {{A}}.\na crazy mad scientist wanted \nby secret societies all over the world.\r\n
+俺は{{A}}\n世界中の秘密組織から狙われる\n狂気のマッドサイエンティストだ!!\r\n=My name is {{A}}.\na crazy mad scientist wanted by\nsecret organizations all over the world.\r\n
 あっ、すみません\n{{A}}じゃないんですか？\r\n=Oh, sorry,\nso you're not {{A}}?\r\n
 あの……\nなんだか人違いみたいで――\r\n=Uhh......\nI think you've got the wrong person\r\n
 んなわけ……かっ！\nちょ……部っ！\r\n=No-...Wai-....!\nHey......!\r\n
@@ -17,7 +17,7 @@
 橋……も一緒な……ね\r\n=You're with... hashi.......\r\n
 今の、阿万音氏？\r\n=That's, Miss. Amane?\r\n
 {{A}}、君は俺の仲間たちと\n一緒にいるのか？\r\n={{A}}, are you there with my friends?\r\n
-隊長っ\n画面が見えるようにって\nできますか？\r\n=Captain!\nCan you make the screen visible to us?\r\n
+{{A}}っ\n画面が見えるようにって\nできますか？\r\n={{A}}!\nCan you make the screen visible to us?\r\n
 えっと……\nこちらの様子、見えますか？\r\n=Um, ......\nCan you see what's going on here?\r\n
 美少女キター\r\n=Beautiful girl kitaa!\r\n
 {{A}}も一緒だったか\r\n={{A}} was with you.\r\n
@@ -28,7 +28,7 @@
 ええっ……\r\n=Ehh.....\r\n
 {{A}}たちの声……\nあちらに届いてないような\n気がするんですが……\r\n={{A}}....\nI have a feeling that our voice \nis not reaching there\r\n
 メガネ美少女ktkr!!\r\n=Beautiful girl with glasses ktkr!\r\n
-{{A}}たち\n過去から来た３人だけが\n話できてない感じ……？\r\n=It feels like we can talk not only\nwith the 3 of them from the past\n?\r\n
+{{A}}たち\n過去から来た３人だけが\n話できてない感じ……？\r\n=It feels like we can talk not only\nwith the 3 of them from the past?\r\n
 ちょい待ち！\nオリエンタル美少女!!\nハァハァ……\r\n=Wait a minute!\nBeautiful oriental girl!!!\nHaah haah......\r\n
 待て、今\n過去から、と言ったな？\nそこは「未来」なのか？\r\n=Wait, just now,\nyou said "from the past"?\nIs it "future" where you at?\r\n
 えっと……\nそうですね\n{{A}}、状況を――\r\n=Um....\nRight...\n{{A}}, we have a situation--\r\n
@@ -65,7 +65,7 @@
 いわば\n時空に穴が開いているようなものだ！\r\n=So to speak,\nIt's like there's a hole in space-time!\r\n
 みっつ――\n{{A}}のタイムマシンが\n元の時代に戻れないこと\r\n=Third--\n{{A}}'s time machine, the fact that it \ncannot return to the original time\r\n
 時空の穴から400年後に\n飛んだのならば、穴があれば\n戻ることも可能なはずだが――\r\n=If there's a hole in space-time\nin the 400 years later,\nit should be able to get back in time...\r\n
-誰かが邪魔していると\n考えるのが妥当だろう\r\n=I think it's reasonable to assume\nthat something is interfering with it\r\n
+誰かが邪魔していると\n考えるのが妥当だろう\r\n=I think it's reasonable to assume\nthat someone is interfering with it\r\n
 邪魔をしている誰か……ですか\r\n=Is there someone ...... who is interfering\r\n
 時空をも捻じ曲げて穴を開けるほどの\n莫大なエネルギーを有し\n人類に仇為す……敵だっ！\r\n=It has enormous energy,\nenough to twist and puncture space-time\nIt is the ...... enemy of mankind!\r\n
 厨二病乙\r\n=There it is, chuunibyou\r\n
