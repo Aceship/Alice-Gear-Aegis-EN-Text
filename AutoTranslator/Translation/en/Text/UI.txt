@@ -199,7 +199,7 @@ sr:"受け取り可能な項目が (?<num_i>[0-9]+) 件あります"="${num_i} i
 ※すでに取得していた場合、特典アイテムが貰えます=※Get special item from duplicate character
 
 -get scout tick
-sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i} points remaining \nuntil you the scout card
+sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i} points remaining \nuntil you get scout card
 
 --BD setting
 
