@@ -9,7 +9,7 @@
 サンクス\r\n=Thanks\r\n
 {{A}}も検査受けて\n一緒にやればよかったのに\r\n=It would be be better if {{A}} \nalso took the test\r\n
 {{A}}は戦うの苦手だから\nタイムマシン担当でいいのです\r\n={{A}} isn't good at fighting,\ni'll be in charge of the time machine instead.\r\n
-あ、{{A}}ーっ\n『時空干渉波発生装置』の\n作動テスト、完了したよー\r\n=Oh, {{A}}!\nThe "Time-space interference generator"\noperation test has been completed\r\n
+あ、{{A}}ーっ\n『時空干渉波発生装置』の\n作動テスト、完了したよー\r\n=Oh, {{A}}!\nThe "Space-time interference generator"\noperation test has been completed\r\n
 ギアへの組み込みも\nバッチリだから\nいつでも行けるってさ――\r\n=It was easy to integrate it into the gear,\nSo we're ready to go at any time.\r\n
 オペレーション『魔狼捕獲の足枷』!!\r\n=Operation "Gleipnir"!\r\n
 いよいよですね\r\n=It's finally here.\r\n
@@ -43,6 +43,6 @@
 では、カウントダウン\n……10秒前…………\r\n=Now for the countdown\n......10 seconds............\r\n
 ５秒前……\r\n=5 seconds......\r\n
 {{A}}・{{B}}={{A}}・{{B}}
-時空干渉波――展開!!\r\n=Time-space interference wave deploy!\r\n
+時空干渉波――展開!!\r\n=Space-time interference wave deploy!\r\n
 前方の空間に\n{{A}}反応です！\r\n={{A}} response in the space ahead!\r\n
 ……来るッ！\r\n=...... coming!\r\n

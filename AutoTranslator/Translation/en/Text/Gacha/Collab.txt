@@ -1,5 +1,5 @@
 -Steins;gate-
-＜うーぱガチャ＞\n100コイン を 1 枚\n消費して実行します\nよろしいですか？=＜OOPA Gacha>\n100 Coins 1 time\nAre you sure you want to do this?
-おぉーうーぱだー、かわいいねぇ\r\n=Oh, Oopa! it's so cute, right!\r\n
-うーぱだー\r\n=it's Oopa\r\n
+＜うーぱガチャ＞\n100コイン を 1 枚\n消費して実行します\nよろしいですか？=＜Upa Gacha>\n100 Coins 1 time\nAre you sure you want to do this?
+おぉーうーぱだー、かわいいねぇ\r\n=Oh, Upa! it's so cute, right!\r\n
+うーぱだー\r\n=it's Upa\r\n
 いいねー\nとっても似合ってるよー\r\n=Nice\nIt looks really good on you～\r\n

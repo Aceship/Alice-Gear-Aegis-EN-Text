@@ -13,7 +13,7 @@
 電波状況、安定せんね\r\n=The signal's not stable.\r\n
 あの、そちらの方は？\r\n=Um, what about you?\r\n
 スーパーハカー {{A}}\n通称・ダル！\r\n=Super Hacka {{A}}\nAlso known as Daru!\r\n
-ハカーじゃなく\nハッカーだろ常考\r\n=Not hacka, hacker\r\n
+ハカーじゃなく\nハッカーだろ常考\r\n=Not hacka, it's hacker, duh.\r\n
 橋……も一緒な……ね\r\n=You're with... hashi.......\r\n
 今の、阿万音氏？\r\n=That's, Miss. Amane?\r\n
 {{A}}、君は俺の仲間たちと\n一緒にいるのか？\r\n={{A}}, are you there with my friends?\r\n
