@@ -68,6 +68,7 @@ sr:"最大レベルに到達した★(?<num1_i>[0-9]+)キャラク\r\nターを(
 sr:"コスチュームを(?<num_i>[0-9]+)着所持する"="Own ${num_i} costumes"
 sr:"調査任務を(?<num_i>[0-9]+)宙域クリアする"="Complete ${num_i} survey missions"
 sr:"調査任務の完全回避数が累計(?<num_i>[0-9]+)\r\n回に到達する"="Total of perfect evasion in survey missions reaches ${num_i}"
+sr:"完全回避連続(?<num_i>[0-9]+)回達成"="Achieved ${num_i} complete evasions in a row!"
 sr:"ギアの合成を(?<num_i>[0-9]+)回行う"="Synthesize gear ${num_i} times"
 sr:"プレイヤーRank.(?<num_i>[0-9]+)に到達する"="Reach Player Rank.${num_i}"
 sr:"プレイヤーLv.(?<num_i>[0-9]+)に到達する"="Reach Player Lv.${num_i}"

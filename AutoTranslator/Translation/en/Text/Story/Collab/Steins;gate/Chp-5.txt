@@ -47,7 +47,7 @@
 {{B}}・{{A}}・{{C}}={{B}}・{{A}}・{{C}}
 しかも、通話\nテレビに映ってるし\r\n=And the call is actually on TV\r\n
 どういうこと!?\r\n=What do you mean!?\r\n
-この通信は\nいつ切れてもおかしくない……\n手早く状況の説明を頼む！\r\n=This communication,\nit could be disconnected at any moment. ......\nI need a quick description of the situation!\r\n
+この通信は\nいつ切れてもおかしくない……\n手早く状況の説明を頼む！\r\n=This communication,\nit could be disconnected at any moment......\nI need a quick description of the situation!\r\n
 あ、はいっ！\r\n=Oh, yes!\r\n
 400年後に地球脱出とか\nどこのハリウッド映画？\r\n=400 years from now, we escaped earth\nWhat kind of Hollywood movie is that?\r\n
 江戸時代が終わって約100年後には\n人類は月面着陸に成功している！\n驚くことはない\r\n=About 100 years after the end of the\nEdo period, human have succeeded in\nlanding on the moon! No surprise there.\r\n
