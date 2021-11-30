@@ -1,21 +1,21 @@
 グレイプニル……\nたしか北欧神話で――\r\n=Gleipnir......\nI think it's Norse mythology--\r\n
 フェンリルを縛るために\nドワーフによって作られた\n魔法の紐……\r\n=A magical silken ribbon\nmade by the dwarves\nto bind the fenrir......\r\n
 時を越えた理解者がここにいたか！\nだが、今は君と語らい合う時間的な\n余裕はない……許してくれ\r\n=So there's a person here with timeless\ncomprehension!, But we don't have time to\ndiscuss this with you right now.....Forgive me.\r\n
-とにかく、本作戦は\n『時空に影響する{{A}}（仮）』の\n排除と時空の是正を目指すものである！\r\n=Anyway, this operation is to eliminate\n"Space-time affecting {{A}} (temporary)"\nand the correction of space-time!\r\n
+とにかく、本作戦は\n『時空に影響する{{A}}（仮）』の\n排除と時空の是正を目指すものである！\r\n=Anyway, this operation is to eliminate\n"Space-time affecting {{A}} (tentative)"\nand the correction of space-time!\r\n
 カッコカリ=parentheses
-『時空に影響する{{A}}（仮）』が\n原因だと断定する科学的根拠はなく\n状況証拠でしかないのは心苦しいが……\r\n=There is no scientific evidence that \n"Space-time affecting {{A}} (temporary)"\ncauses it, but i'm afraid it's the only evidence...\r\n
-『時空に影響する{{A}}（仮）』以外の\n原因が他に見当もつかない以上\n仮定で進めることを許してほしい\r\n=As I have no idea what else caused this, other\nthan "Space-time affecting {{A}} (temporary)",\nI hope you'll forgive me for making assumptions.\r\n
-『時空に影響する{{A}}（仮）』は\nこちらでも調査を進めますので\r\n=We will also continue to investigate\n"Space-time affecting {{A}} (temporary)"\nfrom here.\r\n
+『時空に影響する{{A}}（仮）』が\n原因だと断定する科学的根拠はなく\n状況証拠でしかないのは心苦しいが……\r\n=There is no scientific evidence that \n"Space-time affecting {{A}} (tentative)"\ncauses it, but i'm afraid it's the only evidence...\r\n
+『時空に影響する{{A}}（仮）』以外の\n原因が他に見当もつかない以上\n仮定で進めることを許してほしい\r\n=As I have no idea what else caused this, other\nthan "Space-time affecting {{A}} (tentative)",\nI hope you'll forgive me for making assumptions.\r\n
+『時空に影響する{{A}}（仮）』は\nこちらでも調査を進めますので\r\n=We will also continue to investigate\n"Space-time affecting {{A}} (tentative)"\nfrom here.\r\n
 今はまず\n{{A}}の計画を\n聞かせていただけますか？\r\n=First thing first,\nWhat are your plans, {{A}}?\nCan you tell us about it?\r\n
 どうかしましたか……？\r\n=What's wrong, ......?\r\n
-『時空に影響する{{A}}（仮）』は\n言いにくい……よし、命名する！\r\n="Space-time affecting {{A}} (temporary)"...\nis kinda hard to say....... Okay, I'll name it!\r\n
+『時空に影響する{{A}}（仮）』は\n言いにくい……よし、命名する！\r\n="Space-time affecting {{A}} (tentative)"...\nis kinda hard to say....... Okay, I'll name it!\r\n
 その名も――\n『ハイパースペースラスカル』!!\r\n=I'll call it...\n"Hyperspace Rascal"!\r\n
 ちなみに\n『超時空のならず者』と書き\n『ハイパースペースラスカル』と読ませる\r\n=By the way,\nit's written like "the rascal of hyperspace-time"\nhence "Hyperspace Rascal"\r\n
 アライグマしか思いつかないだろ\n常考\r\n=All you can think of is rascals,\nduh.\r\n
 あはは……\n名前って必要ですかね……？\r\n=Ahaha ......\nDo you really need to name it......?\r\n
 まー、つけるにしても\n{{A}}、って入ってないと\n分かりにくいよね\r\n=Well, if you want to name it...\nIt got to have "{{A}}" in it,\nor it'll be hard to tell.\r\n
 名前……？\nまた名付けで厨二病的なことを\n言ってるの!?\r\n=Name ......?\nYou're being chuunibyou with\nthe naming again?!\r\n
-あ、はい……\n『時空に影響する{{A}}（仮）』が\nちょっと言いにくいということで……\r\n=Ah, well......\nIt's kinda a little hard to say\n"Space-time affecting {{A}} (temporary)"...\r\n
+あ、はい……\n『時空に影響する{{A}}（仮）』が\nちょっと言いにくいということで……\r\n=Ah, well......\nIt's kinda a little hard to say\n"Space-time affecting {{A}} (tentative)"...\r\n
 {{B}}♪\n{{A}}思いついたよ～\r\n={{B}} ♪\n{{A}} got an idea～\r\n
 あのね\n{{A}}・イン・ワンダーランド～\r\n=What about..\n{{A}} in wonderland～\r\n
 まだ長くて言いにくいね\r\n=Still too long to tell.\r\n
@@ -23,7 +23,7 @@
 もう\n『{{A}}』にしましょう\r\n=Oh, God\nLet's just call it "{{A}}"\r\n
 「D」……\nなにかの頭文字ですか？\r\n="D" ......\nIs it an acronym for something?\r\n
 
-お～、それいいね～\n『Dメール』とおんなじだ～\r\n=Oh, I like that～\nIt's just like the "D-Mail"～\r\n
+お～、それいいね～\n『{{A}}』とおんなじだ～\r\n=Oh, I like that～\nIt's just like the "{{A}}"～\r\n
 はいはい、それに決まり！\n分かりやすくていいよ\r\n=Yes, yes, let's go with it!\nIt's easy to understand.\r\n
 {{A}}に伝えてもらえる？\nこれは決定事項だ――と\r\n=Can you tell {{A}}?\nThat this is already decided\r\n
 岡……{{B}}\n{{A}}の提案で\n{{C}}に決定しました！\r\n=Oka......{{B}}\nAt the suggestion of {{A}}\nWe've decided to go with {{C}}!\r\n

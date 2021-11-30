@@ -610,6 +610,9 @@ SOLラプター=SOL Raptor
 
 エル・プサイ・コングルゥ=El・Psy・Kongroo
 シュタインズゲート=Steins Gate
+成子坂レンジ（仮）=NarukozakaWave(tentative)
+Dヴァイス=D-Vice
+Dメール=D-Mail
 
 
 //Maintenance Crew
@@ -644,7 +647,6 @@ SOLラプター=SOL Raptor
 叢雲=Murakumo
 
 \\ETC
-Dヴァイス=D-Vice
 ヴァイス=vice
 
 -common stuff

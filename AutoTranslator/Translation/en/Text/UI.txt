@@ -916,5 +916,9 @@ SPスキル自動回復=SP Skill Auto Recovery
 リプレイしますか？=Do you want a replay?
 
 
+--event unlock
+sr:"(?<month_i>[0-9]+)/(?<day_i>[0-9]+) (?<hour_i>[0-9]+):(?<minute_i>[0-9]+)から開催"="Open at ${month_i}/${day_i} - ${hour_i}:${minute_i}"
+
+
 
 

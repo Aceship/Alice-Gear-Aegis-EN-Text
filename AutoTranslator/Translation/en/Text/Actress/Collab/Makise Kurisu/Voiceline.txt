@@ -1,5 +1,7 @@
 -greetings
 グッドモーニング、朝ごはん食べました？\nまだなら一緒にどうですか？\r\n=Good morning. Have you eaten breakfast? If you haven't, would you like to join us?\r\n
+グッドイブニング\nそろそろ今日のお仕事は終わりですか？\r\n=Good Evening.\nAre you almost done with work for the day?\r\n
+ふぁぁ……ひゃあっ！\nた、{{A}}!?　いつからそこに？\r\n=Huh. ...... hiya!\nHow long have you been there, {{A}}?\r\n
 
 {{A}}\n確認忘れずにお願いしますね\r\n={{A}}, Please don't forget to check it\r\n
 
