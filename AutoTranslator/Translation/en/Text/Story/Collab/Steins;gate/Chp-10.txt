@@ -52,7 +52,7 @@
 {{A}}と戦っていたら\n急にめまいのような感じがして\n気が付いたら、ここに……\r\n=When I was fighting the {{A}},\nsuddenly I felt dizzy,\nand then i found myself here.....\r\n
 やはり……\n{{A}}と時空の歪みに\n関係あるのかもしれない\r\n=I knew it......\nI think it have something to do with the\n{{A}} and the space-time distortion.\r\n
 だとしたら、わたしが見た記憶は……\r\n=If so, then, the memory of what I saw was ......\r\n
-少々ややこしいが\n実際に発生する“過去”の\n出来事だろう\r\n=It's a little complicated.\nBut it's an actual event in the future.\r\n
+少々ややこしいが\n実際に発生する“過去”の\n出来事だろう\r\n=It's a little complicated.\nBut it's an actual event that\nhappens in the future.\r\n
 やっぱり、実際に起こること……\nなんですね……\r\n=I knew it, it actually happened\nright.....?\r\n
 それで、作戦は成功したのか？\n{{A}}は倒せたのか？\r\n=So, did the mission work?\nDid you take down the {{A}}?\r\n
 一度は倒したと思ったんですけど\n逃げられてしまって……！\r\n=I thought we had defeated it once,\nBut it got away......!\r\n

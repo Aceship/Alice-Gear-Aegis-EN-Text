@@ -3,6 +3,8 @@
 
 {{A}}\n確認忘れずにお願いしますね\r\n={{A}}, Please don't forget to check it\r\n
 
+-switch-
+今、呼びましたか？\r\n=Did you just call me?\r\n
 
 - touch stuff -
 整備部の人たちに、アリスギアの諸元表など\nを見せていただいたんですけど\n実に興味深いですね……\r\n=The maintenance staff showed me the specification list of Alice Gear.and so on.It's really interesting. ......\r\n

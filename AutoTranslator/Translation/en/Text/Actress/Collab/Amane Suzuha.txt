@@ -2,6 +2,9 @@
 こんちはー！\nお腹空いたー\n美味しいもの食べに連れてってよ\r\n=Hello!\nI'm hungry!\nTake me out for a nice meal.\r\n
 支給だってさ\nなにが入ってるのかなー？\r\n=They're supplying it.\nI wonder what's in it?\r\n
 
+-switch-
+呼んだー？\r\n=You called?\r\n
+
 - touch stuff -
 うん、アクトレスの仕事は気に入ってるよ\nギアもかっこよくて使いやすいし\n宇宙空間を飛べるのが最高だよね\r\n=Yeah, I like what you do with the Actress.\nAnd the gear is so cool and easy to use.\nI love that you can fly through space.\r\n
 あたしたちの時代にタイムマシンができて\nすごいと思ったけど、ギアはもっとだね\n宇宙服ナシで宇宙に出られるなんて\n誰が想像できる？\r\n=I thought it was cool that they built a time machine in our time.\nI thought it was great, but the gears are even better.\nWho would have thought you could go into space without a spacesuit?\nWho would have thought?\r\n
