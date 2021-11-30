@@ -1,0 +1,63 @@
+行き掛かりとはいえ\nアクトレスをすることに\nなったわけだし……\r\n=Even though it was a dead end.\nI had to do the Actress.\nAnd that's why ......\r\n
+改めて自己紹介させて\r\n=Let me introduce myself again.\r\n
+{{A}}\n１８歳\r\n={{A}}\n18 years old\r\n
+わけあって{{A}}のラボの\nメンバーになってるけど――\r\n=I'm a member of the {{A}} lab for a reason.\nI'm a member of the {{A}} lab.\r\n
+普段はアメリカの大学で\n研究員をしてるの\r\n=I'm usually a researcher at an American university.\nI'm a researcher.\r\n
+{{A}}は\n飛び級で大学を卒業した\n天才少女なのです\r\n={{A}} is a\nShe skipped college.\nShe's a genius.\r\n
+ふわぁっ\nすごいっすね！\r\n=Whoa!\nThat's amazing!\r\n
+こちらでは\nそんな人、まず\n見たことないですね\r\n=Here.\nI've never seen anyone like that.\nI've ever seen.\r\n
+単純に教育制度の違いね\r\n=It's just a difference in the education system.\r\n
+州によって違うけど\n１学年２学年スキップする生徒は\n割といた\r\n=It varies from state to state.\nI've seen students skip a grade or two.\nI've seen.\r\n
+おぉーっ\n大変そうですね\r\n=Whoa!\nThat sounds like a lot of work.\r\n
+制度があっても\n私たちには難しそう\r\n=Even if there is a system\nIt seems difficult for us\r\n
+やっぱり{{A}}が\nすごいんだよー\r\n=I knew it. {{A}}.\nIt's amazing!\r\n
+得意なことを\nやってるだけだから……\r\n=I'm good at what I do.\nI'm just doing what I'm good at. ......\r\n
+あ、{{A}}――\r\n=Oh, {{A}}--\r\n
+一時的ですが、{{A}}で\nアクトレスとして活動しますので――\r\n=Temporarily, at {{A}}.\nI'll be working as an actress.\r\n
+
+-1-options-
+どうぞよろしく\r\n=pleased to meet you\r\n
+ではいまから貴様は{{A}}のアクトレスだ！=Then from now on, you are the {{A}} Actress!
+{{A}}は俺の嫁！={{A}} is my wife!
+
+-choice1-
+こちらこそ、よろしく=Nice to meet you, too.
+サンクス\nよかった、{{A}}がまともな人格者で\r\n=Thanks.\nThank God, {{A}} is a decent personality.\r\n
+{{A}}のラボでは最悪だったから\nセクハラはするわ、高圧的だわで……\r\n=I was in the lab at {{A}} and it sucked.\nThey're sexually harassing, they're overbearing, and they're ......\r\n
+{{A}}はそんなことしないから安心です\r\n={{A}} doesn't do that, don't worry.\r\n
+
+-choice2-
+あんたもあいつと同類か！\r\n=You're just like him!\r\n
+あんなの二人といらないから\n真似してるんだったら絶対やめて\r\n=I don't want either one of them.\nIf you're copying me, don't do it.\r\n
+{{A}}禁止！\r\n={{A}} ban!\r\n
+
+-choice3-
+なっ……このHENTAI!!\r\n=なっ...... this hentai!\r\n
+妄想乙！\nそんなの異論しかない\r\n=You're delusional!\nThat's just an objection.\r\n
+えっ、と……\nヨメ、ヘンタ……イ？\nどういうことですかね……？\r\n=Um, and ......\nYome, henta ...... y?\nWhat do you mean, ......?\r\n
+えっへへー\n心配いらないよー\r\n=Heh heh heh.\nDon't worry.\r\n
+ふたりがとっても仲良くなれて\n{{A}}は嬉しいのです\r\n=I'm glad that you two are getting along so well.\n{{A}} is happy!\r\n
+
+-After choice 1-
+俺だ\nその後、どうした？\r\n=I am.\nWhat happened after that?\r\n
+ラボメンナンバー004\nクリスティーナは\nアクトレスとやらになれたのか？\r\n=Lab Men Number 004\nChristina.\nCould she have been an Actress?\r\n
+あ、はい\nそうですね、調べたら\n適性があって――\r\n=Uh, yes.\nWell, I looked into it.\nI have an aptitude for--\r\n
+アクトレスとして充分\n活躍できそうです\r\n=As an actress.\nIt seems to be able to play an active part.\r\n
+なにっ\n未来で未知の能力を開花させるなど\n助手のくせに生意気な……\r\n=What?\nHe's going to develop unknown abilities in the future.\nYou're too cocky to be my assistant. ......\r\n
+なに？\n{{A}}と話してるの？\r\n=What?\nAre you talking to {{A}}?\r\n
+だったら伝えて\nアクトレスとしても\n私はあんたよりはるかに優秀だって\r\n=Then tell him.\nEven as an Actress.\nThat I'm much better than you.\r\n
+あはは……\n男の人は無理ですしね\r\n=Hahaha ......\nAnd it's impossible for a man to do that.\r\n
+そういえば\nクリスティーナって\n{{A}}の本名ですか？\r\n=Oh, by the way.\nChristina.\nIs that {{A}}'s real name?\r\n
+ティーナじゃないから！\r\n=Because I'm not Tina!\r\n
+クリスティーナで合っているぞ！\r\n=You're right, Christina!\r\n
+セレセブの実験大好きっ娘には\nふさわしい名だ！\r\n=For a girl who loves to experiment in Ceresebu.\nThat's an appropriate name!\r\n
+セレ……セブ……？\r\n=Cereal ...... cebu ......?\r\n
+そうだ\nそいつはすました顔をしていても\n中身は、ねらーのHENTAI天才少女\r\n=Yeah.\nHe may have a cool face, but...\nBut inside, she's a nerdy hentai genius.\r\n
+それがクリスティーーーーナだ！\r\n=That's Christina!\r\n
+とにかく{{A}}の言うことは\n真に受けないで\r\n=Anyway, what {{A}} says.\nDon't take him seriously.\r\n
+フゥーハハハハハ！\n{{A}}の諸君！\r\n=Whoohahahaha!\nGentlemen of the {{A}}!\r\n
+神に選ばれしマッドサイエンティスト\n偉大なる{{A}}の\n助手――\r\n=God's Chosen Mad Scientist\nThe great {{A}}.\nMy assistant.\r\n
+クリスティーナを\nよろしく頼むぞ！\r\n=Christina, please.\nTake care of her!\r\n
+助手じゃないし！\nティーナでもない！\r\n=And I'm not her assistant!\nAnd I'm not Tina!\r\n
+どうせ、そんなこと\n言ってたんでしょ\r\n=That's what you said anyway.\nThat's what you said.\r\n
+なんだか滅茶苦茶になっちゃったけど\nこれからよろしく\r\n=I know it's kind of a mess.\nI'm looking forward to working with you.\r\n

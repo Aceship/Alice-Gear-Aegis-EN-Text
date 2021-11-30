@@ -18,3 +18,8 @@ sr:"(?<num1_i>[0-9?/]+)年(?<num2_i>[0-9?/]+)月(?<num3_i>[0-9?/]+)日 登録"="
 将来の目標=Future goals
 
 備考=Remarks
+
+
+-Chara/Bond episode
+
+sr:"(?<story>.+) 開放条件"="Unlock Cond. :"
