@@ -1,5 +1,5 @@
 ん？　なにそれ？\nおまじない？\r\n=Hmm? What's that?\nA spell?\r\n
-いえ……\n特に意味はありません\r\n=No. ......\nIt doesn't mean anything.\r\n
+いえ……\n特に意味はありません\r\n=No.......\nIt doesn't mean anything.\r\n
 ふんふんふん～～♪\r\n=Mmm-hmmm～～♪\r\n
 バイト！\n真面目にやらねえと\nクビにすっぞ！\r\n=Part-timer!\nIf you don't take this seriously,\nI'll have you fired!\r\n
 ふふっ、はーい！\r\n=Haha, Okay!\r\n
@@ -24,6 +24,6 @@
 ノープランだということは\nなんだってできるということ\nなのだからな\r\n=No plan means,\nWe can do anything.\r\n
 だったら、{{A}}\n未来に行ってみたいな\r\n=Then, {{A}},\nlike to go to the future.\r\n
 なんかね、とっても遠いところで\nともだちができたような\n気がするんだよね……\r\n=Somehow, I feel like i've made \na friend in a very distant place\r\n
-ならば、会いに行こう！\n時を越えるなど造作もない！\nフゥーハハハハハハ!!!!\r\n=Then, let's go see them!\nThere's no big deal on crossing time!\nFuhahahaha !!!!\r\n
+ならば、会いに行こう！\n時を越えるなど造作もない！\nフゥーハハハハハハ!!!!\r\n=Then, let's go see them!\nThere's no big deal on crossing time!\nFuahahahaha !!!!\r\n
 俺は\n狂気のマッドサイエンティスト\n{{A}}！\r\n=I am,\nThe Crazy mad scientist,\n{{A}}!\r\n
 未来は、この俺の手の中にある!!\r\n=The future is in my hands!!\r\n
