@@ -21,7 +21,7 @@
 誰かが\nテストプレイでも――\r\n=Did somebody test play it...\r\n
 あ、いや……\nあのとき消し忘れて\n付けっぱだった……？\r\n=Ah, no.......\nI forgot to turn it off that time......?\r\n
 その時、電話レンジ（仮）改め\n{{A}}が\n奇跡的な確率で生まれた……\r\n=At that time, the PhoneWave (tentative) \nwas changed to {{A}}\nwas born with miraculous probability.....\r\n
-そして、何を隠そう\n{{A}}は\nタイムマシンなのだ\r\n=And what's more...\nThe {{A}}\nIs a time machine.\r\n
+そして、何を隠そう\n{{A}}は\nタイムマシンなのだ\r\n=And what's more...\nThe {{A}},\nIs a time machine.\r\n
 {{A}}でタイムマシンが生まれ\r\n=A time machine is born in {{A}}.\r\n
 {{A}}の端末と俺の携帯が繋がった\r\n={{A}}'s terminal is connected to my phone.\r\n
 俺たちが時間を越えて\n通話をしていることが\nなによりの証拠だったのだ\r\n=The proof is that we're talking \nthrough phone across time\r\n

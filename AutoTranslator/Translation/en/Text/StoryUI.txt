@@ -1,12 +1,16 @@
 
+sr:"(?<chp_i>[0-9]+)章"="Chp.${chp_i}"
+
 
 黎明編=Dawn
 -s1
 憧れは遠く=A Distant Longing
 月に叢雲、花に風=Tsuki ni Murakumo, Hana ni Kaze
+未知の敵{{B}}の攻撃で滅亡寸前までに陥った人類は\n{{A}}一の対抗手段であるアリスギアとアクトレスによって\nその危機を脱し、束の間の平穏な時代を過ごしていた。=Humanity has fallen to the brink of extinction due to the attack of an unknown enemy, {{B}}.\nBut with the help of Alice Gear and Actress, {{A}}'s only countermeasure\n{{A}}'s only countermeasure, the Alice Gear and Actress, and they have escaped the crisis and are enjoying a brief period of peace.
 
 -s2
 躍進編=Advancement
+東京シャード防衛を担っていた民間最大の{{B}}は、\n不祥事により消滅。アクトレス業界の再編が始まった。\n{{A}}は激化する企業競争を生き残れるのか？={{B}}, the largest private company responsible for the defense of the Tokyo Shard, has ceased to exist due to scandal.\nThe restructuring of the Actress industry has begun.\nCan {{A}} survive the intensifying corporate competition?
 
 -chapter
 新生！成子坂製作所=Narukozaka, Reborn!
@@ -20,6 +24,7 @@
 
 -s3
 陰謀編=Conspiracy
+{{A}}は大幅なアクトレス増員と設備投資により\n{{B}}に代わるアクトレス企業に発展しつつあった。\nしかし、それを好ましく思わない者たちもいた――={{A}}, with a significant increase in the number of actresses and capital investment\n{{A}} was developing into an Actress company to replace {{B}}.\nHowever, there were those who did not like it.
 
 -chapter
 -Pink Cyclone
@@ -33,6 +38,8 @@
 -s4
 激動編=Turmoil
 
+企業抗争の末、トップの座を守り抜いた{{A}}。\nその裏側で、東京シャードに未知の危機が迫っていた。\n増大する{{B}}の脅威に、対抗する手段はあるのか？=After a corporate war, {{A}} has defended its position at the top.\nBehind the scenes, an unknown crisis is looming over the Tokyo Shard.\nIs there any way to counter the growing threat of {{B}}?
+
 -chapter
 淵源からの呼び声=Calls from the Void
 アライアンス結成=Formation of the Alliance
@@ -43,5 +50,9 @@
 -s5
 
 覚醒編=Awakening
+{{B}}コロニーの脅威に、{{A}}はアクトレス\n事業者連合を結成。激闘の末ついに敵を消滅せしめた。\nその平穏の中、隠された過去が目覚めようとしていた。=In response to the threat of the {{B}} colony, the {{A}} formed the Actress\nAfter a fierce battle, the enemy is finally eliminated.\nIn the midst of this peace, a hidden past is about to be awakened.
 
+-s6
 
+侵蝕編=Erosion
+アキ作戦後の平和は次の戦いの始まりに過ぎなかった。\n迫り来る{{A}}の大規模侵攻。呼応して起きる内紛と\nテロリズム。戦火の果てにアクトレスは何を見るのか？=The peace that followed Operation Aki was only the beginning of the next battle.\nA massive invasion by the {{A}} is imminent, and in response, civil strife and terrorism erupt.\nWhat will the Actresses see at the end of the war?
