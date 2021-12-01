@@ -575,6 +575,23 @@ SOLラプター=SOL Raptor
 -Steins;Gate-
 紅莉栖・鈴羽・まゆり=Kurisu・Suzuha・Mayuri
 
+岡部 倫太郎=Okabe Rintaro
+鳳凰院 凶真=Hououin Kyouma
+凶真さん=Kyouma-san
+おかべさん=Okabe-san
+岡部さん=Okabe-san
+岡部=Okabe
+おかべ=Okabe
+オカリン=Okarin
+
+椎名 まゆり=Mayuri Shiina
+まゆり=Mayuri
+まゆしぃ=Mayushii
+トゥットゥルー=Tutturu
+
+橋田 至=Hashida Itaru
+ダルくん=Daru-kun
+
 牧瀬 紅莉栖=Makise Kurisu
 牧瀬紅莉栖=Makise Kurisu
 まきせ くりす=Makise Kurisu
@@ -588,25 +605,12 @@ SOLラプター=SOL Raptor
 鈴羽さん=Suzuha-san
 鈴羽=Suzuha
 
-椎名 まゆり=Mayuri Shiina
-まゆり=Mayuri
-まゆしぃ=Mayushii
-トゥットゥルー=Tutturu
+桐生 萌郁=Kiryu Moeka
+フェイリス=Feyris
+漆原 るか=Urushibara Ruka
 
-
-
-
-岡部 倫太郎=Okabe Rintaro
-鳳凰院 凶真=Hououin Kyouma
-凶真さん=Kyouma-san
-おかべさん=Okabe-san
-岡部さん=Okabe-san
-岡部=Okabe
-おかべ=Okabe
-オカリン=Okarin
-
-橋田 至=Hashida Itaru
-ダルくん=Daru-kun
+天王寺 裕吾=Tennouji Yuugo
+天王寺 綯=Tennouji Nae
 
 エル・プサイ・コングルゥ=El・Psy・Kongroo
 シュタインズゲート=Steins Gate

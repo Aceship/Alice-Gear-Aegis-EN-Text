@@ -39,7 +39,7 @@
 このままでは\n{{A}}を救うことはできない\nかもしれない……\r\n=If this goes on.....\nIt might be not possible to save {{A}}....\r\n
 …………っ\r\n=............\r\n
 何度も繰り返し\n{{A}}の死を回避しようとしたのに\nことごとく失敗した――\r\n=We've tried to avert the death \nof {{A}} over and over again,\nAnd every time we tried, it failed...\r\n
-この世界線において\n「{{A}}の死」という結果が\n収束しているのかもしれない……\r\n=In this world line,\nThe death of {{A}}\nmay be the convergence point.......\r\n
+この世界線において\n「{{A}}の死」という結果が\n収束しているのかもしれない……\r\n=In this world line,\nThe result of "The death of {{A}}"\nmay be the convergence point.......\r\n
 ……どういうことですか？\r\n=...... What do you mean?\r\n
 どう抗っても変えられない\n『運命』というものがある……\nということだ\r\n=There is such thing as "Destiny", even after \neverything we tried to do, it can't be changed......\nThat's what I'm saying.\r\n
 運命……\r\n=Destiny.....\r\n
