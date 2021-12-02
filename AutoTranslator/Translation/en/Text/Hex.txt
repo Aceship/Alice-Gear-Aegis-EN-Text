@@ -41,6 +41,10 @@ sr:"^(?<num_i>[0-9,]+)カラットを支払い\n調査宙域を変更します�
 sr:"^(?<num_i>[0-9,]+)ゴールドを支払い\nヘクスの調査を依頼しますか？\n<color%3D#e61836ff>※調査報酬は入手できません</color>"="Would you like to pay\n${num_i} gold\nand request a hex survey?\n<color%3D#e61836ff>* Survey rewards are not available</color>"
 sr:"^「調査目録」を(?<num_i>[0-9,]+)個使用して\nヘクスの調査を依頼しますか？"="Would you like to request a survey of the hex \nusing the ${num_i} "Survey Catalog"?"
 sr:"^完全回避(?<num_i>[0-9]+)回目"="Perfect evasion ${num_i} times"
+sr:"怒涛の完全回避連続9回目！"="Perfect Evasion ${num_i} times in a rage wave!"
+sr:"完全回避連続(?<num_i>[0-9]+)回達成！！"="${num_i} Perfect evasion in a row!!"
+sr:"完全回避(?<num_i>[0-9]+)回目ボーナス"="${num_i}x Perfect evasion bonus"
+sr:"完全回避(?<num_i>[0-9]+)完全回避"="Achieved ${num_i}x Perfect evasion"
 
 -hex stage name
 ヴァイス討伐=Vice suppression

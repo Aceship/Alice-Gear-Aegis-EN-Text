@@ -27,3 +27,8 @@
 8月8日　8=August 8 - 8
 選択無用の{{A}}=Choiceless {{A}}
 別れと再会のエピローグ=Epilogue of Farewell and Reunion
+チャレンジ任務：電撃編=Challenge Mission: Electric Edition
+チャレンジ任務：重力編=Challenge Mission: Gravity Edition
+特別周回任務：NORMAL=Special Round Mission: NORMAL
+特別周回任務：HARD=Special Round Mission: HARD
+特別周回任務：V-HARD=Special Round Mission: V-HARD

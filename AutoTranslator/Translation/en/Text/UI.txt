@@ -130,6 +130,7 @@ sr="^・★(?<num1_i>[0-9]+) (?<name>.+)Lv.(?<num2_i>[0-9]+)$"="・★${num1_i} 
 サポーター=Supporter
 隊長の誕生日=Captain's birthday
 {{A}}の誕生日={{A}}'s Birthday
+sr:"(?<month_i>[0-9]+)月(?<day_i>[0-9]+)日"="${month_i} - ${day_i}"
 累計ログイン日数=Login Day
 ボーナス履歴=Login Bonus\nhistory
 習熟訓練=Training
@@ -199,16 +200,17 @@ sr:"受け取り可能な項目が (?<num_i>[0-9]+) 件あります"="${num_i} i
 ※すでに取得していた場合、特典アイテムが貰えます=※Get special item from duplicate character
 
 -get scout tick
+スカウトカードについて=About Scout Card
 sr:"スカウトカードGETまで\n残り(?<num_i>[0-9]+)ポイント"=${num_i} points remaining \nuntil you get scout card
+sr:"(?<year_i>[0-9]+)年(?<month_i>[0-9]+)月(?<day_i>[0-9]+)日(?<hour_i>[0-9]+)時(?<minute_i>[0-9]+)分まで有効"=Valid until ${hour_i}:${minute_i} on ${day_i}/${month_i}/${year_i}
 
 --BD setting
 
 上記内容に同意し設定を変更する=Agree to the above contents\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nand change the settings
-※「隊長の誕生日」は何度でも変更が可能です=* You can change the captain's birthday \nas many times as you like.
-「隊長」の誕生日を設定するものであり、\nお客様ご自身の誕生日を設定するものでは\nございません。\nまた、設定内容はゲームサーバーに保存され\nないため、複数端末をご利用の場合、端末毎に\n設定する必要がございます。=It sets the birthday of the "captain", not the customer's own birthday. In addition, settings are not saved in the game server, so if you use multiple terminals, you need to set each terminal individually.
-隊長の誕生日設定=Captain's birthday setting
-隊長の誕生日を設定してください=Please set the captain's birthday
-
+※「{{A}}の誕生日」は何度でも変更が可能です=※ You can change the {{A}}'s birthday \nas many times as you like.
+「{{A}}」の誕生日を設定するものであり、\nお客様ご自身の誕生日を設定するものでは\nございません。\nまた、設定内容はゲームサーバーに保存され\nないため、複数端末をご利用の場合、端末毎に\n設定する必要がございます。=It sets the birthday of the "{{A}}", not the customer's own birthday. In addition, settings are not saved in the game server, so if you use multiple terminals, you need to set each terminal individually.
+{{A}}の誕生日設定={{A}}'s birthday setting
+{{A}}の誕生日を設定してください=Please set the {{A}}'s birthday
 
 --Login Bonus 
 sr:"開催期間：(?<num1_i>[0-9]+)年 (?<num2_i>[0-9]+)月 (?<num3_i>[0-9]+)日  (?<num4_i>[0-9:]+) まで"="Period : Until ${num3_i}-${num2_i}-${num1_i} at ${num4_i}"
@@ -240,8 +242,13 @@ sr:"開催期間：(?<num1_i>[0-9]+)年 (?<num2_i>[0-9]+)月 (?<num3_i>[0-9]+)�
 
 交換確認=Exchange confirmation
 ギフトークン=Gift token
-sr:"(?<name1>.[^0-9]+)(?<num1_i>[0-9]+)個消費して\n(?<name2>.+)(?<num2_i>[0-9]+)個交換します"=Use ${num1_i} ${name1} and\n exchange for ${num2_i} [${name2}]
 
+sr:"(?<num_i>[0-9]+)件のアイテムを交換します\nよろしいですか？"=Exchange ${num_i} items\nAre you sure ?
+
+sr:"(?<name1>.[^0-9]+)(?<num1_i>[0-9]+)個消費して\n(?<name2>.+)(?<num2_i>[0-9]+)個交換します"=Use ${num1_i} ${name1} and\n exchange for ${num2_i} [${name2}]
+sr:"(?<name>.+)×(?<num_i>[0-9]+)"=${name}×${num_i}
+sr:"(?<name>.+)［×(?<num_i>[0-9]+)］"=${name}［×${num_i}］
+sr:"※(?<num_i>[0-9]+)回交換できます"=※Exchange up to ${num_i} times
 
 --Multiplayer 
 -AEGiS合同指定任務-=-AEGiS Joint Designated Task-
@@ -302,6 +309,8 @@ ID検索のみ=ID only
 確認中=Checking
 リザルト中=In result screen
 
+ホストがルームを解散しました=The hosts have dismissed the room.
+ネットワークエラー=Network Error
 
 -end of multi mission
 秒でもどります=Sec. until return
@@ -311,10 +320,6 @@ ID検索のみ=ID only
 専用チームで登場するキャラクターは\nスカウトした際と能力が異なる場合があります=Characters appearing in the dedicated team\nmay have different abilities when scouted
 注意=Caution
 初回報酬=First\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   Rewards
-ゴールドクエスト　EASY=Gold Quest EASY
-ゴールドクエスト　NORMAL=Gold Quest NORMAL
-ゴールドクエスト　HARD=Gold Quest HARD
-ールドクエスト　V-HARD=Gold Quest V-HARD
 サポーターなし=Without supporters
 
 

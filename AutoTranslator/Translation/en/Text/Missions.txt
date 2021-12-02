@@ -96,8 +96,17 @@ sr:"討伐任務:(?<num_i>[0-9]+)件目"="Subdue Mission : ${num_i}"
 初回クリア報酬=First time clear reward
 
 -- Daily mission
+解析でんちクエスト=Analysis Battery Quest
 解析でんちクエスト　EASY=Analysis Battery Quest EASY
 解析でんちクエスト　NORMAL=Analysis Battery Quest NORMAL
 解析でんちクエスト　HARD=Analysis Battery Quest HARD
 解析でんちクエスト　V-HARD=Analysis Battery Quest V-HARD
-解析でんちクエスト=Analysis Battery Quest
+
+
+ゴールドクエスト=Gold Quest
+ゴールドクエスト　EASY=Gold Quest EASY
+ゴールドクエスト　NORMAL=Gold Quest NORMAL
+ゴールドクエスト　HARD=Gold Quest HARD
+ゴールドクエスト　V-HARD=Gold Quest V-HARD
+
+

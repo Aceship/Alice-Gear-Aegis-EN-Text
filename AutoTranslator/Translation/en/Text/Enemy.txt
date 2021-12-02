@@ -1,3 +1,8 @@
+sr:"エレク(?<enemy>.+)"=Elec ${enemy}
+sr:"グラヴィ(?<enemy>.+)"=Gravi ${enemy}
+sr:"ブレイズ(?<enemy>.+)"=Blaze ${enemy}
+sr:"フロスト(?<enemy>.+)"=Frost ${enemy}
+
 サーペント=Serpent
 ポイゾネルモス=Poisonel Moth
 エレクネルモス=Eleknel Moth
@@ -45,6 +50,9 @@ VWヘヴィ=Vice Worker Heavy
 リコサアラゴギ=Lycosa Aragogi
 クィンアルバ=Queen Alba
 
+ネペンテス=Nepenthes
+エレクネペンテス=Elec Nepenthes
+グラヴィネペンテス=Gravi Nepenthes
 
 --mini boss
 
