@@ -17,10 +17,8 @@ copy `BepInEx` folder to `alicegearaegisexe` folder
 
 ## Install Translation pack
 
-Copy `Autotranslator/translation` folder to `alicegearaegisexe/bepinex` folder 
+Copy the content of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` folder 
 
-Copy `AutoTranslatorConfig.ini` to `alicegearaegisexe/bepinex/config` folder
-
-
+It includes a plugin fix that resize the text box to follow the translated text
 
 if you have question you can ask `Aceship#8579` in discord 
