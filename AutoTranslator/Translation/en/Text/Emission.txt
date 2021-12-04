@@ -28,6 +28,7 @@ sr:"耐性：(?<element1>..)/(?<Stat1>.+)　(?<element2>..)/(?<Stat2>.+)　(?<el
 小減少=Small decrease
 減少=Decrease
 
-
-sr:"(?<element>..)攻撃力が (?<Stat>.+)する"="${Stat} ${element} damages"
+sr:"(?<element>..)攻撃力が (?<num1_i>[0-9]+)%上昇するが、防御力が (?<num2_i>[0-9]+)%低下する"="${element} attack power increased by ${num1_i}%, But defense reduced by ${num2_i}%"
+sr:"(?<element>..)攻撃力が (?<num1_i>[0-9]+)%上昇する"="${element} attack power increased by ${num1_i}%"
+-sr:"(?<element>..)攻撃力が (?<Stat>.+)する"="${Stat} ${element} damages"
 sr:"(?<element>..)攻撃力が (?<Stat>.+)するが、防御力が低下する"="${Stat} ${element} damages,\n at the cost of lowered defense"

@@ -54,20 +54,23 @@ sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインス�
 所持していません=There's nothing here
 表示するキャラがいません=There are no characters to display.
 
+
+--Days Left for events
+sr:"あと (?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
+sr:"あと (?<num_i>[0-9]+)時間"="${num_i} Hour R."
+
+sr:"残り(?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
+
+sr:"^(?<num_i>[0-9]+)日"="${num_i} Days"
+
 --Item name user
 
 sr:"^【(?<actress>[^【】]+) 専用】(?<after>[^【】]+)"="[Exclusive For ${actress}]\n${after}"
 
-時間=Hour.
+時間=Time
 日=Day
 分=Min.
 専用=Exclusive for
-
---Days Left for events
-sr:"あと (?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
-sr:"残り(?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
-
-sr:"^(?<num_i>[0-9]+)日"="${num_i} Days"
 
 
 --Simplified Menu 
@@ -483,6 +486,8 @@ SPゲージ=SP gauge
 進化=Evo
 得意属性=Strong attribute
 得意=Good at
+
+sr:"(?<num_i>[0-9]+)秒間"="${num_i} Sec."
 
 既に他のキャラクターが使用中です=Already used by another character
 sr:"^すでに(?<actress>.+)が装備しています\n付け替えてよろしいですか？"="It's already equipped on\n[${actress}]\nAre you sure you\nwant to change it?"
