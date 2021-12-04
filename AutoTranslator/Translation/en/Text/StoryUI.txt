@@ -6,11 +6,11 @@ sr:"(?<chp_i>[0-9]+)章"="Chp.${chp_i}"
 -s1
 憧れは遠く=A Distant Longing
 月に叢雲、花に風=Tsuki ni Murakumo, Hana ni Kaze
-未知の敵{{B}}の攻撃で滅亡寸前までに陥った人類は\n{{A}}一の対抗手段であるアリスギアとアクトレスによって\nその危機を脱し、束の間の平穏な時代を過ごしていた。=Humanity has fallen to the brink of extinction due to the attack of an unknown enemy, {{B}}.\nBut with the help of Alice Gear and Actress, {{A}}'s only countermeasure\n{{A}}'s only countermeasure, the Alice Gear and Actress, and they have escaped the crisis and are enjoying a brief period of peace.
-
+未知の敵{{B}}の攻撃で滅亡寸前までに陥った人類は\n{{A}}一の対抗手段であるアリスギアとアクトレスによって\nその危機を脱し、束の間の平穏な時代を過ごしていた。=Mankind, who was on the verge of extinction due to the attack of an unknown enemy Vice, escaped the crisis with the only countermeasures Alice Gear and Actress, and had a brief and peaceful time. 
+未知の敵{{A}}の攻撃で滅亡寸前までに陥った人類は\n唯一の対抗手段であるアリスギアとアクトレスによって\nその危機を脱し、束の間の平穏な時代を過ごしていた。=Mankind, who was on the verge of extinction due to the attack of an unknown enemy Vice, escaped the crisis with the only countermeasures Alice Gear and Actress, and had a brief and peaceful time. 
 -s2
 躍進編=Advancement
-東京シャード防衛を担っていた民間最大の{{B}}は、\n不祥事により消滅。アクトレス業界の再編が始まった。\n{{A}}は激化する企業競争を生き残れるのか？={{B}}, the largest private company responsible for the defense of the Tokyo Shard, has ceased to exist due to scandal.\nThe restructuring of the Actress industry has begun.\nCan {{A}} survive the intensifying corporate competition?
+東京シャード防衛を担っていた民間最大の{{B}}は、\n不祥事により消滅。アクトレス業界の再編が始まった。\n{{A}}は激化する企業競争を生き残れるのか？={{B}}, the largest private company responsible for the defense of the Tokyo Shard, disappears due to a scandal. The restructuring of the Actress industry has begun. Can {{A}} survive the intensifying corporate competition?
 
 -chapter
 新生！成子坂製作所=Narukozaka, Reborn!

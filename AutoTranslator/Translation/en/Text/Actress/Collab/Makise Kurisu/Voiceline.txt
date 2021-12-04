@@ -2,6 +2,7 @@
 グッドモーニング、朝ごはん食べました？\nまだなら一緒にどうですか？\r\n=Good morning. Have you eaten breakfast? \nIf you haven't, would you like to join us?\r\n
 グッドイブニング\nそろそろ今日のお仕事は終わりですか？\r\n=Good Evening.\nAre you almost done with work for the day?\r\n
 ふぁぁ……ひゃあっ！\nた、{{A}}!?　いつからそこに？\r\n=Huh. ...... hiya!\nHow long have you been there, {{A}}?\r\n
+ハロー、お仕事忙しそうですね\n私も手伝いますよ？\r\n=Hello. You've been busy with work.\nI'll help you, okay?\r\n
 
 {{A}}\n確認忘れずにお願いしますね\r\n={{A}}, Please \ndon't forget to check it\r\n
 
