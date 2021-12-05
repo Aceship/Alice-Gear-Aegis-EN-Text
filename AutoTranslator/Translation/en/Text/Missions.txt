@@ -109,4 +109,11 @@ sr:"討伐任務:(?<num_i>[0-9]+)件目"="Subdue Mission : ${num_i}"
 ゴールドクエスト　HARD=Gold Quest HARD
 ゴールドクエスト　V-HARD=Gold Quest V-HARD
 
+アニマクエスト=Anima Quest
+アニマクエスト　EASY=Anima Quest EASY
+アニマクエスト　NORMAL=Anima Quest NORMAL
+アニマクエスト　HARD=Anima Quest HARD
+アニマクエスト　V-HARD=Anima Quest V-HARD
+
+
 
