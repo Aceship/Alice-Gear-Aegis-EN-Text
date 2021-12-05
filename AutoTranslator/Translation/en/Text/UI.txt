@@ -195,7 +195,7 @@ sr:"＜【Lv.(?<num1_i>[0-9]+)】(?<Quest>.+)＞\nスカウトカード を (?<n
 一括受け取り=Receive All
 受け取る=Receive
 
-sr:"受け取り期限：あと(?<num_i>[0-9]+)(?<after>[\s\S]+)"="Pickup Deadline: ${num_i} ${after} left"
+sr:"受け取り期限：あと(?<num_i>[0-9]+)(?<after>[\s\S]+)"="Until: ${num_i} ${after} left"
 sr:"アイテム有効期限：あと(?<num_i>[0-9]+)(?<after>[\s\S]+)"="Item expiration: ${num_i} ${after} left"
 sr:"受け取り可能な項目が (?<num_i>[0-9]+) 件あります"="${num_i} items can be recieved"
 最終結果を見る=View Results
