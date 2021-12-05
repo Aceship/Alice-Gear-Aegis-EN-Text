@@ -20,7 +20,22 @@ sr:"(?<num1_i>[0-9?/]+)年(?<num2_i>[0-9?/]+)月(?<num3_i>[0-9?/]+)日 登録"="
 
 備考=Remarks
 
+-Jobs 
+フリーター=Freeter
+ローカルアイドル=Local Idol
+ウィッチ=Witch
+FAガール=FA Girl
+キャバ嬢=Hostess
+派遣事務員=Temporary Clerk
+アナウンサー=Announcer
+ミュージシャン=Musician
+料理人=Chef
+AEGiS職員=AEGiS Staff
+中学生=Junior High School Student
+高校生=Senior High School Student
+大学生=University Student
+高校生/モデル=High School Student/Model
 
 -Chara/Bond episode
 
-sr:"(?<story>.+) 開放条件"="Unlock Cond. :"
+sr:"(?<story>.+) 開放条件"="${story} - Unlock Cond. :"
