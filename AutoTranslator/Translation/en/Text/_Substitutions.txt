@@ -652,6 +652,7 @@ Dメール=D-Mail
 
 \\ETC
 ヴァイス=vice
+ピッピ=Pippi
 
 -common stuff
 
