@@ -454,6 +454,42 @@
 アンジー=Angie
 アンジェリカ=Angelica
 
+
+//Tokyo Security
+尾長 晶乃=Onaga Akino
+尾長晶乃=Onaga Akino
+尾長さん=Onaga-san
+晶乃さん=Akino-san
+晶乃ちゃん=Akino-chan
+晶乃=Akino
+尾長=Onaga
+
+
+麻野 愛=Asano Ai
+麻野愛=Asano Ai
+麻野=Asano
+
+高畑 夏穂=Takahata Kaho
+高畑夏穂=Takahata Kaho
+高畑=Takahata
+夏穂=Kaho
+
+住田 恭子=Sumita Kyoko
+住田恭子=Sumita Kyoko
+住田=Sumita
+恭子=Kyoko
+
+比名 澄依=Hina Sui
+比名澄依=Hina Sui
+比名=Hina
+澄依=Sui
+
+友江 ソフィー安寿=Tomoe Sophie Ange
+友江ソフィー安寿=Tomoe Sophie Ange
+友江=Tomoe
+
+
+
 -Collab Chara-
 
 -FAG-
