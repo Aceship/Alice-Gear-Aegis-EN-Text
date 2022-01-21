@@ -1,0 +1,34 @@
+クオリア=Qualia
+所持クオリア=Qualia Owned
+解放セル=Limit-Break cell
+セル解放ボーナス=Cell Limit-Break Bonus
+解放=Limit-Break 
+
+獲得回数=Acq. count
+取得済み=Acquired
+スロット解放=Slot Limit-break
+
+スキル強化=Skill Enhancement
+
+
+修得SPスキル=Acquired SP Skills
+上昇ステータス=Increased status
+修得パッシブスキル=Acquired Passive Skills
+取得ボーナス=Acquisition Bonus
+
+マスターレベル=Master level
+セル詳細=Cell detail
+
+ステータスアップ=Status up
+<color%3D#ff0000ff>※上昇値は各種スキルによる補正が入る前の値です</color>=<color%3D#ff0000ff>The value of the increase is the value before the correction by various skills.</color>
+
+スキルスロット開放=Skill slot unlocked
+
+sr:"キャラLv.(?<num_i>[0-9]+)で解放"=Limit-Break at character Lv.${num_i}
+sr:"パッシブスキルスロット(?<num_i>[0-9]+)解放"=Passive skill slot ${num_i} released
+sr:"slot(?<num_i>[0-9]+)に装備中"=Equipped in slot ${num_i}
+sr:"マスターLv.(?<num_i>[0-9]+)で解放"=Unlocked at Master Lv.${num_i}
+
+実装をお待ち下さい=Please wait for implementation.
+未所持=Not Owned
+<color%3D#ff0000ff>※スキル効果補正適用済みの数値です</color>=<color%3D#ff0000ff>These figures have been adjusted for skill effects.</color>
