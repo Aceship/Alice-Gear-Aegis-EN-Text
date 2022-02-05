@@ -16,7 +16,7 @@ https://github.com/bbepis/XUnity.AutoTranslator
 
 Download link : https://github.com/bbepis/XUnity.AutoTranslator/releases
 
-Download newest release with `BepInEx` 
+Download newest release with `BepInEx` in its name 
 
 copy `BepInEx` folder to `alicegearaegisexe` folder 
 
