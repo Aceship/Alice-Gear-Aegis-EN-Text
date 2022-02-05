@@ -16,6 +16,9 @@ copy `BepInEx` folder to `alicegearaegisexe` folder
 
 
 ## Install Translation pack
+Download the zip (top right)
+
+![image](https://user-images.githubusercontent.com/5337323/152638413-4312c6be-f340-48a8-92d4-42786bf0680f.png)
 
 Copy the content of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` folder 
 
