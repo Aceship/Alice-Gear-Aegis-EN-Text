@@ -36,4 +36,4 @@ Copy the content of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` 
 
 It includes a plugin fix that resize the text box to follow the translated text
 
-if you have question you can ask `Aceship#8579` in discord 
+if you have question you can join alice gear discord server https://discord.gg/yQY6NWJ or ask `Aceship#8579` in discord 
