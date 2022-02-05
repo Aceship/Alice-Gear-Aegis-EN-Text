@@ -7,6 +7,8 @@ https://github.com/BepInEx/BepInEx
 
 Download link : https://github.com/BepInEx/BepInEx/releases
 
+Choose newest release with `x64` in it 
+
 copy to `alicegearaegisexe` folder 
 
 
@@ -16,7 +18,7 @@ https://github.com/bbepis/XUnity.AutoTranslator
 
 Download link : https://github.com/bbepis/XUnity.AutoTranslator/releases
 
-Download newest release with `BepInEx` in its name 
+Download newest release with `BepInEx` in its name (without IL2CPP)
 
 copy `BepInEx` folder to `alicegearaegisexe` folder 
 
