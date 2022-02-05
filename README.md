@@ -5,6 +5,8 @@ for use with PC DMM alice gear
 ## Install Bepinex
 https://github.com/BepInEx/BepInEx
 
+Download link : https://github.com/BepInEx/BepInEx/releases
+
 copy to `alicegearaegisexe` folder 
 
 
@@ -12,15 +14,23 @@ copy to `alicegearaegisexe` folder
 
 https://github.com/bbepis/XUnity.AutoTranslator
 
+Download link : https://github.com/bbepis/XUnity.AutoTranslator/releases
+
+Download newest release with `BepInEx` 
+
 copy `BepInEx` folder to `alicegearaegisexe` folder 
 
 
 ## Install Translation pack
 Download the zip (top right)
 
-![image](https://user-images.githubusercontent.com/5337323/152638413-4312c6be-f340-48a8-92d4-42786bf0680f.png)
+![image](https://user-images.githubusercontent.com/5337323/152658874-7564d4da-c2c5-4f36-ba99-4a6fc5d96327.png)
+
 
 Copy the content of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` folder 
+
+![image](https://user-images.githubusercontent.com/5337323/152658920-e87b5a20-7525-4394-bb90-6be607572284.png)
+
 
 It includes a plugin fix that resize the text box to follow the translated text
 
