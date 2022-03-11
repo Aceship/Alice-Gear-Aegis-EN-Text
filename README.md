@@ -1,6 +1,6 @@
-# Alice-Gear-Aegis-EN-Text
+# Alice-Gear-Aegis-ZH-Text
 
-for use with PC DMM alice gear
+供dmm端使用
 
 ## Install Bepinex
 https://github.com/BepInEx/BepInEx
