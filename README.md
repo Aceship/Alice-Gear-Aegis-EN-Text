@@ -11,6 +11,9 @@ Choose newest release with `x64` in it
 
 copy to `alicegearaegisexe` folder 
 
+it should look like this when installed
+
+![explorer_8utJ32bPNr](https://user-images.githubusercontent.com/5337323/167054907-6d84c36e-44ac-45ab-8e25-f27ec1fd513e.png)
 
 ## Install Auto Translator 
 
