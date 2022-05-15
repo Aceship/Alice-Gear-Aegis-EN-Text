@@ -57,9 +57,9 @@ sr:"ダウンロードサイズが約(?<num_i>[0-9]+)MBあります\nインス�
 
 --Days Left for events
 sr:"あと (?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
-sr:"あと (?<num_i>[0-9]+)時間"="${num_i} Hour R."
-
 sr:"残り(?<num_i>[0-9]+)(?<time>.+)"="${num_i} ${time} R."
+sr:"あと (?<num_i>[0-9]+)時間"="${num_i} Hour R."
+sr:"残り(?<num_i>[0-9]+)時間"="${num_i} Hour R."
 
 sr:"^(?<num_i>[0-9]+)日"="${num_i} Days"
 
@@ -659,6 +659,7 @@ BGM音量=BGM volume
 移動操作感度=Move operation sensitivity
 バトルボタンの反応速度向上=Improved reaction speed of battle buttons
 バトル一時停止中のカメラモード有効化=Enable camera mode in battle
+バトル中のマウスカーソルウインドウ外抑制=Lock mouse cursor inside window\nduring battle
 
 
 -Home Tabs
@@ -718,6 +719,8 @@ Web表示モード2=Web display mode 2
 ゴールド/アニマ所持上限警告を非表示=Hide gold/anima possession limit warning
 
 インストールデータの整理=Organize the installation data
+
+SP演出中のカメラモード有効化=Enable camera mode during SP Move
 
 -Keybinding
 

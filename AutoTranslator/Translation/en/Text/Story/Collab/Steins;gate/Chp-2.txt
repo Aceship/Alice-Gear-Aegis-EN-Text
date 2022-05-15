@@ -88,4 +88,5 @@
 ……タイムマシン？\r\n=...... time machine?\r\n
 ほら、いきなりそんなこと言ったら\nヘンな人だと思われるでしょう？\r\n=Look, if you say something like that\nout of the blue, people will think\nyou're weird, right?\r\n
 大丈夫だよー、{{A}}\n{{B}}はわかるのです\r\n=It's okay, {{A}}.\n{{B}} know it\r\n
+大丈夫だよー、{{B}}\n{{A}}はわかるのです\r\n=It's okay, {{B}}.\n{{A}} know it\r\n
 ふたりはいい人だから\nきっと助けてくれるよ\r\n=They're good people\nThey'll help us\r\n

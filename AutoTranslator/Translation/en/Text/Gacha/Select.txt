@@ -1,0 +1,4 @@
+sr:"確定で入手する★(?<num_i>[0-9]+)キャラクターを\n1名選択してください"=★${num_i} characters to be obtained by confirmation\nPlease select one person 
+
+sr:"上記キャラを確定した上で\nカラット を (?<num_i>[0-9]+) 個利用して\n＜(?<name>.+)＞\nを実行します\nよろしいですか？"=This will select\nthe character above\nusing ${num_i} carats\n＜${name}＞\nAre you sure?
+※注意※\nこのスカウトはスカウトレベルに影響せず\nレアリティ別に規定の人数が提供されます\n\n提供キャラ及びレアリティ毎の提供割合は\n「キャラクター提供割合」をご確認ください\n\n選択できる★3…1人\n★3…3人\n★2…7人=Note: This Scout does not affect the Scout level, \nbut provides the specified number of characters per rarity.\n\nPlease refer to the "Character Offer Ratio" \nfor the offered characters \nand the offer ratio for each rarity.\n\nSelectable \n★3...1 person \n★3...3 person \n★2...7 person

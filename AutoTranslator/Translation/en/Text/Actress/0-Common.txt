@@ -1,4 +1,4 @@
-sr:"【年齢】(?<num1_i>[0-9?/]+)\n【誕生日】(?<num2_i>[0-9?/]+)\n【血液型】(?<num1_i>[ABO?/]+)"="【Age】${num1_i}\n【Birthday】${num2_i}\n【Blood Type】${num3_i}"
+sr:"【年齢】(?<num1_i>[0-9?/]+)\n【誕生日】(?<num2_i>[0-9?/]+)\n【血液型】(?<num3_i>[ABO?/]+)"="【Age】${num1_i}\n【Birthday】${num2_i}\n【Blood Type】${num3_i}"
 sr:"(?<num1_i>[0-9?/]+)年(?<num2_i>[0-9?/]+)月(?<num3_i>[0-9?/]+)日 登録"="Registeration date : ${num3_i}-${num2_i}-${num1_i}"
 
 起動日=Startup

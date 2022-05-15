@@ -22,13 +22,19 @@
 ステータスアップ=Status up
 <color%3D#ff0000ff>※上昇値は各種スキルによる補正が入る前の値です</color>=<color%3D#ff0000ff>The value of the increase is the value before the correction by various skills.</color>
 
+エニグマ未解放のため変更不可=Cannot be changed as the Enigma has not been unlocked
 スキルスロット開放=Skill slot unlocked
 
+sr:"パッシブスキルスロット(?<num_i>[0-9]+)キャパシティ拡張"=P.Skill slot ${num_i} cap increased
+sr:"パッシブスキルスロット(?<num_i>[0-9]+)付け替え機能解放"=P.Skill slot ${num_i} now replaceable
 sr:"キャラLv.(?<num_i>[0-9]+)で解放"=Limit-Break at character Lv.${num_i}
-sr:"パッシブスキルスロット(?<num_i>[0-9]+)解放"=Passive skill slot ${num_i} released
+sr:"パッシブスキルスロット(?<num_i>[0-9]+)解放"=Passive skill slot ${num_i} unlocked
 sr:"slot(?<num_i>[0-9]+)に装備中"=Equipped in slot ${num_i}
 sr:"マスターLv.(?<num_i>[0-9]+)で解放"=Unlocked at Master Lv.${num_i}
 
+装着する=Equip
 実装をお待ち下さい=Please wait for implementation.
+実装をお待ちください=Please wait for implementation.
 未所持=Not Owned
+ボーナス取得済み=Bonus already acquired
 <color%3D#ff0000ff>※スキル効果補正適用済みの数値です</color>=<color%3D#ff0000ff>These figures have been adjusted for skill effects.</color>

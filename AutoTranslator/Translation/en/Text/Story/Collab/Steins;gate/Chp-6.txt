@@ -27,6 +27,7 @@
 はいはい、それに決まり！\n分かりやすくていいよ\r\n=Yes, yes, let's go with it!\nIt's easy to understand.\r\n
 {{A}}に伝えてもらえる？\nこれは決定事項だ――と\r\n=Can you tell {{A}}?\nThat this is already decided\r\n
 岡……{{B}}\n{{A}}の提案で\n{{C}}に決定しました！\r\n=Oka......{{B}}\nAt the suggestion of {{A}}\nWe've decided to go with {{C}}!\r\n
+岡……{{A}}\n{{B}}の提案で\n{{C}}に決定しました！\r\n=Oka......{{A}}\nAt the suggestion of {{B}}\nWe've decided to go with {{C}}!\r\n
 なっ……\nクリスティーナめ……\r\n=Ugh......\nDamn you, Christina......\r\n
 すみません\n通信がつながっているうちに\n作戦を\r\n=Excuse me,\nWhile the communication is still \nconnected, We need a plan.\r\n
 ああ、そうだな\nわかっている\r\n=Yeah, right,\nI know.\r\n

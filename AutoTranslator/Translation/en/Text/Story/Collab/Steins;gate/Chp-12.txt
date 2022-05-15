@@ -25,6 +25,7 @@
 {{A}}でタイムマシンが生まれ\r\n=A time machine is born in {{A}}.\r\n
 {{A}}の端末と俺の携帯が繋がった\r\n={{A}}'s terminal is connected to my phone.\r\n
 俺たちが時間を越えて\n通話をしていることが\nなによりの証拠だったのだ\r\n=The proof is that we're talking \nthrough phone across time\r\n
+俺たちが時間を越えて\n通話していることが\nなによりの証拠だったのだ\r\n=The fact that we were talking \nacross time was proof enough of that.\r\n
 そして、時を同じくして\n俺たちも電話レンジ（仮）で\n実験を行っていた……！\r\n=And at the same time...\nWe were also experimenting with \nthe PhoneWave (tentative)......!\r\n
 我がラボの電話レンジ（仮）と\n{{A}}\n二つのタイムマシンの発動――\r\n=Our lab's PhoneWave (tentative) and\n{{A}}\nTwo time machine activations--\r\n
 時を越えた{{A}}実験の\n奇跡のシンクロニシティが\r\n=The miraculous synchronicity of the \ntimeless {{A}} experiment.
