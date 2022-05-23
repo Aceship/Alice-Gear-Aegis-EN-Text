@@ -32,7 +32,7 @@ Download the zip (top right)
 ![image](https://user-images.githubusercontent.com/5337323/152658874-7564d4da-c2c5-4f36-ba99-4a6fc5d96327.png)
 
 
-Copy the content of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` folder 
+Extract the **`content`** of the  `Autotranslator` folder to `alicegearaegisexe/bepinex` folder 
 
 ![image](https://user-images.githubusercontent.com/5337323/152658920-e87b5a20-7525-4394-bb90-6be607572284.png)
 
