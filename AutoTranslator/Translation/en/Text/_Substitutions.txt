@@ -597,6 +597,7 @@ SOLラプター=SOL Raptor
 かすみ=Kasumi
 マリー・ローズ=Marie Rose
 マリー=Marie
+女天狗=Nyotengu
 
 -PTD-
 ユキ=Yuki
