@@ -1,0 +1,9 @@
+大アップ=Rate Up
+人=p
+料理人を選ぶ=Choose a chef
+大成功目標人数=High Success Target
+料理=Food
+料理作成=Cooking
+料理担当者=Chef
+次の報酬まで=Next Reward :
+食材一覧=Ingredients List
